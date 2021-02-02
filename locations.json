@@ -1,0 +1,5570 @@
+[
+  {
+    "city": "Lompoc",
+    "address": "325 N. Second Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "1",
+    "org_id": ""
+  },
+  {
+    "city": "Carpinteria",
+    "address": "941 Walnut Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "2",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1532 Castillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "3",
+    "org_id": "2, 863"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "721 Spring Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "8",
+    "org_id": "7"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "327 E. Victoria Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "10",
+    "org_id": "6"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1107 San Andres Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "11",
+    "org_id": "9"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2021 Castillo Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "12",
+    "org_id": "10"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 W. Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "13",
+    "org_id": "10"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": " 2434 Bath Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "14",
+    "org_id": "10"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1515 Bath Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "15",
+    "org_id": "14"
+  },
+  {
+    "city": "Lompoc ",
+    "address": "1100 W Laurel Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "16",
+    "org_id": "15"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "234 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "17",
+    "org_id": "15"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "535 E. Yanonali Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "18",
+    "org_id": "826"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "P.O. Box 446",
+    "zip": "93102",
+    "state": "CA",
+    "id": "19",
+    "org_id": "827"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1227 San Andres St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "20",
+    "org_id": "827"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "731 E Haley St",
+    "zip": "93103",
+    "state": "CA",
+    "id": "21",
+    "org_id": "827"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "23 W Mission St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "22",
+    "org_id": "827"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "231 W Haley St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "23",
+    "org_id": "827"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1818 Bath Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "24",
+    "org_id": "830"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "604 N. Kellog Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "25",
+    "org_id": "831"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "832 Jennings Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "26",
+    "org_id": "832"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1121 Walnut Ave",
+    "zip": "93101",
+    "state": "CA",
+    "id": "27",
+    "org_id": "833"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5018 Calle Real Road",
+    "zip": "93111",
+    "state": "CA",
+    "id": "28",
+    "org_id": "833"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "400 W. Pueblo Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "29",
+    "org_id": "834"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "133 W. Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "30",
+    "org_id": "835"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "24 W. Arrellaga Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "31",
+    "org_id": "838"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "535 E. Yanonali Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "32",
+    "org_id": "838"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "316 W. Montecito Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "33",
+    "org_id": "834"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "423 Chapala Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "34",
+    "org_id": "843"
+  },
+  {
+    "city": "Ventura",
+    "address": "P.O. Box 1064",
+    "zip": "93002",
+    "state": "CA",
+    "id": "35",
+    "org_id": "844"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "232 E. Canon Perdido Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "36",
+    "org_id": "835"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "26 W. Figueroa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "39",
+    "org_id": "855"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "24 W. Arrellaga Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "40",
+    "org_id": "838"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4129 State Street ",
+    "zip": "93110",
+    "state": "CA",
+    "id": "44",
+    "org_id": "858"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "205 W. Mission Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "46",
+    "org_id": "860"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "47",
+    "org_id": "861"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "48",
+    "org_id": "862"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "125 Harbor Way, Marine Center Classroom",
+    "zip": "93109",
+    "state": "CA",
+    "id": "49",
+    "org_id": "863"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "235 E. Cota",
+    "zip": "93101",
+    "state": "CA",
+    "id": "50",
+    "org_id": "864, 889"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 W. Haley Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "51",
+    "org_id": "865"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1515 Bath Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "52",
+    "org_id": "866"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "235 E. Cota Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "53",
+    "org_id": "867, 877, 892"
+  },
+  {
+    "city": "Lompoc ",
+    "address": "109 N H Street ",
+    "zip": "93436",
+    "state": "CA",
+    "id": "54",
+    "org_id": "869"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "130 E Ortega Street ",
+    "zip": "93101",
+    "state": "CA",
+    "id": "56",
+    "org_id": "868"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "125 E De La Guerra St Ste A",
+    "zip": "93101",
+    "state": "CA",
+    "id": "58",
+    "org_id": "870"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "1300 Santa Barbara St Ste A ",
+    "zip": "93101",
+    "state": "CA",
+    "id": "59",
+    "org_id": "871"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "3700 State Street Ste 200 ",
+    "zip": "93105",
+    "state": "CA",
+    "id": "60",
+    "org_id": "872"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "1019 Chapala Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "61",
+    "org_id": "873"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "909 La Cumbre Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "75",
+    "org_id": "876, 883, 884"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "Leadbetter Beach",
+    "zip": "93101",
+    "state": "CA",
+    "id": "78",
+    "org_id": "885"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "125 Harbor Way",
+    "zip": "93109",
+    "state": "CA",
+    "id": "79",
+    "org_id": "886"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "127 E. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "80",
+    "org_id": "887"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2434 Bath Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "81",
+    "org_id": "888"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 E. Arrellaga Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "82",
+    "org_id": "890"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "21 E. Constance Avenue",
+    "zip": "93105",
+    "state": "CA",
+    "id": "83",
+    "org_id": "891"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "305 E. Anapamu Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "84",
+    "org_id": "893"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 W. Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "85",
+    "org_id": "894"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": " 721 Cliff Drive",
+    "zip": "93109",
+    "state": "CA",
+    "id": "86",
+    "org_id": "895"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "113 Harbor Way",
+    "zip": "93109",
+    "state": "CA",
+    "id": "87",
+    "org_id": "896"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2964 Las Canoas Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "88",
+    "org_id": "897"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "601 E. Montecito Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "89",
+    "org_id": "898"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "627 Bath Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "90",
+    "org_id": "899"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "112 W. Cabrillo Boulevard",
+    "zip": "93101",
+    "state": "CA",
+    "id": "91",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "906 De La Vina Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "92",
+    "org_id": "901"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "21 E. Constance Avenue",
+    "zip": "93105",
+    "state": "CA",
+    "id": "93",
+    "org_id": "902"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5073 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "94",
+    "org_id": "903"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5444 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "95",
+    "org_id": "904"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4575 Auhay Drive",
+    "zip": "93110",
+    "state": "CA",
+    "id": "96",
+    "org_id": "905"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "83 Eucalyptus Lane",
+    "zip": "93108",
+    "state": "CA",
+    "id": "98",
+    "org_id": "906"
+  },
+  {
+    "city": "Goleta",
+    "address": "6067 Shirrell Way",
+    "zip": "93117",
+    "state": "CA",
+    "id": "100",
+    "org_id": "907"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2101 State Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "101",
+    "org_id": "923"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "1535 Santa Barbara Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "104",
+    "org_id": "924"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1964 Las Canoas Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "105",
+    "org_id": "925"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1455 E. Valley Road",
+    "zip": "93108",
+    "state": "CA",
+    "id": "106",
+    "org_id": "927"
+  },
+  {
+    "city": "Montecito",
+    "address": "1300 E. Valley Road",
+    "zip": "93108",
+    "state": "CA",
+    "id": "107",
+    "org_id": "928"
+  },
+  {
+    "city": "Goleta",
+    "address": "6586 Picasso Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "108",
+    "org_id": "929"
+  },
+  {
+    "city": "Goleta",
+    "address": "5679 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "109",
+    "org_id": "930"
+  },
+  {
+    "city": "Goleta",
+    "address": "550 Cambridge Drive",
+    "zip": "93117",
+    "state": "CA",
+    "id": "110",
+    "org_id": "931"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1111 Vallecito Road",
+    "zip": "93103",
+    "state": "CA",
+    "id": "111",
+    "org_id": "933"
+  },
+  {
+    "city": "Summerland",
+    "address": "2400 Lillie Avenue",
+    "zip": "93108",
+    "state": "CA",
+    "id": "112",
+    "org_id": "934"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5444 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "113",
+    "org_id": "935"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "100 Linden Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "114",
+    "org_id": "936"
+  },
+  {
+    "city": "Goleta",
+    "address": "998 Sandspit Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "115",
+    "org_id": "937"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "87 Parker Way",
+    "zip": "93101",
+    "state": "CA",
+    "id": "116",
+    "org_id": "938"
+  },
+  {
+    "city": "Goleta",
+    "address": "5070 Cathedral Oaks Road",
+    "zip": "93111",
+    "state": "CA",
+    "id": "117",
+    "org_id": "939"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2558 Borton Drive",
+    "zip": "93109",
+    "state": "CA",
+    "id": "118",
+    "org_id": "940"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1335 Vallecito Place",
+    "zip": "93013",
+    "state": "CA",
+    "id": "119",
+    "org_id": "941"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 E. Arrellaga Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "120",
+    "org_id": "942"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5300 El Carro Lane",
+    "zip": "93013",
+    "state": "CA",
+    "id": "121",
+    "org_id": "943"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "4610 Carpinteria Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "122",
+    "org_id": "944"
+  },
+  {
+    "city": "Santa Maria ",
+    "address": "2125 S Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "123",
+    "org_id": "873"
+  },
+  {
+    "city": "Goleta",
+    "address": "761 Camino Pescadero",
+    "zip": "93117",
+    "state": "CA",
+    "id": "124",
+    "org_id": "945"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "816 Cacique Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "125",
+    "org_id": "946"
+  },
+  {
+    "city": "Goleta",
+    "address": "5486 Calle Real",
+    "zip": "93111",
+    "state": "CA",
+    "id": "126",
+    "org_id": "947"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "215 Los Aguajes Avenue",
+    "zip": "93101",
+    "state": "CA",
+    "id": "127",
+    "org_id": "948"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5018 Calle Real ",
+    "zip": "93111",
+    "state": "CA",
+    "id": "128",
+    "org_id": "949"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1915 Chapala Street",
+    "zip": "93111",
+    "state": "CA",
+    "id": "129",
+    "org_id": "950"
+  },
+  {
+    "city": "Goleta",
+    "address": "5905 Sandspit Road",
+    "zip": "93111",
+    "state": "CA",
+    "id": "130",
+    "org_id": "951"
+  },
+  {
+    "city": "Goleta",
+    "address": "677 North Turnpike Road",
+    "zip": "93111",
+    "state": "CA",
+    "id": "131",
+    "org_id": "952"
+  },
+  {
+    "city": "Goleta",
+    "address": "380 N. Fairview",
+    "zip": "93117",
+    "state": "CA",
+    "id": "132",
+    "org_id": "953"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1059 Vallecito",
+    "zip": "93013",
+    "state": "CA",
+    "id": "133",
+    "org_id": "954"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "400 Puente Drive",
+    "zip": "93110",
+    "state": "CA",
+    "id": "134",
+    "org_id": "955"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "107 E. Micheltorena Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "135",
+    "org_id": "956"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "608 Anacapa St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "136",
+    "org_id": "957"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "830 W. Church St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "137",
+    "org_id": "958"
+  },
+  {
+    "city": "Lompoc",
+    "address": "113 N. F Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "138",
+    "org_id": "958"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1414 S. Miller St. ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "139",
+    "org_id": "958"
+  },
+  {
+    "city": "Lompoc",
+    "address": "133 North F St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "140",
+    "org_id": "958"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "141",
+    "org_id": "959"
+  },
+  {
+    "city": "Santa Ynez",
+    "address": "3694 Tivola St B",
+    "zip": "93460",
+    "state": "CA",
+    "id": "142",
+    "org_id": "960"
+  },
+  {
+    "city": "Lompoc",
+    "address": "113 N. F Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "143",
+    "org_id": "958"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "CA",
+    "id": "144",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "245 E. Inger Drive ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "145",
+    "org_id": "961"
+  },
+  {
+    "city": "Lompoc",
+    "address": "113 South M Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "146",
+    "org_id": "961"
+  },
+  {
+    "city": "Lompoc",
+    "address": "604 W. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "147",
+    "org_id": "961"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "",
+    "id": "148",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 E College Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "149",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "129 N. I Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "150",
+    "org_id": "963"
+  },
+  {
+    "city": "Lompoc",
+    "address": "113 N. V Street ",
+    "zip": "93436",
+    "state": "CA",
+    "id": "151",
+    "org_id": "963"
+  },
+  {
+    "city": "Lompoc",
+    "address": "119 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "152",
+    "org_id": "963"
+  },
+  {
+    "city": "Lompoc",
+    "address": "119 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "153",
+    "org_id": "897"
+  },
+  {
+    "city": "Lompoc",
+    "address": "118 N. A Street ",
+    "zip": "93436",
+    "state": "CA",
+    "id": "154",
+    "org_id": ""
+  },
+  {
+    "city": "Solvang",
+    "address": "1760 Mission Drive",
+    "zip": "93463",
+    "state": "CA",
+    "id": "155",
+    "org_id": "966"
+  },
+  {
+    "city": "Solvang",
+    "address": "320 Alisal Road",
+    "zip": "93463",
+    "state": "CA",
+    "id": "156",
+    "org_id": "967"
+  },
+  {
+    "city": "Buellton",
+    "address": "164 W. Hwy 246",
+    "zip": "93427",
+    "state": "CA",
+    "id": "157",
+    "org_id": "968"
+  },
+  {
+    "city": "Lompoc",
+    "address": "2800 Harris",
+    "zip": "93436",
+    "state": "CA",
+    "id": "158",
+    "org_id": "9"
+  },
+  {
+    "city": "Solvang",
+    "address": " 1760 Mission Drive #G",
+    "zip": "93463",
+    "state": "CA",
+    "id": "159",
+    "org_id": "969"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1017 E. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "160",
+    "org_id": "958"
+  },
+  {
+    "city": "Lompoc",
+    "address": "513 N. G Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "161",
+    "org_id": "957"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1812 Bungalow Dr.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "162",
+    "org_id": "970"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401-B W. Morrison Avenue",
+    "zip": "93454",
+    "state": "CA",
+    "id": "163",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1207 N. McClelland Road",
+    "zip": "93454",
+    "state": "CA",
+    "id": "164",
+    "org_id": "973"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "412 E. Tunnell st.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "165",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "412b E Tunnell St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "166",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "245 E. Inger Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "167",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "115 E. Fesler Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "168",
+    "org_id": "858"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "801 E. Chapel Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "169",
+    "org_id": "974"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "318 W. Carmel Lane",
+    "zip": "93454",
+    "state": "CA",
+    "id": "170",
+    "org_id": "975"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1414 S. Miller Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "171",
+    "org_id": "976"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "301 S. Miller Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "172",
+    "org_id": "977"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401 W. Morrison Avenue",
+    "zip": "93458",
+    "state": "CA",
+    "id": "173",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1517 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "174",
+    "org_id": "979"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "209 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "175",
+    "org_id": "980"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "324 W. Cypress St",
+    "zip": "93458",
+    "state": "CA",
+    "id": "176",
+    "org_id": "981"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "209 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "177",
+    "org_id": "982"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "209 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "178",
+    "org_id": "983"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "408 N. McClelland Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "179",
+    "org_id": "984"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1027 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "180",
+    "org_id": "985"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "1015 Guadalupe Street",
+    "zip": "93434",
+    "state": "CA",
+    "id": "181",
+    "org_id": "987"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "324 W. Cypress Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "182",
+    "org_id": "968"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "324 W. Cypress Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "183",
+    "org_id": "968"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1022 Butterfly Court",
+    "zip": "93454",
+    "state": "CA",
+    "id": "184",
+    "org_id": "968"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "209 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "185",
+    "org_id": "968"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1822 Baylor Lane",
+    "zip": "93454",
+    "state": "CA",
+    "id": "186",
+    "org_id": "968"
+  },
+  {
+    "city": "Orcutt",
+    "address": "540 Mooncrest Lane",
+    "zip": "93455",
+    "state": "CA",
+    "id": "187",
+    "org_id": "968"
+  },
+  {
+    "city": "Orcutt",
+    "address": "3980 Dartmouth Lane",
+    "zip": "93455",
+    "state": "CA",
+    "id": "188",
+    "org_id": "968"
+  },
+  {
+    "city": "Orcutt",
+    "address": "993 Patterson Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "189",
+    "org_id": "988"
+  },
+  {
+    "city": "Orcutt",
+    "address": "126 S. Broadway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "190",
+    "org_id": "989"
+  },
+  {
+    "city": "Orcutt",
+    "address": "993 Patterson Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "191",
+    "org_id": "9"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1265 W. McCoy Road ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "192",
+    "org_id": "990"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1822 Baylor Lane",
+    "zip": "93454",
+    "state": "CA",
+    "id": "193",
+    "org_id": "991"
+  },
+  {
+    "city": "Orcutt",
+    "address": "993 Patterson Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "194",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "509 W. Morrison Ave",
+    "zip": "93454",
+    "state": "CA",
+    "id": "195",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "731 S. Lincoln Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "196",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2320 Thompson Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "197",
+    "org_id": "958"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "123 S. College Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "198",
+    "org_id": "957"
+  },
+  {
+    "city": "Goleta",
+    "address": "5679 Hollister Ave ",
+    "zip": "93117",
+    "state": "CA",
+    "id": "199",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "327 Bath Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "200",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "906 De La Vina Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "201",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5444 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "202",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "112 W. Cabrillo Boulevard",
+    "zip": "93101",
+    "state": "CA",
+    "id": "203",
+    "org_id": "997"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5444 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "204",
+    "org_id": "998"
+  },
+  {
+    "city": "Goleta",
+    "address": "4575 Auhay Drive",
+    "zip": "93110",
+    "state": "CA",
+    "id": "205",
+    "org_id": "999"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1027 N. Main Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "206",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "129 N. I Street Ste. E",
+    "zip": "93436",
+    "state": "CA",
+    "id": "207",
+    "org_id": "1001"
+  },
+  {
+    "city": "Lompoc",
+    "address": "119 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "208",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "119 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "209",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "118 N. A Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "210",
+    "org_id": "1004"
+  },
+  {
+    "city": "Lompoc",
+    "address": "113 S M Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "211",
+    "org_id": "961"
+  },
+  {
+    "city": "Lompoc",
+    "address": "604 W. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "212",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "232 East Canon Perdido Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "215",
+    "org_id": "835"
+  },
+  {
+    "city": "Los Angeles",
+    "address": "4470 West Sunset Boulevard",
+    "zip": "90027",
+    "state": "CA",
+    "id": "216",
+    "org_id": "1005"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1530 Chapala Street ",
+    "zip": "93101",
+    "state": "CA",
+    "id": "217",
+    "org_id": "1006"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "120 East Jones Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "218",
+    "org_id": "1006"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "P.O. Box 6562",
+    "zip": "93160",
+    "state": "CA",
+    "id": "219",
+    "org_id": "1008"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1000 W. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "220",
+    "org_id": "1009"
+  },
+  {
+    "city": "Lompoc",
+    "address": "2025 Sweeny Road",
+    "zip": "93436",
+    "state": "CA",
+    "id": "221",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "411 E. Canon Perdido St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "222",
+    "org_id": "1010"
+  },
+  {
+    "city": "Lompoc",
+    "address": "203 N. N Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "223",
+    "org_id": "961"
+  },
+  {
+    "city": "Lompoc",
+    "address": "815 W. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "224",
+    "org_id": "1011"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "CA",
+    "id": "227",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "648 N. G Streeet ",
+    "zip": "93436",
+    "state": "CA",
+    "id": "228",
+    "org_id": "1012"
+  },
+  {
+    "city": "Lompoc",
+    "address": "500 N. T Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "229",
+    "org_id": "1013"
+  },
+  {
+    "city": "Lompoc",
+    "address": "504 N. T Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "230",
+    "org_id": "1013"
+  },
+  {
+    "city": "Lompoc",
+    "address": "725 N. E Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "231",
+    "org_id": "1013"
+  },
+  {
+    "city": "Lompoc",
+    "address": "729 N. E Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "232",
+    "org_id": "1013"
+  },
+  {
+    "city": "Lompoc",
+    "address": "733 N. E Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "233",
+    "org_id": "1013"
+  },
+  {
+    "city": "Buellton",
+    "address": "580 Central Ave",
+    "zip": "93427",
+    "state": "CA",
+    "id": "234",
+    "org_id": "1013"
+  },
+  {
+    "city": "Buellton",
+    "address": "614 Central Ave",
+    "zip": "93427",
+    "state": "CA",
+    "id": "235",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "11 East Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "236",
+    "org_id": "1013"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "CA",
+    "id": "237",
+    "org_id": ""
+  },
+  {
+    "city": "Lompoc",
+    "address": "104 S. C Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "238",
+    "org_id": "961"
+  },
+  {
+    "city": "Lompoc",
+    "address": "117 N. B Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "239",
+    "org_id": "1014"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1010 N. H Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "240",
+    "org_id": "1015"
+  },
+  {
+    "city": "Lompoc",
+    "address": "513 N. G Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "241",
+    "org_id": "1016"
+  },
+  {
+    "city": "Santa Ynez",
+    "address": "90 Via Juana Lane",
+    "zip": "93460",
+    "state": "CA",
+    "id": "242",
+    "org_id": "1017"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1515 E. Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "243",
+    "org_id": "1018"
+  },
+  {
+    "city": "Buellton",
+    "address": "164 W. Highway 246",
+    "zip": "93427",
+    "state": "CA",
+    "id": "244",
+    "org_id": "1019"
+  },
+  {
+    "city": "Lompoc",
+    "address": "135 S. E Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "245",
+    "org_id": "1020"
+  },
+  {
+    "city": "Lompoc",
+    "address": "500 E. North Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "246",
+    "org_id": "1021"
+  },
+  {
+    "city": "Lompoc",
+    "address": "314 N. N Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "247",
+    "org_id": "1022"
+  },
+  {
+    "city": "Lompoc",
+    "address": "403 N. J Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "248",
+    "org_id": "1023"
+  },
+  {
+    "city": "Lompoc",
+    "address": "125 N. C Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "249",
+    "org_id": "1024"
+  },
+  {
+    "city": "Lompoc",
+    "address": "213 W. Olive Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "250",
+    "org_id": "1025"
+  },
+  {
+    "city": "Lompoc",
+    "address": "816 N. C Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "251",
+    "org_id": "1026"
+  },
+  {
+    "city": "Lompoc",
+    "address": "38 N. B Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "252",
+    "org_id": "1027"
+  },
+  {
+    "city": "Los Alamos",
+    "address": "260 Gonzales Drive",
+    "zip": "93440",
+    "state": "CA",
+    "id": "253",
+    "org_id": "1028"
+  },
+  {
+    "city": "Solvang",
+    "address": "1760 Mission Drive",
+    "zip": "93463",
+    "state": "CA",
+    "id": "254",
+    "org_id": "1029"
+  },
+  {
+    "city": "Lompoc",
+    "address": "925 N. F Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "255",
+    "org_id": "1030"
+  },
+  {
+    "city": "Lompoc",
+    "address": "917 W. Ocean Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "256",
+    "org_id": "1031"
+  },
+  {
+    "city": "Lompoc",
+    "address": "213 N. J Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "257",
+    "org_id": "1032"
+  },
+  {
+    "city": "Los Alamos",
+    "address": "690 Bell Street",
+    "zip": "93440",
+    "state": "CA",
+    "id": "258",
+    "org_id": "1033"
+  },
+  {
+    "city": "Lompoc",
+    "address": "213 North J Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "259",
+    "org_id": "1034"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1100 W. Laurel Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "260",
+    "org_id": "1035"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "234 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "261",
+    "org_id": "1035"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Centerpointe Pkwy",
+    "zip": "93455",
+    "state": "CA",
+    "id": "262",
+    "org_id": "1035"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1535 Santa Barbara St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "263",
+    "org_id": "1036"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1500 State Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "264",
+    "org_id": "1036"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "305 E. Anapamu Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "265",
+    "org_id": "1036"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "21 E. Constance Avenue",
+    "zip": "93105",
+    "state": "CA",
+    "id": "266",
+    "org_id": "1036"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2101 State Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "267",
+    "org_id": "1036"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1111 Vallecito Road",
+    "zip": "93013",
+    "state": "CA",
+    "id": "268",
+    "org_id": "1036"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "892 Camino Del Sur",
+    "zip": "93117",
+    "state": "CA",
+    "id": "269",
+    "org_id": "1036"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "125 W. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "270",
+    "org_id": "1037"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2904 State Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "271",
+    "org_id": "1038"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "66 S. San Antonio Street",
+    "zip": "93110",
+    "state": "CA",
+    "id": "272",
+    "org_id": "1039"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2612 Modoc Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "273",
+    "org_id": "1040"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "26 E. Victoria Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "274",
+    "org_id": "1041"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "4090 Via Real",
+    "zip": "93013",
+    "state": "CA",
+    "id": "275",
+    "org_id": "1041"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "681 Ash Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "276",
+    "org_id": "1041"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1305 Dahlia Court",
+    "zip": "93013",
+    "state": "CA",
+    "id": "277",
+    "org_id": "1041"
+  },
+  {
+    "city": "Goleta",
+    "address": "10 Longshore Place",
+    "zip": "93117",
+    "state": "CA",
+    "id": "278",
+    "org_id": "1041"
+  },
+  {
+    "city": "Goleta",
+    "address": "360 Ellwood Beach Drive",
+    "zip": "93117",
+    "state": "CA",
+    "id": "279",
+    "org_id": "1041"
+  },
+  {
+    "city": "Goleta",
+    "address": "6660 Abrego Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "280",
+    "org_id": "1041"
+  },
+  {
+    "city": "Goleta",
+    "address": "6822 Phelps Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "281",
+    "org_id": "1041"
+  },
+  {
+    "city": "Goleta",
+    "address": "155 S. Kellogg Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "282",
+    "org_id": "1041"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4202 11th Street",
+    "zip": "93434",
+    "state": "CA",
+    "id": "283",
+    "org_id": "1041"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "230 Calle Cesar Chavez",
+    "zip": "93434",
+    "state": "CA",
+    "id": "284",
+    "org_id": "1041"
+  },
+  {
+    "city": "Lompoc",
+    "address": "648 North G Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "285",
+    "org_id": "1041"
+  },
+  {
+    "city": "Orcutt",
+    "address": "290 Parkview South",
+    "zip": "93455",
+    "state": "CA",
+    "id": "286",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "21 E. Anapamu Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "287",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "510 N. Salsipuedes",
+    "zip": "93103",
+    "state": "CA",
+    "id": "288",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "322 Ladera Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "289",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4234 Pozzo Circle",
+    "zip": "93110",
+    "state": "CA",
+    "id": "290",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "24 E. Victoria Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "291",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "210 W. Victoria Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "292",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1026 W. Boone Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "293",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1148 W. Boone Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "294",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "525 South Russell Avenue",
+    "zip": "93458",
+    "state": "CA",
+    "id": "295",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "665 Sierra Madre Avenue",
+    "zip": "93454",
+    "state": "CA",
+    "id": "296",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "280 E. Newlove Drive",
+    "zip": "93458",
+    "state": "CA",
+    "id": "297",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1760 S. McClelland",
+    "zip": "93458",
+    "state": "CA",
+    "id": "298",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "250 E. Newlove Drive",
+    "zip": "93458",
+    "state": "CA",
+    "id": "299",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "324 E. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "300",
+    "org_id": "990"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4597 Hollister Avenue",
+    "zip": "93110",
+    "state": "CA",
+    "id": "301",
+    "org_id": "1042"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "320 E. Gutierrez Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "302",
+    "org_id": "1043"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "222 W. Valiero Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "303",
+    "org_id": "1044"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "312",
+    "org_id": "1045"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "400 W. Pueblo Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "313",
+    "org_id": "1046"
+  },
+  {
+    "city": "Goleta",
+    "address": "351 S Patterson Ave",
+    "zip": "93111",
+    "state": "CA",
+    "id": "314",
+    "org_id": "1046"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "305 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "315",
+    "org_id": "1047"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2034 De La Vina Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "316",
+    "org_id": "1048"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "403 East Montecito Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "317",
+    "org_id": "1049"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "334 South Patterson",
+    "zip": "93111",
+    "state": "CA",
+    "id": "318",
+    "org_id": "1050"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "324 East Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "319",
+    "org_id": "1051"
+  },
+  {
+    "city": "Lompoc",
+    "address": "3769 Constellation Rd",
+    "zip": "93436",
+    "state": "CA",
+    "id": "320",
+    "org_id": "1051"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "608 Anacapa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "321",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "123 S College Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "322",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4444 Calle Real",
+    "zip": "93110",
+    "state": "CA",
+    "id": "323",
+    "org_id": "1053, 1014"
+  },
+  {
+    "city": "Goleta",
+    "address": "53 Cass Place",
+    "zip": "93117",
+    "state": "CA",
+    "id": "324",
+    "org_id": "1054"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "240 E. Roemer Way",
+    "zip": "93454",
+    "state": "CA",
+    "id": "325",
+    "org_id": "1055"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "617 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "326",
+    "org_id": "1056"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "923 Olive Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "327",
+    "org_id": "1057"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2020 Alameda Padre Serra",
+    "zip": "93103",
+    "state": "CA",
+    "id": "328",
+    "org_id": "859"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "350 S. Hope Ave.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "329",
+    "org_id": "1058"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "115 West Ca\u00f1on Perdido Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "330",
+    "org_id": "1059"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "500 West Foster Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "331",
+    "org_id": "1014"
+  },
+  {
+    "city": "Lompoc",
+    "address": "100 Civic Center Plaza",
+    "zip": "93436",
+    "state": "CA",
+    "id": "333",
+    "org_id": "1060"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "100 Castillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "334",
+    "org_id": "1061"
+  },
+  {
+    "city": "Solvang",
+    "address": "431 Second Street",
+    "zip": "93463",
+    "state": "CA",
+    "id": "335",
+    "org_id": "1062"
+  },
+  {
+    "city": "Goleta",
+    "address": "6586 Picasso Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "336",
+    "org_id": "1063"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1303 Fairway Dr.",
+    "zip": "93455",
+    "state": "CA",
+    "id": "337",
+    "org_id": "1064"
+  },
+  {
+    "city": "Lompoc",
+    "address": "729 North H St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "338",
+    "org_id": "1065"
+  },
+  {
+    "city": "Goleta",
+    "address": "6550 Picasso Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "339",
+    "org_id": "1066"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3249 Terminal Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "340",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "120 East Jones Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "341",
+    "org_id": "1068"
+  },
+  {
+    "city": "Lompoc",
+    "address": "102 E Ocean Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "343",
+    "org_id": "1068"
+  },
+  {
+    "city": "Santa Ynez",
+    "address": "890 N Refugio Rd",
+    "zip": "93454",
+    "state": "CA",
+    "id": "344",
+    "org_id": "1068"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1100 Anacapa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "345",
+    "org_id": "1069"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "312-P East Cook Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "346",
+    "org_id": "1069"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "4285 California Blvd",
+    "zip": "93455",
+    "state": "CA",
+    "id": "347",
+    "org_id": "1069"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 Civic Center Plaza",
+    "zip": "93436",
+    "state": "CA",
+    "id": "348",
+    "org_id": "1069"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1100 Anacapa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "349",
+    "org_id": "1070"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "312 E. Cook Street",
+    "zip": "93456",
+    "state": "CA",
+    "id": "350",
+    "org_id": "1070"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 Civic Center Plaza",
+    "zip": "93436",
+    "state": "CA",
+    "id": "351",
+    "org_id": "1070"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "609 E. Haley St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "352",
+    "org_id": "1071"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1500 Linden Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "353",
+    "org_id": "1071"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "607 W. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "354",
+    "org_id": "1071"
+  },
+  {
+    "city": "Lompoc",
+    "address": "325 North Second Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "355",
+    "org_id": "1071"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4681 11th St.",
+    "zip": "93434",
+    "state": "CA",
+    "id": "356",
+    "org_id": "1071"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "6647 El Colegio Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "357",
+    "org_id": "1071"
+  },
+  {
+    "city": "New Cuyama",
+    "address": "4711 Hwy. 166",
+    "zip": "93254",
+    "state": "CA",
+    "id": "358",
+    "org_id": "1071"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "117 E Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "359",
+    "org_id": "1072"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4500 Hollister Avenue",
+    "zip": "93110",
+    "state": "CA",
+    "id": "360",
+    "org_id": "1072"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "3900 Paradise Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "361",
+    "org_id": "1072"
+  },
+  {
+    "city": "Lompoc",
+    "address": "415 East Cypress Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "362",
+    "org_id": "1072"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2121 S. Centerpointe Parkway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "363",
+    "org_id": "1072"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "4263 California Boulevard",
+    "zip": "93455",
+    "state": "CA",
+    "id": "364",
+    "org_id": "1072"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "124 Carmen Lane ",
+    "zip": "93458",
+    "state": "CA",
+    "id": "365",
+    "org_id": "1072"
+  },
+  {
+    "city": "Lompoc",
+    "address": "604 E. Ocean Ave ",
+    "zip": "93436",
+    "state": "CA",
+    "id": "366",
+    "org_id": "1073"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 Civic Center Plaza",
+    "zip": "93436",
+    "state": "CA",
+    "id": "367",
+    "org_id": "1074"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "312 East Cook Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "368",
+    "org_id": "1074"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1100 Anacapa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "369",
+    "org_id": "1074"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "300 N. San Antonio Rd",
+    "zip": "93110",
+    "state": "CA",
+    "id": "371",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "345 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "372",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "345 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "373",
+    "org_id": "1076"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "931 Walnut Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "374",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "345 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "375",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "376",
+    "org_id": "1076"
+  },
+  {
+    "city": "Lompoc",
+    "address": "301 N. R Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "377",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2115 S. Centerpointe Parkway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "378",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "225 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "379",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 E. Mason St",
+    "zip": "93103",
+    "state": "CA",
+    "id": "380",
+    "org_id": "1076"
+  },
+  {
+    "city": "Lompoc",
+    "address": "301 North R Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "381",
+    "org_id": "1076"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "175 Cremona Drive",
+    "zip": "93117",
+    "state": "CA",
+    "id": "382",
+    "org_id": "1077"
+  },
+  {
+    "city": "Lompoc",
+    "address": "425 W. Central Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "383",
+    "org_id": "1078"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1225 North H St",
+    "zip": "93436",
+    "state": "CA",
+    "id": "384",
+    "org_id": "1079"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "506 East Plaza Drive ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "385",
+    "org_id": "1080"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1444 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "386",
+    "org_id": "15"
+  },
+  {
+    "city": "Solvang",
+    "address": "545 N. Alisal Road",
+    "zip": "93463",
+    "state": "CA",
+    "id": "387",
+    "org_id": "1081"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "617 Garden St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "388",
+    "org_id": "1082"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1100 W. Laurel Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "389",
+    "org_id": "1083"
+  },
+  {
+    "city": "Lompoc",
+    "address": "120 W. Chestnut Avenue",
+    "zip": "93437",
+    "state": "CA",
+    "id": "391",
+    "org_id": ""
+  },
+  {
+    "city": "Los Angeles",
+    "address": "320 West 4th Street",
+    "zip": "90013",
+    "state": "CA",
+    "id": "393",
+    "org_id": "1085"
+  },
+  {
+    "city": "Lompoc",
+    "address": "401 E. Cypress Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "394",
+    "org_id": "1086"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1601 N H Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "395",
+    "org_id": "1087"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "523 S McClelland Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "396",
+    "org_id": "1087"
+  },
+  {
+    "city": "Goleta",
+    "address": "7127 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "397",
+    "org_id": "1087"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "535 Castillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "398",
+    "org_id": "1087"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "110 West Sola Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "399",
+    "org_id": "1088"
+  },
+  {
+    "city": "Santa Barbara ",
+    "address": "234 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "400",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1401 Chapala Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "401",
+    "org_id": "1088"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1209 State Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "402",
+    "org_id": "1088"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1100 W Laurel Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "403",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Centerpointer Pkwy",
+    "zip": "93455",
+    "state": "CA",
+    "id": "404",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1444 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "405",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "304 W. Carmen Lane",
+    "zip": "93458",
+    "state": "CA",
+    "id": "406",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1410 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "407",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "50 E. Alamar Avenue",
+    "zip": "93105",
+    "state": "CA",
+    "id": "408",
+    "org_id": "1090"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "130 E. Ortega Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "409",
+    "org_id": "1089"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "P.O. Box 60524",
+    "zip": "93160",
+    "state": "CA",
+    "id": "410",
+    "org_id": "1091"
+  },
+  {
+    "city": "Buellton",
+    "address": "111 Commerce Drive ",
+    "zip": "93427",
+    "state": "CA",
+    "id": "411",
+    "org_id": "1092"
+  },
+  {
+    "city": "Goleta",
+    "address": "5473 Overpass Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "412",
+    "org_id": "1093"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1501 West Central Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "413",
+    "org_id": "1093"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "548 W. Foster Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "415",
+    "org_id": "1093"
+  },
+  {
+    "city": "Lompoc",
+    "address": "101 East Chestnut",
+    "zip": "93436",
+    "state": "CA",
+    "id": "416",
+    "org_id": "1094"
+  },
+  {
+    "city": "Lompoc",
+    "address": "124 N I St",
+    "zip": "93436",
+    "state": "CA",
+    "id": "417",
+    "org_id": "1099"
+  },
+  {
+    "city": "Buellton",
+    "address": "56 West Hwy 246",
+    "zip": "93427",
+    "state": "CA",
+    "id": "418",
+    "org_id": "1100"
+  },
+  {
+    "city": "Solvang",
+    "address": "1689 Oak Street",
+    "zip": "93463",
+    "state": "CA",
+    "id": "419",
+    "org_id": "1101"
+  },
+  {
+    "city": "Santa Ynez",
+    "address": "3630 Sagunto St G",
+    "zip": "93460",
+    "state": "CA",
+    "id": "420",
+    "org_id": "1102"
+  },
+  {
+    "city": "Buellton",
+    "address": "175 McMurray Rd",
+    "zip": "93427",
+    "state": "CA",
+    "id": "421",
+    "org_id": "1081"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2215 Skyway Dr",
+    "zip": "93455",
+    "state": "CA",
+    "id": "422",
+    "org_id": "1103"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "409 E Church St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "424",
+    "org_id": "1104"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1782 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "425",
+    "org_id": "1105"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "210 E Enos Dr.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "426",
+    "org_id": "1106"
+  },
+  {
+    "city": "Goleta",
+    "address": "380 N. Fairview Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "427",
+    "org_id": "1107"
+  },
+  {
+    "city": "Goleta",
+    "address": "595 N. Fairview Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "428",
+    "org_id": "1108"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "781 Embarcadero Del Mar",
+    "zip": "93117",
+    "state": "CA",
+    "id": "429",
+    "org_id": "1109"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1136 E. Montecito Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "430",
+    "org_id": "1110"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5201 8th Street",
+    "zip": "93013",
+    "state": "CA",
+    "id": "431",
+    "org_id": "1110"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "432",
+    "org_id": "1110"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "222 W Carmen Ln",
+    "zip": "93458",
+    "state": "CA",
+    "id": "433",
+    "org_id": "1111"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "434",
+    "org_id": "1112"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "435",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "110 S Pine St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "436",
+    "org_id": "1114"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "423 W. Victoria Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "437",
+    "org_id": "1115"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "110 S Pine St",
+    "zip": "93458",
+    "state": "CA",
+    "id": "438",
+    "org_id": "1116"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1136 E. Montecito Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "439",
+    "org_id": "1118"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "210 E Enos Dr",
+    "zip": "93454",
+    "state": "CA",
+    "id": "440",
+    "org_id": "1117"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 E. Mason Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "441",
+    "org_id": "1119"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "509 W. Morrison Avenue",
+    "zip": "93458",
+    "state": "CA",
+    "id": "442",
+    "org_id": "1120"
+  },
+  {
+    "city": "Goleta",
+    "address": "11 Camino De Vida",
+    "zip": "93111",
+    "state": "CA",
+    "id": "443",
+    "org_id": "1121"
+  },
+  {
+    "city": "Goleta",
+    "address": "5679 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "444",
+    "org_id": "1122"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "200 W. Cook Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "445",
+    "org_id": "843"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1532 Linden Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "446",
+    "org_id": "1123"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1026 Sierra Madre Avenue",
+    "zip": "93454",
+    "state": "CA",
+    "id": "447",
+    "org_id": "1124"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401-D W. Morrison Avenue",
+    "zip": "93454",
+    "state": "CA",
+    "id": "448",
+    "org_id": "961"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5201 8th Street",
+    "zip": "93013",
+    "state": "CA",
+    "id": "449",
+    "org_id": "1125"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401-A W. Morrison Avenue",
+    "zip": "98454",
+    "state": "CA",
+    "id": "450",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "200 W. Williams Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "451",
+    "org_id": "1011"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "235 Inger Dr",
+    "zip": "93454",
+    "state": "CA",
+    "id": "452",
+    "org_id": "961"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "CA",
+    "id": "453",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1660 S. Broadway ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "454",
+    "org_id": ""
+  },
+  {
+    "city": "Isla Vista",
+    "address": "6586 Picasso Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "455",
+    "org_id": "1127"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "531 East Ortega Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "456",
+    "org_id": "1127"
+  },
+  {
+    "city": "Goleta",
+    "address": "300 Sumida Gardens Ln",
+    "zip": "93111",
+    "state": "CA",
+    "id": "457",
+    "org_id": "1127"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "227 E Arrellaga St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "458",
+    "org_id": "1127"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "212 Carmen Lane",
+    "zip": "93454",
+    "state": "CA",
+    "id": "459",
+    "org_id": "1128"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1118 E. Cabrillo Boulevard",
+    "zip": "93103",
+    "state": "CA",
+    "id": "460",
+    "org_id": "1129"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1219 Anacapa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "461",
+    "org_id": "1130"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "425 E. Cota Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "462",
+    "org_id": "1131"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "310 N. Milpas Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "463",
+    "org_id": "1131"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "834 N. Milpas Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "464",
+    "org_id": "1131"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "35 E. Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "465",
+    "org_id": "1132"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1415 State Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "467",
+    "org_id": "1136"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "630 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "468",
+    "org_id": "1137"
+  },
+  {
+    "city": "",
+    "address": "",
+    "zip": "",
+    "state": "CA",
+    "id": "469",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "15 W. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "470",
+    "org_id": "1139"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4 E. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "471",
+    "org_id": "1140"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3840 Orcutt Garey Rd",
+    "zip": "93454",
+    "state": "CA",
+    "id": "472",
+    "org_id": "1128"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "124 Carmen Lane ",
+    "zip": "93458",
+    "state": "CA",
+    "id": "473",
+    "org_id": "1128"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "124 W. Carmen Lane",
+    "zip": "93458",
+    "state": "CA",
+    "id": "474",
+    "org_id": "1015"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "430 S Blosser Road",
+    "zip": "93458",
+    "state": "CA",
+    "id": "475",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "210 N Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "476",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "829 S Lincoln ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "477",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1304 Miller Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "478",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1418 E. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "479",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1835 N. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "480",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2801 Santa Maria Way",
+    "zip": "93454",
+    "state": "CA",
+    "id": "481",
+    "org_id": "1078"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "607 Plaza Dr",
+    "zip": "93454",
+    "state": "CA",
+    "id": "482",
+    "org_id": "1141"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "500 W. Foster Rd",
+    "zip": "93455",
+    "state": "CA",
+    "id": "483",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "212 Carmen Ln",
+    "zip": "93458",
+    "state": "CA",
+    "id": "484",
+    "org_id": "1142"
+  },
+  {
+    "city": "Lompoc",
+    "address": "401 E. Ocean Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "485",
+    "org_id": "1142"
+  },
+  {
+    "city": "Lompoc",
+    "address": "117 North B Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "486",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "66 South San Antonio Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "487",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "429 N. San Antonio Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "488",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4444 Calle Real",
+    "zip": "93110",
+    "state": "CA",
+    "id": "489",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2034 De La Vina St",
+    "zip": "93110",
+    "state": "CA",
+    "id": "490",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "491",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "492",
+    "org_id": "1142"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "709 N. Curryer Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "493",
+    "org_id": "973"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1026 Sierra Madre Avenue",
+    "zip": "93454",
+    "state": "CA",
+    "id": "494",
+    "org_id": "973"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1503 N. McClelland St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "495",
+    "org_id": "1143"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "619 N. Railroad Avenue",
+    "zip": "93458",
+    "state": "CA",
+    "id": "496",
+    "org_id": "1144"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "402 S Lincoln St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "497",
+    "org_id": "1145"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "200 S. E Ave",
+    "zip": "93454",
+    "state": "CA",
+    "id": "498",
+    "org_id": "1146"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "Shoreline Dr",
+    "zip": "93101",
+    "state": "CA",
+    "id": "499",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "323 E Cabrillo Blvd",
+    "zip": "93101",
+    "state": "CA",
+    "id": "500",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1400 Cabrillo Blvd",
+    "zip": "93190",
+    "state": "CA",
+    "id": "501",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "617 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "502",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "531 East Ortega Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "503",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "100 Castillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "504",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "501 Ninos Drive",
+    "zip": "93103",
+    "state": "CA",
+    "id": "505",
+    "org_id": "1147"
+  },
+  {
+    "city": "Goleta",
+    "address": "300 Sumida Gardens Ln",
+    "zip": "93111",
+    "state": "CA",
+    "id": "506",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1400 Santa Barbara St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "507",
+    "org_id": "1147"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "6586 Picasso Road",
+    "zip": "93117",
+    "state": "CA",
+    "id": "508",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "900 State St (At E. Canon Perdido St.)",
+    "zip": "93101",
+    "state": "CA",
+    "id": "509",
+    "org_id": "1147"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "915 North Milpas Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "510",
+    "org_id": "1148"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1136 E. Montecito Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "511",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "816 Cacique Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "512",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "535 E. Yanonali  Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "513",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "345 Camino del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "514",
+    "org_id": "1149"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "931 Walnut Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "515",
+    "org_id": "1149"
+  },
+  {
+    "city": "Lompoc",
+    "address": "301 North R Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "516",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401 West Morrison",
+    "zip": "93458",
+    "state": "CA",
+    "id": "517",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2115 Centerpointe Parkway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "518",
+    "org_id": "1149"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "518 Garden Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "519",
+    "org_id": "1150"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3435 Santa Maria Way",
+    "zip": "93455",
+    "state": "CA",
+    "id": "520",
+    "org_id": "1151"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1775 S Thornburg Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "521",
+    "org_id": "1152"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "628 West Micheltorena Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "522",
+    "org_id": "1153"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "300 N. San Antonio Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "523",
+    "org_id": "1158"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "300 N. San Antonio Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "524",
+    "org_id": "1159"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "923 N. Milpas Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "525",
+    "org_id": "1160"
+  },
+  {
+    "city": "Goleta",
+    "address": "164 Kinman Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "526",
+    "org_id": "1161"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2548 S. Broadway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "527",
+    "org_id": "1163"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3010 Skyway Drive #F",
+    "zip": "93455",
+    "state": "CA",
+    "id": "529",
+    "org_id": "1164"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "808 Laguna Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "530",
+    "org_id": "1166"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2620 Santa Maria Way",
+    "zip": "93455",
+    "state": "CA",
+    "id": "531",
+    "org_id": "1165"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "425 E. Cota St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "532",
+    "org_id": "1167"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "267 Campodonico Ave",
+    "zip": "93434",
+    "state": "CA",
+    "id": "533",
+    "org_id": "1168"
+  },
+  {
+    "city": "Orcutt",
+    "address": "933 Patterson Road ",
+    "zip": "93455",
+    "state": "CA",
+    "id": "534",
+    "org_id": "1169"
+  },
+  {
+    "city": "Orcutt",
+    "address": "420 Soares Ave",
+    "zip": "93455",
+    "state": "CA",
+    "id": "535",
+    "org_id": "1170"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "966 W. Orchard St",
+    "zip": "93458",
+    "state": "CA",
+    "id": "536",
+    "org_id": "1171"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "324 N Suey Rd",
+    "zip": "93454",
+    "state": "CA",
+    "id": "537",
+    "org_id": "1172"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4681 11th St",
+    "zip": "93434",
+    "state": "CA",
+    "id": "538",
+    "org_id": "1173"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "1020 Escalante Street",
+    "zip": "93434",
+    "state": "CA",
+    "id": "539",
+    "org_id": "1011"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "3303 State Street",
+    "zip": "93105",
+    "state": "CA",
+    "id": "540",
+    "org_id": "1174"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "234 Camino Del Remedio",
+    "zip": "93101",
+    "state": "CA",
+    "id": "541",
+    "org_id": "1083"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Centerpointe Parkway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "542",
+    "org_id": "1110"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "400 N. McClelland Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "543",
+    "org_id": "1110"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4681 11th Street",
+    "zip": "93434",
+    "state": "CA",
+    "id": "544",
+    "org_id": "1110"
+  },
+  {
+    "city": "Goleta",
+    "address": "5638 Hollister Ave.",
+    "zip": "93117",
+    "state": "CA",
+    "id": "545",
+    "org_id": "1175"
+  },
+  {
+    "city": "Goleta",
+    "address": "5681 Hollister Ave.",
+    "zip": "93117",
+    "state": "CA",
+    "id": "546",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1265 W McCoy Lane",
+    "zip": "93455",
+    "state": "CA",
+    "id": "547",
+    "org_id": "1176"
+  },
+  {
+    "city": "Goleta",
+    "address": "5679 Hollister Ave.",
+    "zip": "93117",
+    "state": "CA",
+    "id": "548",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "311 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "549",
+    "org_id": "1030"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "941 Walnut Ave.",
+    "zip": "93013",
+    "state": "CA",
+    "id": "550",
+    "org_id": "1175"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5201 8th St.",
+    "zip": "93013",
+    "state": "CA",
+    "id": "551",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "429 N. San Antonio Rd.",
+    "zip": "93110",
+    "state": "CA",
+    "id": "552",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "721 E. Cota St.",
+    "zip": "93103",
+    "state": "CA",
+    "id": "553",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4202 Calle Real",
+    "zip": "93110",
+    "state": "CA",
+    "id": "554",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "809 N. Broadyway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "555",
+    "org_id": "1176"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "401 W. Morrison Avenue ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "556",
+    "org_id": "961"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "721 Laguna St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "557",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1232 De La Vina St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "558",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1136 E. Montecito St.",
+    "zip": "93103",
+    "state": "CA",
+    "id": "559",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2115 State St.",
+    "zip": "93105",
+    "state": "CA",
+    "id": "560",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "629 Coronel Place",
+    "zip": "93101",
+    "state": "CA",
+    "id": "561",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "130 E. Cota St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "562",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "120 W. Chestnut Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "563",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "401 E. Ocean Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "564",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "640 North Q St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "565",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1120 W. Ocean Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "566",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "125 S. 7th St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "567",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "648 North G St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "568",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "120 W. Maple Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "569",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "228 North I St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "570",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1316 E. Oak St.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "571",
+    "org_id": "1175"
+  },
+  {
+    "city": "Lompoc",
+    "address": "120 West Chestnut Ave.",
+    "zip": "93436",
+    "state": "CA",
+    "id": "572",
+    "org_id": "1175"
+  },
+  {
+    "city": "Buellton",
+    "address": "595 2nd St.",
+    "zip": "93427",
+    "state": "CA",
+    "id": "573",
+    "org_id": "1175"
+  },
+  {
+    "city": "New Cuyama",
+    "address": "2300 Highway",
+    "zip": "93254",
+    "state": "CA",
+    "id": "574",
+    "org_id": "1175"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4545 Tenth St.",
+    "zip": "93434",
+    "state": "CA",
+    "id": "575",
+    "org_id": "1175"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "120 Tognazzini Ave.",
+    "zip": "93434",
+    "state": "CA",
+    "id": "576",
+    "org_id": "1175"
+  },
+  {
+    "city": "Orcutt",
+    "address": "420 Soares Ave.",
+    "zip": "93455",
+    "state": "CA",
+    "id": "577",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "500 W. Foster Rd.",
+    "zip": "93455",
+    "state": "CA",
+    "id": "578",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "510 E. Park Ave.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "579",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1000 N. Railroad Ave.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "580",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1240 W. Bethel Ln.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "581",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1890 Sandalwood Dr. ",
+    "zip": "93455",
+    "state": "CA",
+    "id": "582",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1002 E. Sierra Madre Ave.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "583",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "201 W. Chapel St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "584",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1720 S. Depot St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "585",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "530 E. Enos Dr.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "586",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1026 W. Boone St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "587",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "219 W. Chapel St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "588",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "400 W. Park Ave.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "589",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "316 E. McElhaney Ave.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "590",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "500 W. Windsor St. ",
+    "zip": "93458",
+    "state": "CA",
+    "id": "591",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "201 West Chapel St.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "592",
+    "org_id": "1175"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "122 W. Figueroa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "593",
+    "org_id": "1177"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4141 State Street",
+    "zip": "93110",
+    "state": "CA",
+    "id": "594",
+    "org_id": "1178"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "124 Carmen Lane",
+    "zip": "93458",
+    "state": "CA",
+    "id": "595",
+    "org_id": "1178"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "36 Hitchcock Way",
+    "zip": "93105",
+    "state": "CA",
+    "id": "596",
+    "org_id": "1179"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1303 Fairway Dr",
+    "zip": "93455",
+    "state": "CA",
+    "id": "597",
+    "org_id": "1180"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5399 Overpass Road",
+    "zip": "93111",
+    "state": "CA",
+    "id": "598",
+    "org_id": "1183"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "400 E Boone St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "599",
+    "org_id": "1184"
+  },
+  {
+    "city": "Goleta",
+    "address": "5960 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "600",
+    "org_id": "1185"
+  },
+  {
+    "city": "Goleta",
+    "address": "5624 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "601",
+    "org_id": "1186"
+  },
+  {
+    "city": "Goleta",
+    "address": "5949 Hollister Avenue",
+    "zip": "93117",
+    "state": "CA",
+    "id": "602",
+    "org_id": "1186"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "5156 Hollister Avenue",
+    "zip": "93111",
+    "state": "CA",
+    "id": "603",
+    "org_id": "1187"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "302 W. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "604",
+    "org_id": "1188"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5048 El Carro Lane",
+    "zip": "93013",
+    "state": "CA",
+    "id": "605",
+    "org_id": "1189"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "771 Linden Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "606",
+    "org_id": "1190"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5406 Carpinteria Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "607",
+    "org_id": "1185"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "700 N. Milpas Street",
+    "zip": "93103",
+    "state": "CA",
+    "id": "608",
+    "org_id": "1186"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "400 E Boone St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "609",
+    "org_id": "1055"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2050 S Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "610",
+    "org_id": "1191"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "201 S. Miller Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "611",
+    "org_id": "1073"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "201 S. Miller Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "612",
+    "org_id": "1140"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "415 E. Chapel Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "615",
+    "org_id": "1150"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "210 E. Enos Dr. ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "616",
+    "org_id": "871"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1410 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "617",
+    "org_id": "868"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "800 S. College Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "618",
+    "org_id": "1192"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2323 Thompson Way",
+    "zip": "93455",
+    "state": "CA",
+    "id": "619",
+    "org_id": "1193"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Centerpointe Parkway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "620",
+    "org_id": "1083"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "902 Laguna Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "621",
+    "org_id": "1194"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2436 Professional Parkway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "622",
+    "org_id": "1177"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "511 E. Lakeside Parkway ",
+    "zip": "93455",
+    "state": "CA",
+    "id": "623",
+    "org_id": "1086"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "People's Park",
+    "zip": "93117",
+    "state": "CA",
+    "id": "624",
+    "org_id": "1195"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Meigs Road",
+    "zip": "93109",
+    "state": "CA",
+    "id": "625",
+    "org_id": "1196"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3400 Skyway Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "626",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4400 Cathedral Oaks Rd",
+    "zip": "93110",
+    "state": "CA",
+    "id": "627",
+    "org_id": "1181"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1400 Santa Barbara Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "628",
+    "org_id": "1199"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1687 W.  Stowell Road ",
+    "zip": "93458",
+    "state": "CA",
+    "id": "629",
+    "org_id": "1198"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1844 N. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "631",
+    "org_id": "1188"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "613 E. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "632",
+    "org_id": "1178"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3249 Terminal Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "633",
+    "org_id": "1200"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "306 N. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "634",
+    "org_id": "1201"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "605 W Main St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "635",
+    "org_id": "1071"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "215 W. Main St",
+    "zip": "93454",
+    "state": "CA",
+    "id": "636",
+    "org_id": "1202"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1539 Stowell Center Plaza",
+    "zip": "93454",
+    "state": "CA",
+    "id": "637",
+    "org_id": "1188"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1765 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "638",
+    "org_id": "1094"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2414 S. Broadway ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "639",
+    "org_id": "1094"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2512 S. Broadway ",
+    "zip": "93454",
+    "state": "CA",
+    "id": "640",
+    "org_id": "1203"
+  },
+  {
+    "city": "Solvang",
+    "address": "393 Alisal Road",
+    "zip": "93463",
+    "state": "CA",
+    "id": "641",
+    "org_id": "1205"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "3400 Skyway Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "642",
+    "org_id": "1206"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "234 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "643",
+    "org_id": "1182"
+  },
+  {
+    "city": "Lompoc",
+    "address": "1100 W. Laurel Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "644",
+    "org_id": "1182"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2125 S. Centerpointe Pkwy",
+    "zip": "93455",
+    "state": "CA",
+    "id": "645",
+    "org_id": "1182"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "301 E Canon Perdido Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "646",
+    "org_id": "1073"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "120 E. Jones St.",
+    "zip": "93454",
+    "state": "CA",
+    "id": "647",
+    "org_id": "1207"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "601 E. Montecito St. ",
+    "zip": "93103",
+    "state": "CA",
+    "id": "648",
+    "org_id": "1207"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "935 San Andres Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "649",
+    "org_id": "1208"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "116 S Palisade",
+    "zip": "93454",
+    "state": "CA",
+    "id": "650",
+    "org_id": "1209"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "200 W Cook Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "651",
+    "org_id": "1210"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1000 N Railroad Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "652",
+    "org_id": "1210"
+  },
+  {
+    "city": "Orcutt",
+    "address": "3486 Orcutt Rd",
+    "zip": "93455",
+    "state": "CA",
+    "id": "653",
+    "org_id": "1188"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1409 Castillo St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "654",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "15 E Haley St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "655",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "125 W Carillo St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "656",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "47 Broadmoor Plaza",
+    "zip": "93105",
+    "state": "CA",
+    "id": "657",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "514 E Sola St",
+    "zip": "93103",
+    "state": "CA",
+    "id": "658",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "520 W Sola St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "659",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2483 State St",
+    "zip": "93105",
+    "state": "CA",
+    "id": "660",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "821 Bath St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "661",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "933 San Pascual St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "662",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "212 Carmen Lane",
+    "zip": "93458",
+    "state": "CA",
+    "id": "663",
+    "org_id": "1039"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "625 Coronel Pl",
+    "zip": "93101",
+    "state": "CA",
+    "id": "664",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "627 Coronel Pl",
+    "zip": "93101",
+    "state": "CA",
+    "id": "665",
+    "org_id": "1013"
+  },
+  {
+    "city": "Goleta",
+    "address": "59 Nectarine Ave",
+    "zip": "93117",
+    "state": "CA",
+    "id": "666",
+    "org_id": "1013"
+  },
+  {
+    "city": "Goleta",
+    "address": "65 Nectarine Ave",
+    "zip": "93117",
+    "state": "CA",
+    "id": "667",
+    "org_id": "1013"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "4667 Carpinteria Avenue",
+    "zip": "93013",
+    "state": "CA",
+    "id": "668",
+    "org_id": "1013"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "225 E Inger Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "669",
+    "org_id": "1212"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "215 W Main Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "670",
+    "org_id": "1213"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1259 Veronica Springs Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "671",
+    "org_id": "1214"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "1024 Casitas Pass Road",
+    "zip": "93013",
+    "state": "CA",
+    "id": "672",
+    "org_id": "1188"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1660 S. Broadway",
+    "zip": "93456",
+    "state": "CA",
+    "id": "673",
+    "org_id": "1043"
+  },
+  {
+    "city": "Lompoc",
+    "address": "203 N. N St",
+    "zip": "93436",
+    "state": "CA",
+    "id": "674",
+    "org_id": "1215"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1026 E Sierra Madre Ave",
+    "zip": "93454",
+    "state": "CA",
+    "id": "675",
+    "org_id": "1216"
+  },
+  {
+    "city": "Goleta",
+    "address": "5575 Armitos Avenue ",
+    "zip": "93117",
+    "state": "CA",
+    "id": "676",
+    "org_id": "1011"
+  },
+  {
+    "city": "Goleta",
+    "address": "131 S Kellogg Ave",
+    "zip": "93117",
+    "state": "CA",
+    "id": "677",
+    "org_id": "1041"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2020 Allameda Padre Serra",
+    "zip": "93103",
+    "state": "CA",
+    "id": "678",
+    "org_id": "1049"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "3891 State St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "679",
+    "org_id": "1050"
+  },
+  {
+    "city": "Lompoc",
+    "address": "119 N. D Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "680",
+    "org_id": "897"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 E. College Ave",
+    "zip": "93436",
+    "state": "CA",
+    "id": "681",
+    "org_id": "975"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "301 W. Figueroa St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "682",
+    "org_id": "1217"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1209 State St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "683",
+    "org_id": "1218"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "709 N. CURRYER ST.",
+    "zip": "93458",
+    "state": "CA",
+    "id": "684",
+    "org_id": "1221"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1401 Chapala Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "685",
+    "org_id": "1219"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "901 South Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "686",
+    "org_id": "1219"
+  },
+  {
+    "city": "Lompoc",
+    "address": "234 S N St",
+    "zip": "93436",
+    "state": "CA",
+    "id": "687",
+    "org_id": "1219"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1400 E. Church Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "688",
+    "org_id": "1219"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "UCSB, Building 434",
+    "zip": "93106",
+    "state": "CA",
+    "id": "689",
+    "org_id": "1222"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "721 Cliff Drive",
+    "zip": "93109",
+    "state": "CA",
+    "id": "690",
+    "org_id": "1223"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "118 E. Figueroa Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "691",
+    "org_id": "1229"
+  },
+  {
+    "city": "Lompoc",
+    "address": "115 Civic Center Plaza",
+    "zip": "93436",
+    "state": "CA",
+    "id": "692",
+    "org_id": "1229"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "312-M E. Cook Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "693",
+    "org_id": "1229"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "Santa Maria",
+    "zip": "93454",
+    "state": "CA",
+    "id": "694",
+    "org_id": "1230"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "695",
+    "org_id": "1232"
+  },
+  {
+    "city": "Lompoc",
+    "address": "401 E. Cypress Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "696",
+    "org_id": "1232"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "624 Foster Road",
+    "zip": "93454",
+    "state": "CA",
+    "id": "697",
+    "org_id": "1232"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1410 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "698",
+    "org_id": "1234"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "PO Box 5654",
+    "zip": "93456",
+    "state": "CA",
+    "id": "699",
+    "org_id": "1236"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "720 E. El Camino Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "700",
+    "org_id": "1237"
+  },
+  {
+    "city": "Ventura",
+    "address": "790 E. Santa Clara Street",
+    "zip": "93001",
+    "state": "CA",
+    "id": "701",
+    "org_id": "1238"
+  },
+  {
+    "city": "San Luis Obispo",
+    "address": "1070 Southwood Drive",
+    "zip": "93401",
+    "state": "CA",
+    "id": "702",
+    "org_id": "1238"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4440 Calle Real",
+    "zip": "93110",
+    "state": "CA",
+    "id": "703",
+    "org_id": "1242"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1550 E. Main Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "704",
+    "org_id": "1242"
+  },
+  {
+    "city": "Ventura",
+    "address": "801 Seneca Street",
+    "zip": "93001",
+    "state": "CA",
+    "id": "705",
+    "org_id": "1246"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "400 W. Church Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "706",
+    "org_id": "1249"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": " 320 E. Gutierrez Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "707",
+    "org_id": "1251"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "1660 S. Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "708",
+    "org_id": "1251"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "324 E. Carrillo Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "709",
+    "org_id": "1252"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "212 West Carmen Lane",
+    "zip": "93458",
+    "state": "CA",
+    "id": "710",
+    "org_id": "1253"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 Camino Del Remedio",
+    "zip": "93110",
+    "state": "CA",
+    "id": "711",
+    "org_id": "1253"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "500 West Foster Road",
+    "zip": "93454",
+    "state": "CA",
+    "id": "712",
+    "org_id": "1254"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "429 N San Antonio Road",
+    "zip": "93110",
+    "state": "CA",
+    "id": "713",
+    "org_id": "1254"
+  },
+  {
+    "city": "Lompoc",
+    "address": "401 East Ocean Avenue",
+    "zip": "93436",
+    "state": "CA",
+    "id": "714",
+    "org_id": "1254"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "923 Olive Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "715",
+    "org_id": ""
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "111 E. Arrellaga Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "716",
+    "org_id": "1256"
+  },
+  {
+    "city": "Isla Vista",
+    "address": "889 Camino Del Sur",
+    "zip": "93117",
+    "state": "CA",
+    "id": "717",
+    "org_id": "1257"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 Garden St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "719",
+    "org_id": "835"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "232 E. Canon Perdido St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "720",
+    "org_id": "835"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1111 Garden St ",
+    "zip": "93101",
+    "state": "CA",
+    "id": "721",
+    "org_id": "835"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1290 De La Vina Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "722",
+    "org_id": "1258"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "123 West Gutierrez",
+    "zip": "93101",
+    "state": "CA",
+    "id": "724",
+    "org_id": "1259"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "105 N. Lincoln Street",
+    "zip": "93458",
+    "state": "CA",
+    "id": "725",
+    "org_id": "1259"
+  },
+  {
+    "city": "Lompoc",
+    "address": "101 South B Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "726",
+    "org_id": "1259"
+  },
+  {
+    "city": "Lompoc",
+    "address": "646 North H Street",
+    "zip": "93436",
+    "state": "CA",
+    "id": "727",
+    "org_id": "1259"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "648 E. Enos Dr",
+    "zip": "93454",
+    "state": "CA",
+    "id": "728",
+    "org_id": "1259"
+  },
+  {
+    "city": "Carpinteria",
+    "address": "5201 8th St",
+    "zip": "93013",
+    "state": "CA",
+    "id": "729",
+    "org_id": "1259"
+  },
+  {
+    "city": "Guadalupe",
+    "address": "4681 11th Street",
+    "zip": "93434",
+    "state": "CA",
+    "id": "730",
+    "org_id": "1259"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2560 Skyway Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "731",
+    "org_id": "1260"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "4893 Bethany Drive",
+    "zip": "93455",
+    "state": "CA",
+    "id": "732",
+    "org_id": "1260"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "941 E. Foster Road",
+    "zip": "93455",
+    "state": "CA",
+    "id": "733",
+    "org_id": "1260"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "675 Panther Drive",
+    "zip": "93454",
+    "state": "CA",
+    "id": "734",
+    "org_id": "1260"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "901 South Broadway",
+    "zip": "93454",
+    "state": "CA",
+    "id": "735",
+    "org_id": "1260"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "632 East Canon Perdido Street",
+    "zip": "93013",
+    "state": "CA",
+    "id": "736",
+    "org_id": "1261"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "120 E. Jones Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "737",
+    "org_id": "1262"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1219 State Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "738",
+    "org_id": "1262"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 W. Haley Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "739",
+    "org_id": "1263"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "2450 Professional Parkway",
+    "zip": "93455",
+    "state": "CA",
+    "id": "740",
+    "org_id": "1263"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "902 Laguna Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "741",
+    "org_id": "1263"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "315 W. Haley Street ",
+    "zip": "93101",
+    "state": "CA",
+    "id": "742",
+    "org_id": "1263"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "320 Laguna Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "743",
+    "org_id": "1264"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "2253 Las Positas Road",
+    "zip": "93105",
+    "state": "CA",
+    "id": "744",
+    "org_id": "1265"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "120 E. Jones Street",
+    "zip": "93454",
+    "state": "CA",
+    "id": "745",
+    "org_id": "1265"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "309 S. Voluntario Learning Center",
+    "zip": "93101",
+    "state": "CA",
+    "id": "746",
+    "org_id": "1166"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "710 Santa Barbara St.",
+    "zip": "93101",
+    "state": "CA",
+    "id": "747",
+    "org_id": "1266"
+  },
+  {
+    "city": "Goleta",
+    "address": "7266 Alameda Avenue ",
+    "zip": "93117",
+    "state": "CA",
+    "id": "748",
+    "org_id": "1266"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "4750 Hollister Ave",
+    "zip": "93110",
+    "state": "CA",
+    "id": "749",
+    "org_id": "1266"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "700 East Anapamu St",
+    "zip": "93103",
+    "state": "CA",
+    "id": "750",
+    "org_id": "1266"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "126 E. Haley St",
+    "zip": "93101",
+    "state": "CA",
+    "id": "751",
+    "org_id": "1267"
+  },
+  {
+    "city": "Santa Maria",
+    "address": "110 S. Lincoln St",
+    "zip": "93458",
+    "state": "CA",
+    "id": "752",
+    "org_id": "1267"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "1215 De La Vina Street",
+    "zip": "93101",
+    "state": "CA",
+    "id": "753",
+    "org_id": "1268"
+  },
+  {
+    "city": "Santa Barbara",
+    "address": "7 West Figueroa",
+    "zip": "93101",
+    "state": "CA",
+    "id": "754",
+    "org_id": "1075"
+  }
+]

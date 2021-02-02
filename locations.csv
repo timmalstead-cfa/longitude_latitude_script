@@ -1,0 +1,697 @@
+﻿city,address,zip,state,id,org_id
+Lompoc,325 N. Second Street,93436,CA,1,
+Carpinteria,941 Walnut Avenue,93013,CA,2,
+Santa Barbara,1532 Castillo Street,93101,CA,3,"2, 863"
+Santa Barbara,721 Spring Street,93103,CA,8,7
+Santa Barbara,327 E. Victoria Street,93101,CA,10,6
+Santa Barbara,1107 San Andres Street,93101,CA,11,9
+Santa Barbara,2021 Castillo Street,93105,CA,12,10
+Santa Barbara,227 W. Haley Street,93101,CA,13,10
+Santa Barbara, 2434 Bath Street,93105,CA,14,10
+Santa Barbara,1515 Bath Street,93101,CA,15,14
+Lompoc ,1100 W Laurel Avenue,93436,CA,16,15
+Santa Barbara ,234 Camino del Remedio,93110,CA,17,15
+Santa Barbara,535 E. Yanonali Street,93103,CA,18,826
+Santa Barbara,P.O. Box 446,93102,CA,19,827
+Santa Barbara,1227 San Andres St,93101,CA,20,827
+Santa Barbara ,731 E Haley St,93103,CA,21,827
+Santa Barbara,23 W Mission St,93101,CA,22,827
+Santa Barbara,231 W Haley St,93101,CA,23,827
+Santa Barbara,1818 Bath Street,93101,CA,24,830
+Santa Barbara ,604 N. Kellog Avenue,93111,CA,25,831
+Santa Barbara,832 Jennings Street,93103,CA,26,832
+Santa Barbara,1121 Walnut Ave,93101,CA,27,833
+Santa Barbara,5018 Calle Real Road,93111,CA,28,833
+Santa Barbara,400 W. Pueblo Street,93105,CA,29,834
+Santa Barbara,133 W. Haley Street,93101,CA,30,835
+Santa Barbara,24 W. Arrellaga Street,93101,CA,31,838
+Santa Barbara,535 E. Yanonali Street,93103,CA,32,838
+Santa Barbara,316 W. Montecito Street,93101,CA,33,834
+Santa Barbara,423 Chapala Street,93101,CA,34,843
+Ventura,P.O. Box 1064,93002,CA,35,844
+Santa Barbara,232 E. Canon Perdido Street,93101,CA,36,835
+Santa Barbara,26 W. Figueroa Street,93101,CA,39,855
+Santa Barbara,24 W. Arrellaga Street,93101,CA,40,838
+Santa Barbara,4129 State Street ,93110,CA,44,858
+Santa Barbara ,205 W. Mission Street,93101,CA,46,860
+Santa Barbara,1111 Garden Street,93101,CA,47,861
+Santa Barbara,1111 Garden Street,93101,CA,48,862
+Santa Barbara ,"125 Harbor Way, Marine Center Classroom",93109,CA,49,863
+Santa Barbara,235 E. Cota,93101,CA,50,"864, 889"
+Santa Barbara,227 W. Haley Street,93103,CA,51,865
+Santa Barbara,1515 Bath Street,93101,CA,52,866
+Santa Barbara,235 E. Cota Street,93101,CA,53,"867, 877, 892"
+Lompoc ,109 N H Street ,93436,CA,54,869
+Santa Barbara,130 E Ortega Street ,93101,CA,56,868
+Santa Barbara ,125 E De La Guerra St Ste A,93101,CA,58,870
+Santa Barbara ,1300 Santa Barbara St Ste A ,93101,CA,59,871
+Santa Barbara,3700 State Street Ste 200 ,93105,CA,60,872
+Santa Barbara ,1019 Chapala Street,93101,CA,61,873
+Santa Barbara,909 La Cumbre Road,93110,CA,75,"876, 883, 884"
+Santa Barbara,Leadbetter Beach,93101,CA,78,885
+Santa Barbara,125 Harbor Way,93109,CA,79,886
+Santa Barbara,127 E. Carrillo Street,93101,CA,80,887
+Santa Barbara,2434 Bath Street,93105,CA,81,888
+Santa Barbara,227 E. Arrellaga Street,93101,CA,82,890
+Santa Barbara,21 E. Constance Avenue,93105,CA,83,891
+Santa Barbara,305 E. Anapamu Street,93101,CA,84,893
+Santa Barbara,227 W. Haley Street,93101,CA,85,894
+Santa Barbara , 721 Cliff Drive,93109,CA,86,895
+Santa Barbara,113 Harbor Way,93109,CA,87,896
+Santa Barbara,2964 Las Canoas Road,93105,CA,88,897
+Santa Barbara,601 E. Montecito Street,93103,CA,89,898
+Santa Barbara,627 Bath Street,93101,CA,90,899
+Santa Barbara,112 W. Cabrillo Boulevard,93101,CA,91,
+Santa Barbara,906 De La Vina Street,93101,CA,92,901
+Santa Barbara,21 E. Constance Avenue,93105,CA,93,902
+Santa Barbara,5073 Hollister Avenue,93111,CA,94,903
+Santa Barbara,5444 Hollister Avenue,93111,CA,95,904
+Santa Barbara,4575 Auhay Drive,93110,CA,96,905
+Santa Barbara,83 Eucalyptus Lane,93108,CA,98,906
+Goleta,6067 Shirrell Way,93117,CA,100,907
+Santa Barbara,2101 State Street,93105,CA,101,923
+Santa Barbara ,1535 Santa Barbara Street,93101,CA,104,924
+Santa Barbara,1964 Las Canoas Road,93105,CA,105,925
+Santa Barbara,1455 E. Valley Road,93108,CA,106,927
+Montecito,1300 E. Valley Road,93108,CA,107,928
+Goleta,6586 Picasso Road,93117,CA,108,929
+Goleta,5679 Hollister Avenue,93117,CA,109,930
+Goleta,550 Cambridge Drive,93117,CA,110,931
+Carpinteria,1111 Vallecito Road,93103,CA,111,933
+Summerland,2400 Lillie Avenue,93108,CA,112,934
+Santa Barbara,5444 Hollister Avenue,93111,CA,113,935
+Carpinteria,100 Linden Avenue,93013,CA,114,936
+Goleta,998 Sandspit Road,93117,CA,115,937
+Santa Barbara,87 Parker Way,93101,CA,116,938
+Goleta,5070 Cathedral Oaks Road,93111,CA,117,939
+Santa Barbara,2558 Borton Drive,93109,CA,118,940
+Carpinteria,1335 Vallecito Place,93013,CA,119,941
+Santa Barbara,227 E. Arrellaga Street,93101,CA,120,942
+Carpinteria,5300 El Carro Lane,93013,CA,121,943
+Carpinteria,4610 Carpinteria Avenue,93013,CA,122,944
+Santa Maria ,2125 S Broadway,93454,CA,123,873
+Goleta,761 Camino Pescadero,93117,CA,124,945
+Santa Barbara,816 Cacique Street,93103,CA,125,946
+Goleta,5486 Calle Real,93111,CA,126,947
+Santa Barbara,215 Los Aguajes Avenue,93101,CA,127,948
+Santa Barbara,5018 Calle Real ,93111,CA,128,949
+Santa Barbara,1915 Chapala Street,93111,CA,129,950
+Goleta,5905 Sandspit Road,93111,CA,130,951
+Goleta,677 North Turnpike Road,93111,CA,131,952
+Goleta,380 N. Fairview,93117,CA,132,953
+Carpinteria,1059 Vallecito,93013,CA,133,954
+Santa Barbara,400 Puente Drive,93110,CA,134,955
+Santa Barbara,107 E. Micheltorena Street,93101,CA,135,956
+Santa Barbara,608 Anacapa St,93101,CA,136,957
+Santa Maria,830 W. Church St.,93458,CA,137,958
+Lompoc,113 N. F Street,93436,CA,138,958
+Santa Maria,1414 S. Miller St. ,93454,CA,139,958
+Lompoc,133 North F St.,93436,CA,140,958
+Lompoc,115 N. D Street,93436,CA,141,959
+Santa Ynez,3694 Tivola St B,93460,CA,142,960
+Lompoc,113 N. F Street,93436,CA,143,958
+,,,CA,144,
+Santa Maria,245 E. Inger Drive ,93454,CA,145,961
+Lompoc,113 South M Street,93436,CA,146,961
+Lompoc,604 W. Ocean Avenue,93436,CA,147,961
+,,,,148,
+Lompoc,115 E College Ave,93436,CA,149,
+Lompoc,129 N. I Street,93436,CA,150,963
+Lompoc,113 N. V Street ,93436,CA,151,963
+Lompoc,119 N. D Street,93436,CA,152,963
+Lompoc,119 N. D Street,93436,CA,153,897
+Lompoc,118 N. A Street ,93436,CA,154,
+Solvang,1760 Mission Drive,93463,CA,155,966
+Solvang,320 Alisal Road,93463,CA,156,967
+Buellton,164 W. Hwy 246,93427,CA,157,968
+Lompoc,2800 Harris,93436,CA,158,9
+Solvang, 1760 Mission Drive #G,93463,CA,159,969
+Lompoc,1017 E. Ocean Avenue,93436,CA,160,958
+Lompoc,513 N. G Street,93436,CA,161,957
+Santa Maria,1812 Bungalow Dr.,93458,CA,162,970
+Santa Maria,401-B W. Morrison Avenue,93454,CA,163,961
+Santa Maria,1207 N. McClelland Road,93454,CA,164,973
+Santa Maria,412 E. Tunnell st.,93454,CA,165,961
+Santa Maria,412b E Tunnell St,93454,CA,166,961
+Santa Maria,245 E. Inger Drive,93454,CA,167,961
+Santa Maria,115 E. Fesler Street,93454,CA,168,858
+Santa Maria,801 E. Chapel Street,93454,CA,169,974
+Santa Maria,318 W. Carmel Lane,93454,CA,170,975
+Santa Maria,1414 S. Miller Street,93454,CA,171,976
+Santa Maria,301 S. Miller Street,93454,CA,172,977
+Santa Maria,401 W. Morrison Avenue,93458,CA,173,961
+Santa Maria,1517 S. Broadway,93454,CA,174,979
+Santa Maria,209 W. Main Street,93454,CA,175,980
+Santa Maria,324 W. Cypress St,93458,CA,176,981
+Santa Maria,209 W. Main Street,93454,CA,177,982
+Santa Maria,209 W. Main Street,93454,CA,178,983
+Santa Maria,408 N. McClelland Street,93454,CA,179,984
+Santa Maria,1027 W. Main Street,93454,CA,180,985
+Guadalupe,1015 Guadalupe Street,93434,CA,181,987
+Santa Maria,324 W. Cypress Street,93454,CA,182,968
+Santa Maria,324 W. Cypress Street,93454,CA,183,968
+Santa Maria,1022 Butterfly Court,93454,CA,184,968
+Santa Maria,209 W. Main Street,93454,CA,185,968
+Santa Maria,1822 Baylor Lane,93454,CA,186,968
+Orcutt,540 Mooncrest Lane,93455,CA,187,968
+Orcutt,3980 Dartmouth Lane,93455,CA,188,968
+Orcutt,993 Patterson Road,93455,CA,189,988
+Orcutt,126 S. Broadway,93455,CA,190,989
+Orcutt,993 Patterson Road,93455,CA,191,9
+Santa Maria,1265 W. McCoy Road ,93454,CA,192,990
+Santa Maria,1822 Baylor Lane,93454,CA,193,991
+Orcutt,993 Patterson Road,93455,CA,194,
+Santa Maria,509 W. Morrison Ave,93454,CA,195,961
+Santa Maria,731 S. Lincoln Street,93454,CA,196,961
+Santa Maria,2320 Thompson Street,93454,CA,197,958
+Santa Maria,123 S. College Drive,93454,CA,198,957
+Goleta,5679 Hollister Ave ,93117,CA,199,
+Santa Barbara,327 Bath Street,93101,CA,200,
+Santa Barbara,906 De La Vina Street,93101,CA,201,
+Santa Barbara,5444 Hollister Avenue,93111,CA,202,
+Santa Barbara,112 W. Cabrillo Boulevard,93101,CA,203,997
+Santa Barbara,5444 Hollister Avenue,93111,CA,204,998
+Goleta,4575 Auhay Drive,93110,CA,205,999
+Santa Barbara,1027 N. Main Street,93101,CA,206,
+Lompoc,129 N. I Street Ste. E,93436,CA,207,1001
+Lompoc,119 N. D Street,93436,CA,208,
+Lompoc,119 N. D Street,93436,CA,209,
+Lompoc,118 N. A Street,93436,CA,210,1004
+Lompoc,113 S M Street,93436,CA,211,961
+Lompoc,604 W. Ocean Avenue,93436,CA,212,961
+Santa Barbara,232 East Canon Perdido Street,93101,CA,215,835
+Los Angeles,4470 West Sunset Boulevard,90027,CA,216,1005
+Santa Barbara,1530 Chapala Street ,93101,CA,217,1006
+Santa Maria,120 East Jones Street,93454,CA,218,1006
+Santa Barbara,P.O. Box 6562,93160,CA,219,1008
+Lompoc,1000 W. Ocean Avenue,93436,CA,220,1009
+Lompoc,2025 Sweeny Road,93436,CA,221,961
+Santa Barbara,411 E. Canon Perdido St,93101,CA,222,1010
+Lompoc,203 N. N Street,93436,CA,223,961
+Lompoc,815 W. Ocean Avenue,93436,CA,224,1011
+,,,CA,227,
+Lompoc,648 N. G Streeet ,93436,CA,228,1012
+Lompoc,500 N. T Street,93436,CA,229,1013
+Lompoc,504 N. T Street,93436,CA,230,1013
+Lompoc,725 N. E Street,93436,CA,231,1013
+Lompoc,729 N. E Street,93436,CA,232,1013
+Lompoc,733 N. E Street,93436,CA,233,1013
+Buellton,580 Central Ave,93427,CA,234,1013
+Buellton,614 Central Ave,93427,CA,235,1013
+Santa Barbara,11 East Haley Street,93101,CA,236,1013
+,,,CA,237,
+Lompoc,104 S. C Street,93436,CA,238,961
+Lompoc,117 N. B Street,93436,CA,239,1014
+Lompoc,1010 N. H Street,93436,CA,240,1015
+Lompoc,513 N. G Street,93436,CA,241,1016
+Santa Ynez,90 Via Juana Lane,93460,CA,242,1017
+Lompoc,1515 E. Ocean Avenue,93436,CA,243,1018
+Buellton,164 W. Highway 246,93427,CA,244,1019
+Lompoc,135 S. E Street,93436,CA,245,1020
+Lompoc,500 E. North Ave,93436,CA,246,1021
+Lompoc,314 N. N Street,93436,CA,247,1022
+Lompoc,403 N. J Street,93436,CA,248,1023
+Lompoc,125 N. C Street,93436,CA,249,1024
+Lompoc,213 W. Olive Avenue,93436,CA,250,1025
+Lompoc,816 N. C Street,93436,CA,251,1026
+Lompoc,38 N. B Street,93436,CA,252,1027
+Los Alamos,260 Gonzales Drive,93440,CA,253,1028
+Solvang,1760 Mission Drive,93463,CA,254,1029
+Lompoc,925 N. F Street,93436,CA,255,1030
+Lompoc,917 W. Ocean Ave,93436,CA,256,1031
+Lompoc,213 N. J Street,93436,CA,257,1032
+Los Alamos,690 Bell Street,93440,CA,258,1033
+Lompoc,213 North J Street,93436,CA,259,1034
+Lompoc,1100 W. Laurel Avenue,93436,CA,260,1035
+Santa Barbara,234 Camino Del Remedio,93110,CA,261,1035
+Santa Maria,2125 S. Centerpointe Pkwy,93455,CA,262,1035
+Santa Barbara,1535 Santa Barbara St.,93101,CA,263,1036
+Santa Barbara,1500 State Street,93101,CA,264,1036
+Santa Barbara,305 E. Anapamu Street,93101,CA,265,1036
+Santa Barbara,21 E. Constance Avenue,93105,CA,266,1036
+Santa Barbara,2101 State Street,93105,CA,267,1036
+Carpinteria,1111 Vallecito Road,93013,CA,268,1036
+Isla Vista,892 Camino Del Sur,93117,CA,269,1036
+Santa Barbara,125 W. Carrillo Street,93101,CA,270,1037
+Santa Barbara,2904 State Street,93105,CA,271,1038
+Santa Barbara,66 S. San Antonio Street,93110,CA,272,1039
+Santa Barbara,2612 Modoc Road,93105,CA,273,1040
+Santa Barbara,26 E. Victoria Street,93101,CA,274,1041
+Carpinteria,4090 Via Real,93013,CA,275,1041
+Carpinteria,681 Ash Avenue,93013,CA,276,1041
+Carpinteria,1305 Dahlia Court,93013,CA,277,1041
+Goleta,10 Longshore Place,93117,CA,278,1041
+Goleta,360 Ellwood Beach Drive,93117,CA,279,1041
+Goleta,6660 Abrego Road,93117,CA,280,1041
+Goleta,6822 Phelps Road,93117,CA,281,1041
+Goleta,155 S. Kellogg Avenue,93117,CA,282,1041
+Guadalupe,4202 11th Street,93434,CA,283,1041
+Guadalupe,230 Calle Cesar Chavez,93434,CA,284,1041
+Lompoc,648 North G Street,93436,CA,285,1041
+Orcutt,290 Parkview South,93455,CA,286,1041
+Santa Barbara,21 E. Anapamu Street,93101,CA,287,1041
+Santa Barbara,510 N. Salsipuedes,93103,CA,288,1041
+Santa Barbara,322 Ladera Street,93103,CA,289,1041
+Santa Barbara,4234 Pozzo Circle,93110,CA,290,1041
+Santa Barbara,24 E. Victoria Street,93103,CA,291,1041
+Santa Barbara,210 W. Victoria Street,93103,CA,292,1041
+Santa Maria,1026 W. Boone Street,93458,CA,293,1041
+Santa Maria,1148 W. Boone Street,93458,CA,294,1041
+Santa Maria,525 South Russell Avenue,93458,CA,295,1041
+Santa Maria,665 Sierra Madre Avenue,93454,CA,296,1041
+Santa Maria,280 E. Newlove Drive,93458,CA,297,1041
+Santa Maria,1760 S. McClelland,93458,CA,298,1041
+Santa Maria,250 E. Newlove Drive,93458,CA,299,1041
+Santa Barbara,324 E. Carrillo Street,93101,CA,300,990
+Santa Barbara,4597 Hollister Avenue,93110,CA,301,1042
+Santa Barbara,320 E. Gutierrez Street,93101,CA,302,1043
+Santa Barbara,222 W. Valiero Street,93101,CA,303,1044
+Santa Barbara,315 Camino Del Remedio,93110,CA,312,1045
+Santa Barbara,400 W. Pueblo Street,93105,CA,313,1046
+Goleta,351 S Patterson Ave,93111,CA,314,1046
+Santa Barbara,305 Camino Del Remedio,93110,CA,315,1047
+Santa Barbara,2034 De La Vina Street,93105,CA,316,1048
+Santa Barbara,403 East Montecito Street,93101,CA,317,1049
+Santa Barbara,334 South Patterson,93111,CA,318,1050
+Santa Barbara,324 East Carrillo Street,93101,CA,319,1051
+Lompoc,3769 Constellation Rd,93436,CA,320,1051
+Santa Barbara,608 Anacapa Street,93101,CA,321,
+Santa Maria,123 S College Drive,93454,CA,322,
+Santa Barbara,4444 Calle Real,93110,CA,323,"1053, 1014"
+Goleta,53 Cass Place,93117,CA,324,1054
+Santa Maria,240 E. Roemer Way,93454,CA,325,1055
+Santa Barbara,617 Garden Street,93101,CA,326,1056
+Santa Barbara,923 Olive Street,93101,CA,327,1057
+Santa Barbara,2020 Alameda Padre Serra,93103,CA,328,859
+Santa Barbara,350 S. Hope Ave.,93101,CA,329,1058
+Santa Barbara,115 West Cañon Perdido Street,93101,CA,330,1059
+Santa Maria,500 West Foster Road,93455,CA,331,1014
+Lompoc,100 Civic Center Plaza,93436,CA,333,1060
+Santa Barbara,100 Castillo Street,93101,CA,334,1061
+Solvang,431 Second Street,93463,CA,335,1062
+Goleta,6586 Picasso Road,93117,CA,336,1063
+Santa Maria,1303 Fairway Dr.,93455,CA,337,1064
+Lompoc,729 North H St.,93436,CA,338,1065
+Goleta,6550 Picasso Road,93117,CA,339,1066
+Santa Maria,3249 Terminal Drive,93455,CA,340,
+Santa Maria,120 East Jones Street,93454,CA,341,1068
+Lompoc,102 E Ocean Ave.,93436,CA,343,1068
+Santa Ynez,890 N Refugio Rd,93454,CA,344,1068
+Santa Barbara,1100 Anacapa Street,93101,CA,345,1069
+Santa Maria,312-P East Cook Street,93454,CA,346,1069
+Santa Maria,4285 California Blvd,93455,CA,347,1069
+Lompoc,115 Civic Center Plaza,93436,CA,348,1069
+Santa Barbara,1100 Anacapa Street,93101,CA,349,1070
+Santa Maria,312 E. Cook Street,93456,CA,350,1070
+Lompoc,115 Civic Center Plaza,93436,CA,351,1070
+Santa Barbara,609 E. Haley St.,93101,CA,352,1071
+Carpinteria,1500 Linden Avenue,93013,CA,353,1071
+Santa Maria,607 W. Main Street,93454,CA,354,1071
+Lompoc,325 North Second Street,93436,CA,355,1071
+Guadalupe,4681 11th St.,93434,CA,356,1071
+Isla Vista,6647 El Colegio Road,93117,CA,357,1071
+New Cuyama,4711 Hwy. 166,93254,CA,358,1071
+Santa Barbara,117 E Carrillo Street,93101,CA,359,1072
+Santa Barbara,4500 Hollister Avenue,93110,CA,360,1072
+Santa Barbara,3900 Paradise Road,93105,CA,361,1072
+Lompoc,415 East Cypress Ave,93436,CA,362,1072
+Santa Maria,2121 S. Centerpointe Parkway,93455,CA,363,1072
+Santa Maria,4263 California Boulevard,93455,CA,364,1072
+Santa Maria,124 Carmen Lane ,93458,CA,365,1072
+Lompoc,604 E. Ocean Ave ,93436,CA,366,1073
+Lompoc,115 Civic Center Plaza,93436,CA,367,1074
+Santa Maria,312 East Cook Street,93454,CA,368,1074
+Santa Barbara,1100 Anacapa Street,93101,CA,369,1074
+Santa Barbara,300 N. San Antonio Rd,93110,CA,371,1076
+Santa Barbara,345 Camino del Remedio,93110,CA,372,1076
+Santa Barbara,345 Camino Del Remedio,93110,CA,373,1076
+Carpinteria,931 Walnut Avenue,93013,CA,374,1076
+Santa Barbara,345 Camino Del Remedio,93110,CA,375,1076
+Santa Barbara,315 Camino Del Remedio,93110,CA,376,1076
+Lompoc,301 N. R Street,93436,CA,377,1076
+Santa Maria,2115 S. Centerpointe Parkway,93455,CA,378,1076
+Santa Barbara,225 Camino del Remedio,93110,CA,379,1076
+Santa Barbara,1111 E. Mason St,93103,CA,380,1076
+Lompoc,301 North R Street,93436,CA,381,1076
+Santa Barbara,175 Cremona Drive,93117,CA,382,1077
+Lompoc,425 W. Central Avenue,93436,CA,383,1078
+Lompoc,1225 North H St,93436,CA,384,1079
+Santa Maria,506 East Plaza Drive ,93454,CA,385,1080
+Santa Maria,1444 S. Broadway,93454,CA,386,15
+Solvang,545 N. Alisal Road,93463,CA,387,1081
+Santa Barbara,617 Garden St,93101,CA,388,1082
+Lompoc,1100 W. Laurel Avenue,93436,CA,389,1083
+Lompoc,120 W. Chestnut Avenue,93437,CA,391,
+Los Angeles,320 West 4th Street,90013,CA,393,1085
+Lompoc,401 E. Cypress Street,93436,CA,394,1086
+Lompoc,1601 N H Street,93436,CA,395,1087
+Santa Maria,523 S McClelland Street,93454,CA,396,1087
+Goleta,7127 Hollister Avenue,93117,CA,397,1087
+Santa Barbara,535 Castillo Street,93101,CA,398,1087
+Santa Barbara,110 West Sola Street,93101,CA,399,1088
+Santa Barbara ,234 Camino Del Remedio,93110,CA,400,1089
+Santa Barbara,1401 Chapala Street,93101,CA,401,1088
+Santa Barbara,1209 State Street,93101,CA,402,1088
+Lompoc,1100 W Laurel Ave,93436,CA,403,1089
+Santa Maria,2125 S. Centerpointer Pkwy,93455,CA,404,1089
+Santa Maria,1444 S. Broadway,93454,CA,405,1089
+Santa Maria,304 W. Carmen Lane,93458,CA,406,1089
+Santa Maria,1410 S. Broadway,93454,CA,407,1089
+Santa Barbara,50 E. Alamar Avenue,93105,CA,408,1090
+Santa Barbara,130 E. Ortega Street,93101,CA,409,1089
+Santa Barbara,P.O. Box 60524,93160,CA,410,1091
+Buellton,111 Commerce Drive ,93427,CA,411,1092
+Goleta,5473 Overpass Road,93117,CA,412,1093
+Lompoc,1501 West Central Avenue,93436,CA,413,1093
+Santa Maria,548 W. Foster Road,93455,CA,415,1093
+Lompoc,101 East Chestnut,93436,CA,416,1094
+Lompoc,124 N I St,93436,CA,417,1099
+Buellton,56 West Hwy 246,93427,CA,418,1100
+Solvang,1689 Oak Street,93463,CA,419,1101
+Santa Ynez,3630 Sagunto St G,93460,CA,420,1102
+Buellton,175 McMurray Rd,93427,CA,421,1081
+Santa Maria,2215 Skyway Dr,93455,CA,422,1103
+Santa Maria,409 E Church St,93454,CA,424,1104
+Santa Maria,1782 S. Broadway,93454,CA,425,1105
+Santa Maria,210 E Enos Dr.,93454,CA,426,1106
+Goleta,380 N. Fairview Avenue,93117,CA,427,1107
+Goleta,595 N. Fairview Avenue,93117,CA,428,1108
+Isla Vista,781 Embarcadero Del Mar,93117,CA,429,1109
+Santa Barbara,1136 E. Montecito Street,93103,CA,430,1110
+Carpinteria,5201 8th Street,93013,CA,431,1110
+Santa Barbara,315 Camino del Remedio,93110,CA,432,1110
+Santa Maria,222 W Carmen Ln,93458,CA,433,1111
+Santa Maria,2125 S Broadway,93454,CA,434,1112
+Santa Maria,2125 S. Broadway,93454,CA,435,
+Santa Maria,110 S Pine St.,93458,CA,436,1114
+Santa Barbara,423 W. Victoria Street,93101,CA,437,1115
+Santa Maria,110 S Pine St,93458,CA,438,1116
+Santa Barbara,1136 E. Montecito Street,93103,CA,439,1118
+Santa Maria,210 E Enos Dr,93454,CA,440,1117
+Santa Barbara,1111 E. Mason Street,93103,CA,441,1119
+Santa Maria,509 W. Morrison Avenue,93458,CA,442,1120
+Goleta,11 Camino De Vida,93111,CA,443,1121
+Goleta,5679 Hollister Avenue,93117,CA,444,1122
+Santa Maria,200 W. Cook Street,93454,CA,445,843
+Carpinteria,1532 Linden Avenue,93013,CA,446,1123
+Santa Maria,1026 Sierra Madre Avenue,93454,CA,447,1124
+Santa Maria,401-D W. Morrison Avenue,93454,CA,448,961
+Carpinteria,5201 8th Street,93013,CA,449,1125
+Santa Maria,401-A W. Morrison Avenue,98454,CA,450,961
+Santa Maria,200 W. Williams Street,93454,CA,451,1011
+Santa Maria,235 Inger Dr,93454,CA,452,961
+,,,CA,453,
+Santa Maria,1660 S. Broadway ,93454,CA,454,
+Isla Vista,6586 Picasso Road,93117,CA,455,1127
+Santa Barbara,531 East Ortega Street,93103,CA,456,1127
+Goleta,300 Sumida Gardens Ln,93111,CA,457,1127
+Santa Barbara,227 E Arrellaga St,93101,CA,458,1127
+Santa Maria,212 Carmen Lane,93454,CA,459,1128
+Santa Barbara,1118 E. Cabrillo Boulevard,93103,CA,460,1129
+Santa Barbara,1219 Anacapa Street,93101,CA,461,1130
+Santa Barbara,425 E. Cota Street,93101,CA,462,1131
+Santa Barbara,310 N. Milpas Street,93103,CA,463,1131
+Santa Barbara,834 N. Milpas Street,93103,CA,464,1131
+Santa Barbara,35 E. Haley Street,93101,CA,465,1132
+Santa Barbara,1415 State Street,93101,CA,467,1136
+Santa Barbara,630 Garden Street,93101,CA,468,1137
+,,,CA,469,
+Santa Barbara,15 W. Carrillo Street,93101,CA,470,1139
+Santa Barbara,4 E. Carrillo Street,93101,CA,471,1140
+Santa Maria,3840 Orcutt Garey Rd,93454,CA,472,1128
+Santa Maria,124 Carmen Lane ,93458,CA,473,1128
+Santa Maria,124 W. Carmen Lane,93458,CA,474,1015
+Santa Maria,430 S Blosser Road,93458,CA,475,1078
+Santa Maria,210 N Broadway,93454,CA,476,1078
+Santa Maria,829 S Lincoln ,93454,CA,477,1078
+Santa Maria,1304 Miller Street,93454,CA,478,1078
+Santa Maria,1418 E. Main Street,93454,CA,479,1078
+Santa Maria,1835 N. Broadway,93454,CA,480,1078
+Santa Maria,2801 Santa Maria Way,93454,CA,481,1078
+Santa Maria,607 Plaza Dr,93454,CA,482,1141
+Santa Maria,500 W. Foster Rd,93455,CA,483,1142
+Santa Maria,212 Carmen Ln,93458,CA,484,1142
+Lompoc,401 E. Ocean Ave,93436,CA,485,1142
+Lompoc,117 North B Street,93436,CA,486,1142
+Santa Barbara,66 South San Antonio Road,93110,CA,487,1142
+Santa Barbara,429 N. San Antonio Road,93110,CA,488,1142
+Santa Barbara,4444 Calle Real,93110,CA,489,1142
+Santa Barbara,2034 De La Vina St,93110,CA,490,1142
+Santa Barbara,315 Camino del Remedio,93110,CA,491,1142
+Santa Barbara,315 Camino Del Remedio,93110,CA,492,1142
+Santa Maria,709 N. Curryer Street,93454,CA,493,973
+Santa Maria,1026 Sierra Madre Avenue,93454,CA,494,973
+Santa Maria,1503 N. McClelland St,93454,CA,495,1143
+Santa Maria,619 N. Railroad Avenue,93458,CA,496,1144
+Santa Maria,402 S Lincoln St.,93458,CA,497,1145
+Santa Maria,200 S. E Ave,93454,CA,498,1146
+Santa Barbara,Shoreline Dr,93101,CA,499,1147
+Santa Barbara,323 E Cabrillo Blvd,93101,CA,500,1147
+Santa Barbara,1400 Cabrillo Blvd,93190,CA,501,1147
+Santa Barbara,617 Garden Street,93101,CA,502,1147
+Santa Barbara,531 East Ortega Street,93103,CA,503,1147
+Santa Barbara,100 Castillo Street,93101,CA,504,1147
+Santa Barbara,501 Ninos Drive,93103,CA,505,1147
+Goleta,300 Sumida Gardens Ln,93111,CA,506,1147
+Santa Barbara,1400 Santa Barbara St,93101,CA,507,1147
+Isla Vista,6586 Picasso Road,93117,CA,508,1147
+Santa Barbara,900 State St (At E. Canon Perdido St.),93101,CA,509,1147
+Santa Barbara,915 North Milpas Street,93103,CA,510,1148
+Santa Barbara,1136 E. Montecito Street,93103,CA,511,1149
+Santa Barbara,816 Cacique Street,93103,CA,512,1149
+Santa Barbara,535 E. Yanonali  Street,93103,CA,513,1149
+Santa Barbara,345 Camino del Remedio,93110,CA,514,1149
+Carpinteria,931 Walnut Avenue,93013,CA,515,1149
+Lompoc,301 North R Street,93436,CA,516,1149
+Santa Maria,401 West Morrison,93458,CA,517,1149
+Santa Maria,2115 Centerpointe Parkway,93455,CA,518,1149
+Santa Barbara,518 Garden Street,93101,CA,519,1150
+Santa Maria,3435 Santa Maria Way,93455,CA,520,1151
+Santa Maria,1775 S Thornburg Street,93458,CA,521,1152
+Santa Barbara,628 West Micheltorena Street,93101,CA,522,1153
+Santa Barbara,300 N. San Antonio Road,93110,CA,523,1158
+Santa Barbara,300 N. San Antonio Road,93110,CA,524,1159
+Santa Barbara,923 N. Milpas Street,93103,CA,525,1160
+Goleta,164 Kinman Avenue,93117,CA,526,1161
+Santa Maria,2548 S. Broadway,93455,CA,527,1163
+Santa Maria,3010 Skyway Drive #F,93455,CA,529,1164
+Santa Barbara,808 Laguna Street,93101,CA,530,1166
+Santa Maria,2620 Santa Maria Way,93455,CA,531,1165
+Santa Barbara,425 E. Cota St.,93101,CA,532,1167
+Guadalupe,267 Campodonico Ave,93434,CA,533,1168
+Orcutt,933 Patterson Road ,93455,CA,534,1169
+Orcutt,420 Soares Ave,93455,CA,535,1170
+Santa Maria,966 W. Orchard St,93458,CA,536,1171
+Santa Maria,324 N Suey Rd,93454,CA,537,1172
+Guadalupe,4681 11th St,93434,CA,538,1173
+Guadalupe,1020 Escalante Street,93434,CA,539,1011
+Santa Barbara,3303 State Street,93105,CA,540,1174
+Santa Barbara,234 Camino Del Remedio,93101,CA,541,1083
+Santa Maria,2125 S. Centerpointe Parkway,93454,CA,542,1110
+Santa Maria,400 N. McClelland Street,93454,CA,543,1110
+Guadalupe,4681 11th Street,93434,CA,544,1110
+Goleta,5638 Hollister Ave.,93117,CA,545,1175
+Goleta,5681 Hollister Ave.,93117,CA,546,1175
+Santa Maria,1265 W McCoy Lane,93455,CA,547,1176
+Goleta,5679 Hollister Ave.,93117,CA,548,1175
+Santa Maria,311 S. Broadway,93454,CA,549,1030
+Carpinteria,941 Walnut Ave.,93013,CA,550,1175
+Carpinteria,5201 8th St.,93013,CA,551,1175
+Santa Barbara,429 N. San Antonio Rd.,93110,CA,552,1175
+Santa Barbara,721 E. Cota St.,93103,CA,553,1175
+Santa Barbara,4202 Calle Real,93110,CA,554,1175
+Santa Maria,809 N. Broadyway,93454,CA,555,1176
+Santa Maria,401 W. Morrison Avenue ,93454,CA,556,961
+Santa Barbara,721 Laguna St.,93101,CA,557,1175
+Santa Barbara,1232 De La Vina St.,93101,CA,558,1175
+Santa Barbara,1136 E. Montecito St.,93103,CA,559,1175
+Santa Barbara,2115 State St.,93105,CA,560,1175
+Santa Barbara,629 Coronel Place,93101,CA,561,1175
+Santa Barbara,130 E. Cota St.,93101,CA,562,1175
+Lompoc,120 W. Chestnut Ave.,93436,CA,563,1175
+Lompoc,401 E. Ocean Ave.,93436,CA,564,1175
+Lompoc,640 North Q St.,93436,CA,565,1175
+Lompoc,1120 W. Ocean Ave.,93436,CA,566,1175
+Lompoc,125 S. 7th St.,93436,CA,567,1175
+Lompoc,648 North G St.,93436,CA,568,1175
+Lompoc,120 W. Maple Ave.,93436,CA,569,1175
+Lompoc,228 North I St.,93436,CA,570,1175
+Lompoc,1316 E. Oak St.,93436,CA,571,1175
+Lompoc,120 West Chestnut Ave.,93436,CA,572,1175
+Buellton,595 2nd St.,93427,CA,573,1175
+New Cuyama,2300 Highway,93254,CA,574,1175
+Guadalupe,4545 Tenth St.,93434,CA,575,1175
+Guadalupe,120 Tognazzini Ave.,93434,CA,576,1175
+Orcutt,420 Soares Ave.,93455,CA,577,1175
+Santa Maria,500 W. Foster Rd.,93455,CA,578,1175
+Santa Maria,510 E. Park Ave.,93454,CA,579,1175
+Santa Maria,1000 N. Railroad Ave.,93454,CA,580,1175
+Santa Maria,1240 W. Bethel Ln.,93458,CA,581,1175
+Santa Maria,1890 Sandalwood Dr. ,93455,CA,582,1175
+Santa Maria,1002 E. Sierra Madre Ave.,93454,CA,583,1175
+Santa Maria,201 W. Chapel St.,93458,CA,584,1175
+Santa Maria,1720 S. Depot St.,93458,CA,585,1175
+Santa Maria,530 E. Enos Dr.,93454,CA,586,1175
+Santa Maria,1026 W. Boone St.,93458,CA,587,1175
+Santa Maria,219 W. Chapel St.,93458,CA,588,1175
+Santa Maria,400 W. Park Ave.,93458,CA,589,1175
+Santa Maria,316 E. McElhaney Ave.,93454,CA,590,1175
+Santa Maria,500 W. Windsor St. ,93458,CA,591,1175
+Santa Maria,201 West Chapel St.,93458,CA,592,1175
+Santa Barbara,122 W. Figueroa Street,93101,CA,593,1177
+Santa Barbara,4141 State Street,93110,CA,594,1178
+Santa Maria,124 Carmen Lane,93458,CA,595,1178
+Santa Barbara,36 Hitchcock Way,93105,CA,596,1179
+Santa Maria,1303 Fairway Dr,93455,CA,597,1180
+Santa Barbara,5399 Overpass Road,93111,CA,598,1183
+Santa Maria,400 E Boone St,93454,CA,599,1184
+Goleta,5960 Hollister Avenue,93117,CA,600,1185
+Goleta,5624 Hollister Avenue,93117,CA,601,1186
+Goleta,5949 Hollister Avenue,93117,CA,602,1186
+Santa Barbara,5156 Hollister Avenue,93111,CA,603,1187
+Santa Barbara,302 W. Carrillo Street,93101,CA,604,1188
+Carpinteria,5048 El Carro Lane,93013,CA,605,1189
+Carpinteria,771 Linden Avenue,93013,CA,606,1190
+Carpinteria,5406 Carpinteria Avenue,93013,CA,607,1185
+Santa Barbara,700 N. Milpas Street,93103,CA,608,1186
+Santa Maria,400 E Boone St,93454,CA,609,1055
+Santa Maria,2050 S Broadway,93454,CA,610,1191
+Santa Maria,201 S. Miller Street,93454,CA,611,1073
+Santa Maria,201 S. Miller Street,93454,CA,612,1140
+Santa Maria,415 E. Chapel Street,93454,CA,615,1150
+Santa Maria,210 E. Enos Dr. ,93454,CA,616,871
+Santa Maria,1410 S. Broadway,93454,CA,617,868
+Santa Maria,800 S. College Drive,93454,CA,618,1192
+Santa Maria,2323 Thompson Way,93455,CA,619,1193
+Santa Maria,2125 S. Centerpointe Parkway,93454,CA,620,1083
+Santa Barbara,902 Laguna Street,93101,CA,621,1194
+Santa Maria,2436 Professional Parkway,93455,CA,622,1177
+Santa Maria,511 E. Lakeside Parkway ,93455,CA,623,1086
+Isla Vista,People's Park,93117,CA,624,1195
+Santa Barbara,315 Meigs Road,93109,CA,625,1196
+Santa Maria,3400 Skyway Drive,93455,CA,626,
+Santa Barbara,4400 Cathedral Oaks Rd,93110,CA,627,1181
+Santa Barbara,1400 Santa Barbara Street,93101,CA,628,1199
+Santa Maria,1687 W.  Stowell Road ,93458,CA,629,1198
+Santa Maria,1844 N. Broadway,93454,CA,631,1188
+Santa Maria,613 E. Main Street,93454,CA,632,1178
+Santa Maria,3249 Terminal Drive,93455,CA,633,1200
+Santa Maria,306 N. Broadway,93454,CA,634,1201
+Santa Maria,605 W Main St,93454,CA,635,1071
+Santa Maria,215 W. Main St,93454,CA,636,1202
+Santa Maria,1539 Stowell Center Plaza,93454,CA,637,1188
+Santa Maria,1765 S. Broadway,93454,CA,638,1094
+Santa Maria,2414 S. Broadway ,93454,CA,639,1094
+Santa Maria,2512 S. Broadway ,93454,CA,640,1203
+Solvang,393 Alisal Road,93463,CA,641,1205
+Santa Maria,3400 Skyway Drive,93455,CA,642,1206
+Santa Barbara,234 Camino Del Remedio,93110,CA,643,1182
+Lompoc,1100 W. Laurel Ave,93436,CA,644,1182
+Santa Maria,2125 S. Centerpointe Pkwy,93455,CA,645,1182
+Santa Barbara,301 E Canon Perdido Street,93101,CA,646,1073
+Santa Maria,120 E. Jones St.,93454,CA,647,1207
+Santa Barbara,601 E. Montecito St. ,93103,CA,648,1207
+Santa Barbara,935 San Andres Street,93101,CA,649,1208
+Santa Maria,116 S Palisade,93454,CA,650,1209
+Santa Maria,200 W Cook Street,93458,CA,651,1210
+Santa Maria,1000 N Railroad Street,93458,CA,652,1210
+Orcutt,3486 Orcutt Rd,93455,CA,653,1188
+Santa Barbara,1409 Castillo St,93101,CA,654,1013
+Santa Barbara,15 E Haley St,93101,CA,655,1013
+Santa Barbara,125 W Carillo St,93101,CA,656,1013
+Santa Barbara,47 Broadmoor Plaza,93105,CA,657,1013
+Santa Barbara,514 E Sola St,93103,CA,658,1013
+Santa Barbara,520 W Sola St,93101,CA,659,1013
+Santa Barbara,2483 State St,93105,CA,660,1013
+Santa Barbara,821 Bath St,93101,CA,661,1013
+Santa Barbara,933 San Pascual St,93101,CA,662,1013
+Santa Maria,212 Carmen Lane,93458,CA,663,1039
+Santa Barbara,625 Coronel Pl,93101,CA,664,1013
+Santa Barbara,627 Coronel Pl,93101,CA,665,1013
+Goleta,59 Nectarine Ave,93117,CA,666,1013
+Goleta,65 Nectarine Ave,93117,CA,667,1013
+Carpinteria,4667 Carpinteria Avenue,93013,CA,668,1013
+Santa Maria,225 E Inger Drive,93454,CA,669,1212
+Santa Maria,215 W Main Street,93458,CA,670,1213
+Santa Barbara,1259 Veronica Springs Road,93105,CA,671,1214
+Carpinteria,1024 Casitas Pass Road,93013,CA,672,1188
+Santa Maria,1660 S. Broadway,93456,CA,673,1043
+Lompoc,203 N. N St,93436,CA,674,1215
+Santa Maria,1026 E Sierra Madre Ave,93454,CA,675,1216
+Goleta,5575 Armitos Avenue ,93117,CA,676,1011
+Goleta,131 S Kellogg Ave,93117,CA,677,1041
+Santa Barbara,2020 Allameda Padre Serra,93103,CA,678,1049
+Santa Barbara,3891 State St,93101,CA,679,1050
+Lompoc,119 N. D Street,93436,CA,680,897
+Lompoc,115 E. College Ave,93436,CA,681,975
+Santa Barbara,301 W. Figueroa St,93101,CA,682,1217
+Santa Barbara,1209 State St,93101,CA,683,1218
+Santa Maria,709 N. CURRYER ST.,93458,CA,684,1221
+Santa Barbara,1401 Chapala Street,93101,CA,685,1219
+Santa Maria,901 South Broadway,93454,CA,686,1219
+Lompoc,234 S N St,93436,CA,687,1219
+Santa Maria,1400 E. Church Street,93454,CA,688,1219
+Santa Barbara,"UCSB, Building 434",93106,CA,689,1222
+Santa Barbara,721 Cliff Drive,93109,CA,690,1223
+Santa Barbara,118 E. Figueroa Street,93101,CA,691,1229
+Lompoc,115 Civic Center Plaza,93436,CA,692,1229
+Santa Maria,312-M E. Cook Street,93454,CA,693,1229
+Santa Maria,Santa Maria,93454,CA,694,1230
+Santa Barbara,315 Camino Del Remedio,93110,CA,695,1232
+Lompoc,401 E. Cypress Avenue,93436,CA,696,1232
+Santa Maria,624 Foster Road,93454,CA,697,1232
+Santa Maria,1410 S. Broadway,93454,CA,698,1234
+Santa Maria,PO Box 5654,93456,CA,699,1236
+Santa Maria,720 E. El Camino Street,93454,CA,700,1237
+Ventura,790 E. Santa Clara Street,93001,CA,701,1238
+San Luis Obispo,1070 Southwood Drive,93401,CA,702,1238
+Santa Barbara,4440 Calle Real,93110,CA,703,1242
+Santa Maria,1550 E. Main Street,93454,CA,704,1242
+Ventura,801 Seneca Street,93001,CA,705,1246
+Santa Maria,400 W. Church Street,93454,CA,706,1249
+Santa Barbara, 320 E. Gutierrez Street,93101,CA,707,1251
+Santa Maria,1660 S. Broadway,93454,CA,708,1251
+Santa Barbara,324 E. Carrillo Street,93101,CA,709,1252
+Santa Maria,212 West Carmen Lane,93458,CA,710,1253
+Santa Barbara,315 Camino Del Remedio,93110,CA,711,1253
+Santa Maria,500 West Foster Road,93454,CA,712,1254
+Santa Barbara,429 N San Antonio Road,93110,CA,713,1254
+Lompoc,401 East Ocean Avenue,93436,CA,714,1254
+Santa Barbara,923 Olive Street,93101,CA,715,
+Santa Barbara,111 E. Arrellaga Street,93101,CA,716,1256
+Isla Vista,889 Camino Del Sur,93117,CA,717,1257
+Santa Barbara,1111 Garden St,93101,CA,719,835
+Santa Barbara,232 E. Canon Perdido St,93101,CA,720,835
+Santa Barbara,1111 Garden St ,93101,CA,721,835
+Santa Barbara,1290 De La Vina Street,93101,CA,722,1258
+Santa Barbara,123 West Gutierrez,93101,CA,724,1259
+Santa Maria,105 N. Lincoln Street,93458,CA,725,1259
+Lompoc,101 South B Street,93436,CA,726,1259
+Lompoc,646 North H Street,93436,CA,727,1259
+Santa Maria,648 E. Enos Dr,93454,CA,728,1259
+Carpinteria,5201 8th St,93013,CA,729,1259
+Guadalupe,4681 11th Street,93434,CA,730,1259
+Santa Maria,2560 Skyway Drive,93455,CA,731,1260
+Santa Maria,4893 Bethany Drive,93455,CA,732,1260
+Santa Maria,941 E. Foster Road,93455,CA,733,1260
+Santa Maria,675 Panther Drive,93454,CA,734,1260
+Santa Maria,901 South Broadway,93454,CA,735,1260
+Santa Barbara,632 East Canon Perdido Street,93013,CA,736,1261
+Santa Maria,120 E. Jones Street,93454,CA,737,1262
+Santa Barbara,1219 State Street,93101,CA,738,1262
+Santa Barbara,315 W. Haley Street,93101,CA,739,1263
+Santa Maria,2450 Professional Parkway,93455,CA,740,1263
+Santa Barbara,902 Laguna Street,93101,CA,741,1263
+Santa Barbara,315 W. Haley Street ,93101,CA,742,1263
+Santa Barbara,320 Laguna Street,93101,CA,743,1264
+Santa Barbara,2253 Las Positas Road,93105,CA,744,1265
+Santa Maria,120 E. Jones Street,93454,CA,745,1265
+Santa Barbara,309 S. Voluntario Learning Center,93101,CA,746,1166
+Santa Barbara,710 Santa Barbara St.,93101,CA,747,1266
+Goleta,7266 Alameda Avenue ,93117,CA,748,1266
+Santa Barbara,4750 Hollister Ave,93110,CA,749,1266
+Santa Barbara,700 East Anapamu St,93103,CA,750,1266
+Santa Barbara,126 E. Haley St,93101,CA,751,1267
+Santa Maria,110 S. Lincoln St,93458,CA,752,1267
+Santa Barbara,1215 De La Vina Street,93101,CA,753,1268
+Santa Barbara,7 West Figueroa,93101,CA,754,1075
