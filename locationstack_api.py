@@ -8,8 +8,8 @@ fetched_data: List[Dict] = []
 
 
 async def get_lat_long_data():
-    total_calls: int = 0
     try:
+        total_calls: int = 0
         with open("./location_api_key.txt") as key_data:
             access_key: str = key_data.read()
             saved_json_data: List[Dict] = loads(
