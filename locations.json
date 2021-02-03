@@ -1,7 +1,7 @@
 [
   {
     "city": "Lompoc",
-    "address": "325 N. Second Street",
+    "address": "325 Second Street",
     "zip": "93436",
     "state": "CA",
     "id": "1",
@@ -33,7 +33,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "327 E. Victoria Street",
+    "address": "327 Victoria Street",
     "zip": "93101",
     "state": "CA",
     "id": "10",
@@ -57,7 +57,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 W. Haley Street",
+    "address": "227 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "13",
@@ -65,7 +65,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": " 2434 Bath Street",
+    "address": "2434 Bath Street",
     "zip": "93105",
     "state": "CA",
     "id": "14",
@@ -81,7 +81,7 @@
   },
   {
     "city": "Lompoc ",
-    "address": "1100 W Laurel Avenue",
+    "address": "1100 Laurel Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "16",
@@ -97,7 +97,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "535 E. Yanonali Street",
+    "address": "535 Yanonali Street",
     "zip": "93103",
     "state": "CA",
     "id": "18",
@@ -121,7 +121,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": "731 E Haley St",
+    "address": "731 Haley St",
     "zip": "93103",
     "state": "CA",
     "id": "21",
@@ -129,7 +129,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "23 W Mission St",
+    "address": "23 Mission St",
     "zip": "93101",
     "state": "CA",
     "id": "22",
@@ -137,7 +137,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "231 W Haley St",
+    "address": "231 Haley St",
     "zip": "93101",
     "state": "CA",
     "id": "23",
@@ -153,7 +153,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": "604 N. Kellog Avenue",
+    "address": "604 Kellog Avenue",
     "zip": "93111",
     "state": "CA",
     "id": "25",
@@ -185,7 +185,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "400 W. Pueblo Street",
+    "address": "400 Pueblo Street",
     "zip": "93105",
     "state": "CA",
     "id": "29",
@@ -193,7 +193,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "133 W. Haley Street",
+    "address": "133 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "30",
@@ -201,7 +201,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "24 W. Arrellaga Street",
+    "address": "24 Arrellaga Street",
     "zip": "93101",
     "state": "CA",
     "id": "31",
@@ -209,7 +209,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "535 E. Yanonali Street",
+    "address": "535 Yanonali Street",
     "zip": "93103",
     "state": "CA",
     "id": "32",
@@ -217,7 +217,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "316 W. Montecito Street",
+    "address": "316 Montecito Street",
     "zip": "93101",
     "state": "CA",
     "id": "33",
@@ -241,7 +241,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "232 E. Canon Perdido Street",
+    "address": "232 Canon Perdido Street",
     "zip": "93101",
     "state": "CA",
     "id": "36",
@@ -249,7 +249,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "26 W. Figueroa Street",
+    "address": "26 Figueroa Street",
     "zip": "93101",
     "state": "CA",
     "id": "39",
@@ -257,7 +257,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "24 W. Arrellaga Street",
+    "address": "24 Arrellaga Street",
     "zip": "93101",
     "state": "CA",
     "id": "40",
@@ -265,7 +265,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "4129 State Street ",
+    "address": "4129 State Street",
     "zip": "93110",
     "state": "CA",
     "id": "44",
@@ -273,7 +273,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": "205 W. Mission Street",
+    "address": "205 Mission Street",
     "zip": "93101",
     "state": "CA",
     "id": "46",
@@ -305,7 +305,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "235 E. Cota",
+    "address": "235 Cota",
     "zip": "93101",
     "state": "CA",
     "id": "50",
@@ -313,7 +313,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 W. Haley Street",
+    "address": "227 Haley Street",
     "zip": "93103",
     "state": "CA",
     "id": "51",
@@ -329,7 +329,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "235 E. Cota Street",
+    "address": "235 Cota Street",
     "zip": "93101",
     "state": "CA",
     "id": "53",
@@ -337,7 +337,7 @@
   },
   {
     "city": "Lompoc ",
-    "address": "109 N H Street ",
+    "address": "109 H Street",
     "zip": "93436",
     "state": "CA",
     "id": "54",
@@ -345,7 +345,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "130 E Ortega Street ",
+    "address": "130 Ortega Street",
     "zip": "93101",
     "state": "CA",
     "id": "56",
@@ -353,7 +353,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": "125 E De La Guerra St Ste A",
+    "address": "125 De La Guerra St Ste A",
     "zip": "93101",
     "state": "CA",
     "id": "58",
@@ -361,7 +361,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": "1300 Santa Barbara St Ste A ",
+    "address": "1300 Santa Barbara St Ste A",
     "zip": "93101",
     "state": "CA",
     "id": "59",
@@ -369,7 +369,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "3700 State Street Ste 200 ",
+    "address": "3700 State Street Ste 200",
     "zip": "93105",
     "state": "CA",
     "id": "60",
@@ -409,7 +409,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "127 E. Carrillo Street",
+    "address": "127 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "80",
@@ -425,7 +425,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 E. Arrellaga Street",
+    "address": "227 Arrellaga Street",
     "zip": "93101",
     "state": "CA",
     "id": "82",
@@ -433,7 +433,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "21 E. Constance Avenue",
+    "address": "21 Constance Avenue",
     "zip": "93105",
     "state": "CA",
     "id": "83",
@@ -441,7 +441,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "305 E. Anapamu Street",
+    "address": "305 Anapamu Street",
     "zip": "93101",
     "state": "CA",
     "id": "84",
@@ -449,7 +449,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 W. Haley Street",
+    "address": "227 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "85",
@@ -457,7 +457,7 @@
   },
   {
     "city": "Santa Barbara ",
-    "address": " 721 Cliff Drive",
+    "address": "721 Cliff Drive",
     "zip": "93109",
     "state": "CA",
     "id": "86",
@@ -481,7 +481,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "601 E. Montecito Street",
+    "address": "601 Montecito Street",
     "zip": "93103",
     "state": "CA",
     "id": "89",
@@ -497,7 +497,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "112 W. Cabrillo Boulevard",
+    "address": "112 Cabrillo Boulevard",
     "zip": "93101",
     "state": "CA",
     "id": "91",
@@ -513,7 +513,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "21 E. Constance Avenue",
+    "address": "21 Constance Avenue",
     "zip": "93105",
     "state": "CA",
     "id": "93",
@@ -585,7 +585,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1455 E. Valley Road",
+    "address": "1455 Valley Road",
     "zip": "93108",
     "state": "CA",
     "id": "106",
@@ -593,7 +593,7 @@
   },
   {
     "city": "Montecito",
-    "address": "1300 E. Valley Road",
+    "address": "1300 Valley Road",
     "zip": "93108",
     "state": "CA",
     "id": "107",
@@ -697,7 +697,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 E. Arrellaga Street",
+    "address": "227 Arrellaga Street",
     "zip": "93101",
     "state": "CA",
     "id": "120",
@@ -721,7 +721,7 @@
   },
   {
     "city": "Santa Maria ",
-    "address": "2125 S Broadway",
+    "address": "2125 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "123",
@@ -761,7 +761,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "5018 Calle Real ",
+    "address": "5018 Calle Real",
     "zip": "93111",
     "state": "CA",
     "id": "128",
@@ -785,7 +785,7 @@
   },
   {
     "city": "Goleta",
-    "address": "677 North Turnpike Road",
+    "address": "677 Turnpike Road",
     "zip": "93111",
     "state": "CA",
     "id": "131",
@@ -793,7 +793,7 @@
   },
   {
     "city": "Goleta",
-    "address": "380 N. Fairview",
+    "address": "380 Fairview",
     "zip": "93117",
     "state": "CA",
     "id": "132",
@@ -817,7 +817,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "107 E. Micheltorena Street",
+    "address": "107 Micheltorena Street",
     "zip": "93101",
     "state": "CA",
     "id": "135",
@@ -833,7 +833,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "830 W. Church St.",
+    "address": "830 Church St.",
     "zip": "93458",
     "state": "CA",
     "id": "137",
@@ -841,7 +841,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "113 N. F Street",
+    "address": "113 F Street",
     "zip": "93436",
     "state": "CA",
     "id": "138",
@@ -849,7 +849,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1414 S. Miller St. ",
+    "address": "1414 Miller St.",
     "zip": "93454",
     "state": "CA",
     "id": "139",
@@ -857,7 +857,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "133 North F St.",
+    "address": "133 F St.",
     "zip": "93436",
     "state": "CA",
     "id": "140",
@@ -865,7 +865,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "115 N. D Street",
+    "address": "115 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "141",
@@ -881,7 +881,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "113 N. F Street",
+    "address": "113 F Street",
     "zip": "93436",
     "state": "CA",
     "id": "143",
@@ -897,7 +897,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "245 E. Inger Drive ",
+    "address": "245 Inger Drive",
     "zip": "93454",
     "state": "CA",
     "id": "145",
@@ -905,7 +905,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "113 South M Street",
+    "address": "113 M Street",
     "zip": "93436",
     "state": "CA",
     "id": "146",
@@ -913,7 +913,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "604 W. Ocean Avenue",
+    "address": "604 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "147",
@@ -929,7 +929,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "115 E College Ave",
+    "address": "115 College Ave",
     "zip": "93436",
     "state": "CA",
     "id": "149",
@@ -937,7 +937,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "129 N. I Street",
+    "address": "129 I Street",
     "zip": "93436",
     "state": "CA",
     "id": "150",
@@ -945,7 +945,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "113 N. V Street ",
+    "address": "113 V Street",
     "zip": "93436",
     "state": "CA",
     "id": "151",
@@ -953,7 +953,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "119 N. D Street",
+    "address": "119 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "152",
@@ -961,7 +961,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "119 N. D Street",
+    "address": "119 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "153",
@@ -969,7 +969,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "118 N. A Street ",
+    "address": "118 A Street",
     "zip": "93436",
     "state": "CA",
     "id": "154",
@@ -993,7 +993,7 @@
   },
   {
     "city": "Buellton",
-    "address": "164 W. Hwy 246",
+    "address": "164 Hwy 246",
     "zip": "93427",
     "state": "CA",
     "id": "157",
@@ -1009,7 +1009,7 @@
   },
   {
     "city": "Solvang",
-    "address": " 1760 Mission Drive #G",
+    "address": "1760 Mission Drive #G",
     "zip": "93463",
     "state": "CA",
     "id": "159",
@@ -1017,7 +1017,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1017 E. Ocean Avenue",
+    "address": "1017 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "160",
@@ -1025,7 +1025,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "513 N. G Street",
+    "address": "513 G Street",
     "zip": "93436",
     "state": "CA",
     "id": "161",
@@ -1041,7 +1041,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401-B W. Morrison Avenue",
+    "address": "401-B Morrison Avenue",
     "zip": "93454",
     "state": "CA",
     "id": "163",
@@ -1049,7 +1049,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1207 N. McClelland Road",
+    "address": "1207 McClelland Road",
     "zip": "93454",
     "state": "CA",
     "id": "164",
@@ -1057,7 +1057,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "412 E. Tunnell st.",
+    "address": "412 Tunnell st.",
     "zip": "93454",
     "state": "CA",
     "id": "165",
@@ -1065,7 +1065,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "412b E Tunnell St",
+    "address": "412b Tunnell St",
     "zip": "93454",
     "state": "CA",
     "id": "166",
@@ -1073,7 +1073,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "245 E. Inger Drive",
+    "address": "245 Inger Drive",
     "zip": "93454",
     "state": "CA",
     "id": "167",
@@ -1081,7 +1081,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "115 E. Fesler Street",
+    "address": "115 Fesler Street",
     "zip": "93454",
     "state": "CA",
     "id": "168",
@@ -1089,7 +1089,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "801 E. Chapel Street",
+    "address": "801 Chapel Street",
     "zip": "93454",
     "state": "CA",
     "id": "169",
@@ -1097,7 +1097,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "318 W. Carmel Lane",
+    "address": "318 Carmel Lane",
     "zip": "93454",
     "state": "CA",
     "id": "170",
@@ -1105,7 +1105,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1414 S. Miller Street",
+    "address": "1414 Miller Street",
     "zip": "93454",
     "state": "CA",
     "id": "171",
@@ -1113,7 +1113,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "301 S. Miller Street",
+    "address": "301 Miller Street",
     "zip": "93454",
     "state": "CA",
     "id": "172",
@@ -1121,7 +1121,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401 W. Morrison Avenue",
+    "address": "401 Morrison Avenue",
     "zip": "93458",
     "state": "CA",
     "id": "173",
@@ -1129,7 +1129,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1517 S. Broadway",
+    "address": "1517 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "174",
@@ -1137,7 +1137,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "209 W. Main Street",
+    "address": "209 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "175",
@@ -1145,7 +1145,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "324 W. Cypress St",
+    "address": "324 Cypress St",
     "zip": "93458",
     "state": "CA",
     "id": "176",
@@ -1153,7 +1153,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "209 W. Main Street",
+    "address": "209 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "177",
@@ -1161,7 +1161,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "209 W. Main Street",
+    "address": "209 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "178",
@@ -1169,7 +1169,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "408 N. McClelland Street",
+    "address": "408 McClelland Street",
     "zip": "93454",
     "state": "CA",
     "id": "179",
@@ -1177,7 +1177,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1027 W. Main Street",
+    "address": "1027 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "180",
@@ -1193,7 +1193,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "324 W. Cypress Street",
+    "address": "324 Cypress Street",
     "zip": "93454",
     "state": "CA",
     "id": "182",
@@ -1201,7 +1201,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "324 W. Cypress Street",
+    "address": "324 Cypress Street",
     "zip": "93454",
     "state": "CA",
     "id": "183",
@@ -1217,7 +1217,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "209 W. Main Street",
+    "address": "209 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "185",
@@ -1257,7 +1257,7 @@
   },
   {
     "city": "Orcutt",
-    "address": "126 S. Broadway",
+    "address": "126 Broadway",
     "zip": "93455",
     "state": "CA",
     "id": "190",
@@ -1273,7 +1273,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1265 W. McCoy Road ",
+    "address": "1265 McCoy Road",
     "zip": "93454",
     "state": "CA",
     "id": "192",
@@ -1297,7 +1297,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "509 W. Morrison Ave",
+    "address": "509 Morrison Ave",
     "zip": "93454",
     "state": "CA",
     "id": "195",
@@ -1305,7 +1305,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "731 S. Lincoln Street",
+    "address": "731 Lincoln Street",
     "zip": "93454",
     "state": "CA",
     "id": "196",
@@ -1321,7 +1321,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "123 S. College Drive",
+    "address": "123 College Drive",
     "zip": "93454",
     "state": "CA",
     "id": "198",
@@ -1329,7 +1329,7 @@
   },
   {
     "city": "Goleta",
-    "address": "5679 Hollister Ave ",
+    "address": "5679 Hollister Ave",
     "zip": "93117",
     "state": "CA",
     "id": "199",
@@ -1361,7 +1361,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "112 W. Cabrillo Boulevard",
+    "address": "112 Cabrillo Boulevard",
     "zip": "93101",
     "state": "CA",
     "id": "203",
@@ -1385,7 +1385,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1027 N. Main Street",
+    "address": "1027 Main Street",
     "zip": "93101",
     "state": "CA",
     "id": "206",
@@ -1393,7 +1393,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "129 N. I Street Ste. E",
+    "address": "129 I Street Ste. E",
     "zip": "93436",
     "state": "CA",
     "id": "207",
@@ -1401,7 +1401,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "119 N. D Street",
+    "address": "119 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "208",
@@ -1409,7 +1409,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "119 N. D Street",
+    "address": "119 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "209",
@@ -1417,7 +1417,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "118 N. A Street",
+    "address": "118 A Street",
     "zip": "93436",
     "state": "CA",
     "id": "210",
@@ -1425,7 +1425,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "113 S M Street",
+    "address": "113 M Street",
     "zip": "93436",
     "state": "CA",
     "id": "211",
@@ -1433,7 +1433,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "604 W. Ocean Avenue",
+    "address": "604 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "212",
@@ -1441,7 +1441,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "232 East Canon Perdido Street",
+    "address": "232 Canon Perdido Street",
     "zip": "93101",
     "state": "CA",
     "id": "215",
@@ -1449,7 +1449,7 @@
   },
   {
     "city": "Los Angeles",
-    "address": "4470 West Sunset Boulevard",
+    "address": "4470 Sunset Boulevard",
     "zip": "90027",
     "state": "CA",
     "id": "216",
@@ -1457,7 +1457,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1530 Chapala Street ",
+    "address": "1530 Chapala Street",
     "zip": "93101",
     "state": "CA",
     "id": "217",
@@ -1465,7 +1465,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "120 East Jones Street",
+    "address": "120 Jones Street",
     "zip": "93454",
     "state": "CA",
     "id": "218",
@@ -1481,7 +1481,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1000 W. Ocean Avenue",
+    "address": "1000 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "220",
@@ -1497,7 +1497,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "411 E. Canon Perdido St",
+    "address": "411 Canon Perdido St",
     "zip": "93101",
     "state": "CA",
     "id": "222",
@@ -1505,7 +1505,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "203 N. N Street",
+    "address": "203 N Street",
     "zip": "93436",
     "state": "CA",
     "id": "223",
@@ -1513,7 +1513,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "815 W. Ocean Avenue",
+    "address": "815 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "224",
@@ -1529,7 +1529,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "648 N. G Streeet ",
+    "address": "648 G Streeet",
     "zip": "93436",
     "state": "CA",
     "id": "228",
@@ -1537,7 +1537,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "500 N. T Street",
+    "address": "500 T Street",
     "zip": "93436",
     "state": "CA",
     "id": "229",
@@ -1545,7 +1545,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "504 N. T Street",
+    "address": "504 T Street",
     "zip": "93436",
     "state": "CA",
     "id": "230",
@@ -1553,7 +1553,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "725 N. E Street",
+    "address": "725 E Street",
     "zip": "93436",
     "state": "CA",
     "id": "231",
@@ -1561,7 +1561,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "729 N. E Street",
+    "address": "729 E Street",
     "zip": "93436",
     "state": "CA",
     "id": "232",
@@ -1569,7 +1569,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "733 N. E Street",
+    "address": "733 E Street",
     "zip": "93436",
     "state": "CA",
     "id": "233",
@@ -1593,7 +1593,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "11 East Haley Street",
+    "address": "11 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "236",
@@ -1609,7 +1609,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "104 S. C Street",
+    "address": "104 C Street",
     "zip": "93436",
     "state": "CA",
     "id": "238",
@@ -1617,7 +1617,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "117 N. B Street",
+    "address": "117 B Street",
     "zip": "93436",
     "state": "CA",
     "id": "239",
@@ -1625,7 +1625,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1010 N. H Street",
+    "address": "1010 H Street",
     "zip": "93436",
     "state": "CA",
     "id": "240",
@@ -1633,7 +1633,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "513 N. G Street",
+    "address": "513 G Street",
     "zip": "93436",
     "state": "CA",
     "id": "241",
@@ -1649,7 +1649,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1515 E. Ocean Avenue",
+    "address": "1515 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "243",
@@ -1657,7 +1657,7 @@
   },
   {
     "city": "Buellton",
-    "address": "164 W. Highway 246",
+    "address": "164 Highway 246",
     "zip": "93427",
     "state": "CA",
     "id": "244",
@@ -1665,7 +1665,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "135 S. E Street",
+    "address": "135 E Street",
     "zip": "93436",
     "state": "CA",
     "id": "245",
@@ -1673,7 +1673,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "500 E. North Ave",
+    "address": "500 North Ave",
     "zip": "93436",
     "state": "CA",
     "id": "246",
@@ -1681,7 +1681,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "314 N. N Street",
+    "address": "314 N Street",
     "zip": "93436",
     "state": "CA",
     "id": "247",
@@ -1689,7 +1689,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "403 N. J Street",
+    "address": "403 J Street",
     "zip": "93436",
     "state": "CA",
     "id": "248",
@@ -1697,7 +1697,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "125 N. C Street",
+    "address": "125 C Street",
     "zip": "93436",
     "state": "CA",
     "id": "249",
@@ -1705,7 +1705,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "213 W. Olive Avenue",
+    "address": "213 Olive Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "250",
@@ -1713,7 +1713,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "816 N. C Street",
+    "address": "816 C Street",
     "zip": "93436",
     "state": "CA",
     "id": "251",
@@ -1721,7 +1721,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "38 N. B Street",
+    "address": "38 B Street",
     "zip": "93436",
     "state": "CA",
     "id": "252",
@@ -1745,7 +1745,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "925 N. F Street",
+    "address": "925 F Street",
     "zip": "93436",
     "state": "CA",
     "id": "255",
@@ -1753,7 +1753,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "917 W. Ocean Ave",
+    "address": "917 Ocean Ave",
     "zip": "93436",
     "state": "CA",
     "id": "256",
@@ -1761,7 +1761,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "213 N. J Street",
+    "address": "213 J Street",
     "zip": "93436",
     "state": "CA",
     "id": "257",
@@ -1777,7 +1777,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "213 North J Street",
+    "address": "213 J Street",
     "zip": "93436",
     "state": "CA",
     "id": "259",
@@ -1785,7 +1785,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1100 W. Laurel Avenue",
+    "address": "1100 Laurel Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "260",
@@ -1801,7 +1801,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Centerpointe Pkwy",
+    "address": "2125 Centerpointe Pkwy",
     "zip": "93455",
     "state": "CA",
     "id": "262",
@@ -1825,7 +1825,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "305 E. Anapamu Street",
+    "address": "305 Anapamu Street",
     "zip": "93101",
     "state": "CA",
     "id": "265",
@@ -1833,7 +1833,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "21 E. Constance Avenue",
+    "address": "21 Constance Avenue",
     "zip": "93105",
     "state": "CA",
     "id": "266",
@@ -1865,7 +1865,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "125 W. Carrillo Street",
+    "address": "125 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "270",
@@ -1881,7 +1881,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "66 S. San Antonio Street",
+    "address": "66 San Antonio Street",
     "zip": "93110",
     "state": "CA",
     "id": "272",
@@ -1897,7 +1897,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "26 E. Victoria Street",
+    "address": "26 Victoria Street",
     "zip": "93101",
     "state": "CA",
     "id": "274",
@@ -1961,7 +1961,7 @@
   },
   {
     "city": "Goleta",
-    "address": "155 S. Kellogg Avenue",
+    "address": "155 Kellogg Avenue",
     "zip": "93117",
     "state": "CA",
     "id": "282",
@@ -1985,7 +1985,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "648 North G Street",
+    "address": "648 G Street",
     "zip": "93436",
     "state": "CA",
     "id": "285",
@@ -1993,7 +1993,7 @@
   },
   {
     "city": "Orcutt",
-    "address": "290 Parkview South",
+    "address": "290 Parkview",
     "zip": "93455",
     "state": "CA",
     "id": "286",
@@ -2001,7 +2001,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "21 E. Anapamu Street",
+    "address": "21 Anapamu Street",
     "zip": "93101",
     "state": "CA",
     "id": "287",
@@ -2009,7 +2009,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "510 N. Salsipuedes",
+    "address": "510 Salsipuedes",
     "zip": "93103",
     "state": "CA",
     "id": "288",
@@ -2033,7 +2033,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "24 E. Victoria Street",
+    "address": "24 Victoria Street",
     "zip": "93103",
     "state": "CA",
     "id": "291",
@@ -2041,7 +2041,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "210 W. Victoria Street",
+    "address": "210 Victoria Street",
     "zip": "93103",
     "state": "CA",
     "id": "292",
@@ -2049,7 +2049,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1026 W. Boone Street",
+    "address": "1026 Boone Street",
     "zip": "93458",
     "state": "CA",
     "id": "293",
@@ -2057,7 +2057,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1148 W. Boone Street",
+    "address": "1148 Boone Street",
     "zip": "93458",
     "state": "CA",
     "id": "294",
@@ -2065,7 +2065,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "525 South Russell Avenue",
+    "address": "525 Russell Avenue",
     "zip": "93458",
     "state": "CA",
     "id": "295",
@@ -2081,7 +2081,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "280 E. Newlove Drive",
+    "address": "280 Newlove Drive",
     "zip": "93458",
     "state": "CA",
     "id": "297",
@@ -2089,7 +2089,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1760 S. McClelland",
+    "address": "1760 McClelland",
     "zip": "93458",
     "state": "CA",
     "id": "298",
@@ -2097,7 +2097,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "250 E. Newlove Drive",
+    "address": "250 Newlove Drive",
     "zip": "93458",
     "state": "CA",
     "id": "299",
@@ -2105,7 +2105,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "324 E. Carrillo Street",
+    "address": "324 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "300",
@@ -2121,7 +2121,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "320 E. Gutierrez Street",
+    "address": "320 Gutierrez Street",
     "zip": "93101",
     "state": "CA",
     "id": "302",
@@ -2129,7 +2129,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "222 W. Valiero Street",
+    "address": "222 Valiero Street",
     "zip": "93101",
     "state": "CA",
     "id": "303",
@@ -2145,7 +2145,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "400 W. Pueblo Street",
+    "address": "400 Pueblo Street",
     "zip": "93105",
     "state": "CA",
     "id": "313",
@@ -2153,7 +2153,7 @@
   },
   {
     "city": "Goleta",
-    "address": "351 S Patterson Ave",
+    "address": "351 Patterson Ave",
     "zip": "93111",
     "state": "CA",
     "id": "314",
@@ -2177,7 +2177,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "403 East Montecito Street",
+    "address": "403 Montecito Street",
     "zip": "93101",
     "state": "CA",
     "id": "317",
@@ -2185,7 +2185,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "334 South Patterson",
+    "address": "334 Patterson",
     "zip": "93111",
     "state": "CA",
     "id": "318",
@@ -2193,7 +2193,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "324 East Carrillo Street",
+    "address": "324 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "319",
@@ -2217,7 +2217,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "123 S College Drive",
+    "address": "123 College Drive",
     "zip": "93454",
     "state": "CA",
     "id": "322",
@@ -2241,7 +2241,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "240 E. Roemer Way",
+    "address": "240 Roemer Way",
     "zip": "93454",
     "state": "CA",
     "id": "325",
@@ -2273,7 +2273,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "350 S. Hope Ave.",
+    "address": "350 Hope Ave.",
     "zip": "93101",
     "state": "CA",
     "id": "329",
@@ -2281,7 +2281,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "115 West Ca\u00f1on Perdido Street",
+    "address": "115 Ca\u00f1on Perdido Street",
     "zip": "93101",
     "state": "CA",
     "id": "330",
@@ -2289,7 +2289,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "500 West Foster Road",
+    "address": "500 Foster Road",
     "zip": "93455",
     "state": "CA",
     "id": "331",
@@ -2337,7 +2337,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "729 North H St.",
+    "address": "729 H St.",
     "zip": "93436",
     "state": "CA",
     "id": "338",
@@ -2361,7 +2361,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "120 East Jones Street",
+    "address": "120 Jones Street",
     "zip": "93454",
     "state": "CA",
     "id": "341",
@@ -2369,7 +2369,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "102 E Ocean Ave.",
+    "address": "102 Ocean Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "343",
@@ -2377,7 +2377,7 @@
   },
   {
     "city": "Santa Ynez",
-    "address": "890 N Refugio Rd",
+    "address": "890 Refugio Rd",
     "zip": "93454",
     "state": "CA",
     "id": "344",
@@ -2393,7 +2393,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "312-P East Cook Street",
+    "address": "312-P Cook Street",
     "zip": "93454",
     "state": "CA",
     "id": "346",
@@ -2425,7 +2425,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "312 E. Cook Street",
+    "address": "312 Cook Street",
     "zip": "93456",
     "state": "CA",
     "id": "350",
@@ -2441,7 +2441,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "609 E. Haley St.",
+    "address": "609 Haley St.",
     "zip": "93101",
     "state": "CA",
     "id": "352",
@@ -2457,7 +2457,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "607 W. Main Street",
+    "address": "607 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "354",
@@ -2465,7 +2465,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "325 North Second Street",
+    "address": "325 Second Street",
     "zip": "93436",
     "state": "CA",
     "id": "355",
@@ -2497,7 +2497,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "117 E Carrillo Street",
+    "address": "117 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "359",
@@ -2521,7 +2521,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "415 East Cypress Ave",
+    "address": "415 Cypress Ave",
     "zip": "93436",
     "state": "CA",
     "id": "362",
@@ -2529,7 +2529,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2121 S. Centerpointe Parkway",
+    "address": "2121 Centerpointe Parkway",
     "zip": "93455",
     "state": "CA",
     "id": "363",
@@ -2545,7 +2545,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "124 Carmen Lane ",
+    "address": "124 Carmen Lane",
     "zip": "93458",
     "state": "CA",
     "id": "365",
@@ -2553,7 +2553,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "604 E. Ocean Ave ",
+    "address": "604 Ocean Ave",
     "zip": "93436",
     "state": "CA",
     "id": "366",
@@ -2569,7 +2569,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "312 East Cook Street",
+    "address": "312 Cook Street",
     "zip": "93454",
     "state": "CA",
     "id": "368",
@@ -2585,7 +2585,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "300 N. San Antonio Rd",
+    "address": "300 San Antonio Rd",
     "zip": "93110",
     "state": "CA",
     "id": "371",
@@ -2633,7 +2633,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "301 N. R Street",
+    "address": "301 R Street",
     "zip": "93436",
     "state": "CA",
     "id": "377",
@@ -2641,7 +2641,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2115 S. Centerpointe Parkway",
+    "address": "2115 Centerpointe Parkway",
     "zip": "93455",
     "state": "CA",
     "id": "378",
@@ -2657,7 +2657,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1111 E. Mason St",
+    "address": "1111 Mason St",
     "zip": "93103",
     "state": "CA",
     "id": "380",
@@ -2665,7 +2665,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "301 North R Street",
+    "address": "301 R Street",
     "zip": "93436",
     "state": "CA",
     "id": "381",
@@ -2681,7 +2681,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "425 W. Central Avenue",
+    "address": "425 Central Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "383",
@@ -2689,7 +2689,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1225 North H St",
+    "address": "1225 H St",
     "zip": "93436",
     "state": "CA",
     "id": "384",
@@ -2697,7 +2697,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "506 East Plaza Drive ",
+    "address": "506 Plaza Drive",
     "zip": "93454",
     "state": "CA",
     "id": "385",
@@ -2705,7 +2705,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1444 S. Broadway",
+    "address": "1444 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "386",
@@ -2713,7 +2713,7 @@
   },
   {
     "city": "Solvang",
-    "address": "545 N. Alisal Road",
+    "address": "545 Alisal Road",
     "zip": "93463",
     "state": "CA",
     "id": "387",
@@ -2729,7 +2729,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1100 W. Laurel Avenue",
+    "address": "1100 Laurel Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "389",
@@ -2737,7 +2737,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "120 W. Chestnut Avenue",
+    "address": "120 Chestnut Avenue",
     "zip": "93437",
     "state": "CA",
     "id": "391",
@@ -2745,7 +2745,7 @@
   },
   {
     "city": "Los Angeles",
-    "address": "320 West 4th Street",
+    "address": "320 4th Street",
     "zip": "90013",
     "state": "CA",
     "id": "393",
@@ -2753,7 +2753,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "401 E. Cypress Street",
+    "address": "401 Cypress Street",
     "zip": "93436",
     "state": "CA",
     "id": "394",
@@ -2761,7 +2761,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1601 N H Street",
+    "address": "1601 H Street",
     "zip": "93436",
     "state": "CA",
     "id": "395",
@@ -2769,7 +2769,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "523 S McClelland Street",
+    "address": "523 McClelland Street",
     "zip": "93454",
     "state": "CA",
     "id": "396",
@@ -2793,7 +2793,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "110 West Sola Street",
+    "address": "110 Sola Street",
     "zip": "93101",
     "state": "CA",
     "id": "399",
@@ -2825,7 +2825,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1100 W Laurel Ave",
+    "address": "1100 Laurel Ave",
     "zip": "93436",
     "state": "CA",
     "id": "403",
@@ -2833,7 +2833,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Centerpointer Pkwy",
+    "address": "2125 Centerpointer Pkwy",
     "zip": "93455",
     "state": "CA",
     "id": "404",
@@ -2841,7 +2841,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1444 S. Broadway",
+    "address": "1444 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "405",
@@ -2849,7 +2849,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "304 W. Carmen Lane",
+    "address": "304 Carmen Lane",
     "zip": "93458",
     "state": "CA",
     "id": "406",
@@ -2857,7 +2857,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1410 S. Broadway",
+    "address": "1410 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "407",
@@ -2865,7 +2865,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "50 E. Alamar Avenue",
+    "address": "50 Alamar Avenue",
     "zip": "93105",
     "state": "CA",
     "id": "408",
@@ -2873,7 +2873,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "130 E. Ortega Street",
+    "address": "130 Ortega Street",
     "zip": "93101",
     "state": "CA",
     "id": "409",
@@ -2889,7 +2889,7 @@
   },
   {
     "city": "Buellton",
-    "address": "111 Commerce Drive ",
+    "address": "111 Commerce Drive",
     "zip": "93427",
     "state": "CA",
     "id": "411",
@@ -2905,7 +2905,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1501 West Central Avenue",
+    "address": "1501 Central Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "413",
@@ -2913,7 +2913,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "548 W. Foster Road",
+    "address": "548 Foster Road",
     "zip": "93455",
     "state": "CA",
     "id": "415",
@@ -2921,7 +2921,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "101 East Chestnut",
+    "address": "101 Chestnut",
     "zip": "93436",
     "state": "CA",
     "id": "416",
@@ -2929,7 +2929,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "124 N I St",
+    "address": "124 I St",
     "zip": "93436",
     "state": "CA",
     "id": "417",
@@ -2937,7 +2937,7 @@
   },
   {
     "city": "Buellton",
-    "address": "56 West Hwy 246",
+    "address": "56 Hwy 246",
     "zip": "93427",
     "state": "CA",
     "id": "418",
@@ -2977,7 +2977,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "409 E Church St",
+    "address": "409 Church St",
     "zip": "93454",
     "state": "CA",
     "id": "424",
@@ -2985,7 +2985,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1782 S. Broadway",
+    "address": "1782 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "425",
@@ -2993,7 +2993,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "210 E Enos Dr.",
+    "address": "210 Enos Dr.",
     "zip": "93454",
     "state": "CA",
     "id": "426",
@@ -3001,7 +3001,7 @@
   },
   {
     "city": "Goleta",
-    "address": "380 N. Fairview Avenue",
+    "address": "380 Fairview Avenue",
     "zip": "93117",
     "state": "CA",
     "id": "427",
@@ -3009,7 +3009,7 @@
   },
   {
     "city": "Goleta",
-    "address": "595 N. Fairview Avenue",
+    "address": "595 Fairview Avenue",
     "zip": "93117",
     "state": "CA",
     "id": "428",
@@ -3025,7 +3025,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1136 E. Montecito Street",
+    "address": "1136 Montecito Street",
     "zip": "93103",
     "state": "CA",
     "id": "430",
@@ -3049,7 +3049,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "222 W Carmen Ln",
+    "address": "222 Carmen Ln",
     "zip": "93458",
     "state": "CA",
     "id": "433",
@@ -3057,7 +3057,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S Broadway",
+    "address": "2125 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "434",
@@ -3065,7 +3065,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Broadway",
+    "address": "2125 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "435",
@@ -3073,7 +3073,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "110 S Pine St.",
+    "address": "110 Pine St.",
     "zip": "93458",
     "state": "CA",
     "id": "436",
@@ -3081,7 +3081,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "423 W. Victoria Street",
+    "address": "423 Victoria Street",
     "zip": "93101",
     "state": "CA",
     "id": "437",
@@ -3089,7 +3089,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "110 S Pine St",
+    "address": "110 Pine St",
     "zip": "93458",
     "state": "CA",
     "id": "438",
@@ -3097,7 +3097,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1136 E. Montecito Street",
+    "address": "1136 Montecito Street",
     "zip": "93103",
     "state": "CA",
     "id": "439",
@@ -3105,7 +3105,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "210 E Enos Dr",
+    "address": "210 Enos Dr",
     "zip": "93454",
     "state": "CA",
     "id": "440",
@@ -3113,7 +3113,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1111 E. Mason Street",
+    "address": "1111 Mason Street",
     "zip": "93103",
     "state": "CA",
     "id": "441",
@@ -3121,7 +3121,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "509 W. Morrison Avenue",
+    "address": "509 Morrison Avenue",
     "zip": "93458",
     "state": "CA",
     "id": "442",
@@ -3145,7 +3145,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "200 W. Cook Street",
+    "address": "200 Cook Street",
     "zip": "93454",
     "state": "CA",
     "id": "445",
@@ -3169,7 +3169,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401-D W. Morrison Avenue",
+    "address": "401-D Morrison Avenue",
     "zip": "93454",
     "state": "CA",
     "id": "448",
@@ -3185,7 +3185,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401-A W. Morrison Avenue",
+    "address": "401-A Morrison Avenue",
     "zip": "98454",
     "state": "CA",
     "id": "450",
@@ -3193,7 +3193,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "200 W. Williams Street",
+    "address": "200 Williams Street",
     "zip": "93454",
     "state": "CA",
     "id": "451",
@@ -3217,7 +3217,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1660 S. Broadway ",
+    "address": "1660 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "454",
@@ -3233,7 +3233,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "531 East Ortega Street",
+    "address": "531 Ortega Street",
     "zip": "93103",
     "state": "CA",
     "id": "456",
@@ -3249,7 +3249,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "227 E Arrellaga St",
+    "address": "227 Arrellaga St",
     "zip": "93101",
     "state": "CA",
     "id": "458",
@@ -3265,7 +3265,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1118 E. Cabrillo Boulevard",
+    "address": "1118 Cabrillo Boulevard",
     "zip": "93103",
     "state": "CA",
     "id": "460",
@@ -3281,7 +3281,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "425 E. Cota Street",
+    "address": "425 Cota Street",
     "zip": "93101",
     "state": "CA",
     "id": "462",
@@ -3289,7 +3289,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "310 N. Milpas Street",
+    "address": "310 Milpas Street",
     "zip": "93103",
     "state": "CA",
     "id": "463",
@@ -3297,7 +3297,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "834 N. Milpas Street",
+    "address": "834 Milpas Street",
     "zip": "93103",
     "state": "CA",
     "id": "464",
@@ -3305,7 +3305,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "35 E. Haley Street",
+    "address": "35 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "465",
@@ -3337,7 +3337,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "15 W. Carrillo Street",
+    "address": "15 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "470",
@@ -3345,7 +3345,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "4 E. Carrillo Street",
+    "address": "4 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "471",
@@ -3361,7 +3361,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "124 Carmen Lane ",
+    "address": "124 Carmen Lane",
     "zip": "93458",
     "state": "CA",
     "id": "473",
@@ -3369,7 +3369,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "124 W. Carmen Lane",
+    "address": "124 Carmen Lane",
     "zip": "93458",
     "state": "CA",
     "id": "474",
@@ -3377,7 +3377,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "430 S Blosser Road",
+    "address": "430 Blosser Road",
     "zip": "93458",
     "state": "CA",
     "id": "475",
@@ -3385,7 +3385,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "210 N Broadway",
+    "address": "210 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "476",
@@ -3393,7 +3393,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "829 S Lincoln ",
+    "address": "829 Lincoln",
     "zip": "93454",
     "state": "CA",
     "id": "477",
@@ -3409,7 +3409,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1418 E. Main Street",
+    "address": "1418 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "479",
@@ -3417,7 +3417,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1835 N. Broadway",
+    "address": "1835 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "480",
@@ -3441,7 +3441,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "500 W. Foster Rd",
+    "address": "500 Foster Rd",
     "zip": "93455",
     "state": "CA",
     "id": "483",
@@ -3457,7 +3457,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "401 E. Ocean Ave",
+    "address": "401 Ocean Ave",
     "zip": "93436",
     "state": "CA",
     "id": "485",
@@ -3465,7 +3465,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "117 North B Street",
+    "address": "117 B Street",
     "zip": "93436",
     "state": "CA",
     "id": "486",
@@ -3473,7 +3473,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "66 South San Antonio Road",
+    "address": "66 San Antonio Road",
     "zip": "93110",
     "state": "CA",
     "id": "487",
@@ -3481,7 +3481,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "429 N. San Antonio Road",
+    "address": "429 San Antonio Road",
     "zip": "93110",
     "state": "CA",
     "id": "488",
@@ -3521,7 +3521,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "709 N. Curryer Street",
+    "address": "709 Curryer Street",
     "zip": "93454",
     "state": "CA",
     "id": "493",
@@ -3537,7 +3537,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1503 N. McClelland St",
+    "address": "1503 McClelland St",
     "zip": "93454",
     "state": "CA",
     "id": "495",
@@ -3545,7 +3545,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "619 N. Railroad Avenue",
+    "address": "619 Railroad Avenue",
     "zip": "93458",
     "state": "CA",
     "id": "496",
@@ -3553,7 +3553,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "402 S Lincoln St.",
+    "address": "402 Lincoln St.",
     "zip": "93458",
     "state": "CA",
     "id": "497",
@@ -3561,7 +3561,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "200 S. E Ave",
+    "address": "200 E Ave",
     "zip": "93454",
     "state": "CA",
     "id": "498",
@@ -3577,7 +3577,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "323 E Cabrillo Blvd",
+    "address": "323 Cabrillo Blvd",
     "zip": "93101",
     "state": "CA",
     "id": "500",
@@ -3601,7 +3601,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "531 East Ortega Street",
+    "address": "531 Ortega Street",
     "zip": "93103",
     "state": "CA",
     "id": "503",
@@ -3649,7 +3649,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "900 State St (At E. Canon Perdido St.)",
+    "address": "900 State St (At Canon Perdido St.)",
     "zip": "93101",
     "state": "CA",
     "id": "509",
@@ -3657,7 +3657,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "915 North Milpas Street",
+    "address": "915 Milpas Street",
     "zip": "93103",
     "state": "CA",
     "id": "510",
@@ -3665,7 +3665,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1136 E. Montecito Street",
+    "address": "1136 Montecito Street",
     "zip": "93103",
     "state": "CA",
     "id": "511",
@@ -3681,7 +3681,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "535 E. Yanonali  Street",
+    "address": "535 Yanonali Street",
     "zip": "93103",
     "state": "CA",
     "id": "513",
@@ -3705,7 +3705,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "301 North R Street",
+    "address": "301 R Street",
     "zip": "93436",
     "state": "CA",
     "id": "516",
@@ -3713,7 +3713,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401 West Morrison",
+    "address": "401 Morrison",
     "zip": "93458",
     "state": "CA",
     "id": "517",
@@ -3745,7 +3745,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1775 S Thornburg Street",
+    "address": "1775 Thornburg Street",
     "zip": "93458",
     "state": "CA",
     "id": "521",
@@ -3753,7 +3753,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "628 West Micheltorena Street",
+    "address": "628 Micheltorena Street",
     "zip": "93101",
     "state": "CA",
     "id": "522",
@@ -3761,7 +3761,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "300 N. San Antonio Road",
+    "address": "300 San Antonio Road",
     "zip": "93110",
     "state": "CA",
     "id": "523",
@@ -3769,7 +3769,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "300 N. San Antonio Road",
+    "address": "300 San Antonio Road",
     "zip": "93110",
     "state": "CA",
     "id": "524",
@@ -3777,7 +3777,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "923 N. Milpas Street",
+    "address": "923 Milpas Street",
     "zip": "93103",
     "state": "CA",
     "id": "525",
@@ -3793,7 +3793,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2548 S. Broadway",
+    "address": "2548 Broadway",
     "zip": "93455",
     "state": "CA",
     "id": "527",
@@ -3825,7 +3825,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "425 E. Cota St.",
+    "address": "425 Cota St.",
     "zip": "93101",
     "state": "CA",
     "id": "532",
@@ -3841,7 +3841,7 @@
   },
   {
     "city": "Orcutt",
-    "address": "933 Patterson Road ",
+    "address": "933 Patterson Road",
     "zip": "93455",
     "state": "CA",
     "id": "534",
@@ -3857,7 +3857,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "966 W. Orchard St",
+    "address": "966 Orchard St",
     "zip": "93458",
     "state": "CA",
     "id": "536",
@@ -3865,7 +3865,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "324 N Suey Rd",
+    "address": "324 Suey Rd",
     "zip": "93454",
     "state": "CA",
     "id": "537",
@@ -3905,7 +3905,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Centerpointe Parkway",
+    "address": "2125 Centerpointe Parkway",
     "zip": "93454",
     "state": "CA",
     "id": "542",
@@ -3913,7 +3913,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "400 N. McClelland Street",
+    "address": "400 McClelland Street",
     "zip": "93454",
     "state": "CA",
     "id": "543",
@@ -3945,7 +3945,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1265 W McCoy Lane",
+    "address": "1265 McCoy Lane",
     "zip": "93455",
     "state": "CA",
     "id": "547",
@@ -3961,7 +3961,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "311 S. Broadway",
+    "address": "311 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "549",
@@ -3985,7 +3985,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "429 N. San Antonio Rd.",
+    "address": "429 San Antonio Rd.",
     "zip": "93110",
     "state": "CA",
     "id": "552",
@@ -3993,7 +3993,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "721 E. Cota St.",
+    "address": "721 Cota St.",
     "zip": "93103",
     "state": "CA",
     "id": "553",
@@ -4009,7 +4009,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "809 N. Broadyway",
+    "address": "809 Broadyway",
     "zip": "93454",
     "state": "CA",
     "id": "555",
@@ -4017,7 +4017,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "401 W. Morrison Avenue ",
+    "address": "401 Morrison Avenue",
     "zip": "93454",
     "state": "CA",
     "id": "556",
@@ -4041,7 +4041,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1136 E. Montecito St.",
+    "address": "1136 Montecito St.",
     "zip": "93103",
     "state": "CA",
     "id": "559",
@@ -4065,7 +4065,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "130 E. Cota St.",
+    "address": "130 Cota St.",
     "zip": "93101",
     "state": "CA",
     "id": "562",
@@ -4073,7 +4073,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "120 W. Chestnut Ave.",
+    "address": "120 Chestnut Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "563",
@@ -4081,7 +4081,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "401 E. Ocean Ave.",
+    "address": "401 Ocean Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "564",
@@ -4089,7 +4089,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "640 North Q St.",
+    "address": "640 Q St.",
     "zip": "93436",
     "state": "CA",
     "id": "565",
@@ -4097,7 +4097,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1120 W. Ocean Ave.",
+    "address": "1120 Ocean Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "566",
@@ -4105,7 +4105,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "125 S. 7th St.",
+    "address": "125 7th St.",
     "zip": "93436",
     "state": "CA",
     "id": "567",
@@ -4113,7 +4113,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "648 North G St.",
+    "address": "648 G St.",
     "zip": "93436",
     "state": "CA",
     "id": "568",
@@ -4121,7 +4121,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "120 W. Maple Ave.",
+    "address": "120 Maple Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "569",
@@ -4129,7 +4129,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "228 North I St.",
+    "address": "228 I St.",
     "zip": "93436",
     "state": "CA",
     "id": "570",
@@ -4137,7 +4137,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1316 E. Oak St.",
+    "address": "1316 Oak St.",
     "zip": "93436",
     "state": "CA",
     "id": "571",
@@ -4145,7 +4145,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "120 West Chestnut Ave.",
+    "address": "120 Chestnut Ave.",
     "zip": "93436",
     "state": "CA",
     "id": "572",
@@ -4193,7 +4193,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "500 W. Foster Rd.",
+    "address": "500 Foster Rd.",
     "zip": "93455",
     "state": "CA",
     "id": "578",
@@ -4201,7 +4201,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "510 E. Park Ave.",
+    "address": "510 Park Ave.",
     "zip": "93454",
     "state": "CA",
     "id": "579",
@@ -4209,7 +4209,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1000 N. Railroad Ave.",
+    "address": "1000 Railroad Ave.",
     "zip": "93454",
     "state": "CA",
     "id": "580",
@@ -4217,7 +4217,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1240 W. Bethel Ln.",
+    "address": "1240 Bethel Ln.",
     "zip": "93458",
     "state": "CA",
     "id": "581",
@@ -4225,7 +4225,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1890 Sandalwood Dr. ",
+    "address": "1890 Sandalwood Dr.",
     "zip": "93455",
     "state": "CA",
     "id": "582",
@@ -4233,7 +4233,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1002 E. Sierra Madre Ave.",
+    "address": "1002 Sierra Madre Ave.",
     "zip": "93454",
     "state": "CA",
     "id": "583",
@@ -4241,7 +4241,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "201 W. Chapel St.",
+    "address": "201 Chapel St.",
     "zip": "93458",
     "state": "CA",
     "id": "584",
@@ -4249,7 +4249,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1720 S. Depot St.",
+    "address": "1720 Depot St.",
     "zip": "93458",
     "state": "CA",
     "id": "585",
@@ -4257,7 +4257,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "530 E. Enos Dr.",
+    "address": "530 Enos Dr.",
     "zip": "93454",
     "state": "CA",
     "id": "586",
@@ -4265,7 +4265,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1026 W. Boone St.",
+    "address": "1026 Boone St.",
     "zip": "93458",
     "state": "CA",
     "id": "587",
@@ -4273,7 +4273,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "219 W. Chapel St.",
+    "address": "219 Chapel St.",
     "zip": "93458",
     "state": "CA",
     "id": "588",
@@ -4281,7 +4281,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "400 W. Park Ave.",
+    "address": "400 Park Ave.",
     "zip": "93458",
     "state": "CA",
     "id": "589",
@@ -4289,7 +4289,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "316 E. McElhaney Ave.",
+    "address": "316 McElhaney Ave.",
     "zip": "93454",
     "state": "CA",
     "id": "590",
@@ -4297,7 +4297,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "500 W. Windsor St. ",
+    "address": "500 Windsor St.",
     "zip": "93458",
     "state": "CA",
     "id": "591",
@@ -4305,7 +4305,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "201 West Chapel St.",
+    "address": "201 Chapel St.",
     "zip": "93458",
     "state": "CA",
     "id": "592",
@@ -4313,7 +4313,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "122 W. Figueroa Street",
+    "address": "122 Figueroa Street",
     "zip": "93101",
     "state": "CA",
     "id": "593",
@@ -4361,7 +4361,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "400 E Boone St",
+    "address": "400 Boone St",
     "zip": "93454",
     "state": "CA",
     "id": "599",
@@ -4401,7 +4401,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "302 W. Carrillo Street",
+    "address": "302 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "604",
@@ -4433,7 +4433,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "700 N. Milpas Street",
+    "address": "700 Milpas Street",
     "zip": "93103",
     "state": "CA",
     "id": "608",
@@ -4441,7 +4441,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "400 E Boone St",
+    "address": "400 Boone St",
     "zip": "93454",
     "state": "CA",
     "id": "609",
@@ -4449,7 +4449,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2050 S Broadway",
+    "address": "2050 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "610",
@@ -4457,7 +4457,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "201 S. Miller Street",
+    "address": "201 Miller Street",
     "zip": "93454",
     "state": "CA",
     "id": "611",
@@ -4465,7 +4465,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "201 S. Miller Street",
+    "address": "201 Miller Street",
     "zip": "93454",
     "state": "CA",
     "id": "612",
@@ -4473,7 +4473,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "415 E. Chapel Street",
+    "address": "415 Chapel Street",
     "zip": "93454",
     "state": "CA",
     "id": "615",
@@ -4481,7 +4481,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "210 E. Enos Dr. ",
+    "address": "210 Enos Dr.",
     "zip": "93454",
     "state": "CA",
     "id": "616",
@@ -4489,7 +4489,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1410 S. Broadway",
+    "address": "1410 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "617",
@@ -4497,7 +4497,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "800 S. College Drive",
+    "address": "800 College Drive",
     "zip": "93454",
     "state": "CA",
     "id": "618",
@@ -4513,7 +4513,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Centerpointe Parkway",
+    "address": "2125 Centerpointe Parkway",
     "zip": "93454",
     "state": "CA",
     "id": "620",
@@ -4537,7 +4537,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "511 E. Lakeside Parkway ",
+    "address": "511 Lakeside Parkway",
     "zip": "93455",
     "state": "CA",
     "id": "623",
@@ -4585,7 +4585,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1687 W.  Stowell Road ",
+    "address": "1687 Stowell Road",
     "zip": "93458",
     "state": "CA",
     "id": "629",
@@ -4593,7 +4593,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1844 N. Broadway",
+    "address": "1844 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "631",
@@ -4601,7 +4601,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "613 E. Main Street",
+    "address": "613 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "632",
@@ -4617,7 +4617,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "306 N. Broadway",
+    "address": "306 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "634",
@@ -4625,7 +4625,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "605 W Main St",
+    "address": "605 Main St",
     "zip": "93454",
     "state": "CA",
     "id": "635",
@@ -4633,7 +4633,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "215 W. Main St",
+    "address": "215 Main St",
     "zip": "93454",
     "state": "CA",
     "id": "636",
@@ -4649,7 +4649,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1765 S. Broadway",
+    "address": "1765 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "638",
@@ -4657,7 +4657,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2414 S. Broadway ",
+    "address": "2414 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "639",
@@ -4665,7 +4665,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2512 S. Broadway ",
+    "address": "2512 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "640",
@@ -4697,7 +4697,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "1100 W. Laurel Ave",
+    "address": "1100 Laurel Ave",
     "zip": "93436",
     "state": "CA",
     "id": "644",
@@ -4705,7 +4705,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "2125 S. Centerpointe Pkwy",
+    "address": "2125 Centerpointe Pkwy",
     "zip": "93455",
     "state": "CA",
     "id": "645",
@@ -4713,7 +4713,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "301 E Canon Perdido Street",
+    "address": "301 Canon Perdido Street",
     "zip": "93101",
     "state": "CA",
     "id": "646",
@@ -4721,7 +4721,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "120 E. Jones St.",
+    "address": "120 Jones St.",
     "zip": "93454",
     "state": "CA",
     "id": "647",
@@ -4729,7 +4729,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "601 E. Montecito St. ",
+    "address": "601 Montecito St.",
     "zip": "93103",
     "state": "CA",
     "id": "648",
@@ -4745,7 +4745,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "116 S Palisade",
+    "address": "116 Palisade",
     "zip": "93454",
     "state": "CA",
     "id": "650",
@@ -4753,7 +4753,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "200 W Cook Street",
+    "address": "200 Cook Street",
     "zip": "93458",
     "state": "CA",
     "id": "651",
@@ -4761,7 +4761,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1000 N Railroad Street",
+    "address": "1000 Railroad Street",
     "zip": "93458",
     "state": "CA",
     "id": "652",
@@ -4785,7 +4785,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "15 E Haley St",
+    "address": "15 Haley St",
     "zip": "93101",
     "state": "CA",
     "id": "655",
@@ -4793,7 +4793,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "125 W Carillo St",
+    "address": "125 Carillo St",
     "zip": "93101",
     "state": "CA",
     "id": "656",
@@ -4809,7 +4809,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "514 E Sola St",
+    "address": "514 Sola St",
     "zip": "93103",
     "state": "CA",
     "id": "658",
@@ -4817,7 +4817,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "520 W Sola St",
+    "address": "520 Sola St",
     "zip": "93101",
     "state": "CA",
     "id": "659",
@@ -4897,7 +4897,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "225 E Inger Drive",
+    "address": "225 Inger Drive",
     "zip": "93454",
     "state": "CA",
     "id": "669",
@@ -4905,7 +4905,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "215 W Main Street",
+    "address": "215 Main Street",
     "zip": "93458",
     "state": "CA",
     "id": "670",
@@ -4929,7 +4929,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1660 S. Broadway",
+    "address": "1660 Broadway",
     "zip": "93456",
     "state": "CA",
     "id": "673",
@@ -4937,7 +4937,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "203 N. N St",
+    "address": "203 N St",
     "zip": "93436",
     "state": "CA",
     "id": "674",
@@ -4945,7 +4945,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1026 E Sierra Madre Ave",
+    "address": "1026 Sierra Madre Ave",
     "zip": "93454",
     "state": "CA",
     "id": "675",
@@ -4953,7 +4953,7 @@
   },
   {
     "city": "Goleta",
-    "address": "5575 Armitos Avenue ",
+    "address": "5575 Armitos Avenue",
     "zip": "93117",
     "state": "CA",
     "id": "676",
@@ -4961,7 +4961,7 @@
   },
   {
     "city": "Goleta",
-    "address": "131 S Kellogg Ave",
+    "address": "131 Kellogg Ave",
     "zip": "93117",
     "state": "CA",
     "id": "677",
@@ -4985,7 +4985,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "119 N. D Street",
+    "address": "119 D Street",
     "zip": "93436",
     "state": "CA",
     "id": "680",
@@ -4993,7 +4993,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "115 E. College Ave",
+    "address": "115 College Ave",
     "zip": "93436",
     "state": "CA",
     "id": "681",
@@ -5001,7 +5001,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "301 W. Figueroa St",
+    "address": "301 Figueroa St",
     "zip": "93101",
     "state": "CA",
     "id": "682",
@@ -5017,7 +5017,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "709 N. CURRYER ST.",
+    "address": "709 CURRYER ST.",
     "zip": "93458",
     "state": "CA",
     "id": "684",
@@ -5033,7 +5033,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "901 South Broadway",
+    "address": "901 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "686",
@@ -5041,7 +5041,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "234 S N St",
+    "address": "234 N St",
     "zip": "93436",
     "state": "CA",
     "id": "687",
@@ -5049,7 +5049,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1400 E. Church Street",
+    "address": "1400 Church Street",
     "zip": "93454",
     "state": "CA",
     "id": "688",
@@ -5073,7 +5073,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "118 E. Figueroa Street",
+    "address": "118 Figueroa Street",
     "zip": "93101",
     "state": "CA",
     "id": "691",
@@ -5089,7 +5089,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "312-M E. Cook Street",
+    "address": "312-M Cook Street",
     "zip": "93454",
     "state": "CA",
     "id": "693",
@@ -5113,7 +5113,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "401 E. Cypress Avenue",
+    "address": "401 Cypress Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "696",
@@ -5129,7 +5129,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1410 S. Broadway",
+    "address": "1410 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "698",
@@ -5145,7 +5145,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "720 E. El Camino Street",
+    "address": "720 El Camino Street",
     "zip": "93454",
     "state": "CA",
     "id": "700",
@@ -5153,7 +5153,7 @@
   },
   {
     "city": "Ventura",
-    "address": "790 E. Santa Clara Street",
+    "address": "790 Santa Clara Street",
     "zip": "93001",
     "state": "CA",
     "id": "701",
@@ -5161,7 +5161,7 @@
   },
   {
     "city": "San Luis Obispo",
-    "address": "1070 Southwood Drive",
+    "address": "1070 wood Drive",
     "zip": "93401",
     "state": "CA",
     "id": "702",
@@ -5177,7 +5177,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1550 E. Main Street",
+    "address": "1550 Main Street",
     "zip": "93454",
     "state": "CA",
     "id": "704",
@@ -5193,7 +5193,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "400 W. Church Street",
+    "address": "400 Church Street",
     "zip": "93454",
     "state": "CA",
     "id": "706",
@@ -5201,7 +5201,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": " 320 E. Gutierrez Street",
+    "address": "320 Gutierrez Street",
     "zip": "93101",
     "state": "CA",
     "id": "707",
@@ -5209,7 +5209,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "1660 S. Broadway",
+    "address": "1660 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "708",
@@ -5217,7 +5217,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "324 E. Carrillo Street",
+    "address": "324 Carrillo Street",
     "zip": "93101",
     "state": "CA",
     "id": "709",
@@ -5225,7 +5225,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "212 West Carmen Lane",
+    "address": "212 Carmen Lane",
     "zip": "93458",
     "state": "CA",
     "id": "710",
@@ -5241,7 +5241,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "500 West Foster Road",
+    "address": "500 Foster Road",
     "zip": "93454",
     "state": "CA",
     "id": "712",
@@ -5249,7 +5249,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "429 N San Antonio Road",
+    "address": "429 San Antonio Road",
     "zip": "93110",
     "state": "CA",
     "id": "713",
@@ -5257,7 +5257,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "401 East Ocean Avenue",
+    "address": "401 Ocean Avenue",
     "zip": "93436",
     "state": "CA",
     "id": "714",
@@ -5273,7 +5273,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "111 E. Arrellaga Street",
+    "address": "111 Arrellaga Street",
     "zip": "93101",
     "state": "CA",
     "id": "716",
@@ -5297,7 +5297,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "232 E. Canon Perdido St",
+    "address": "232 Canon Perdido St",
     "zip": "93101",
     "state": "CA",
     "id": "720",
@@ -5305,7 +5305,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "1111 Garden St ",
+    "address": "1111 Garden St",
     "zip": "93101",
     "state": "CA",
     "id": "721",
@@ -5321,7 +5321,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "123 West Gutierrez",
+    "address": "123 Gutierrez",
     "zip": "93101",
     "state": "CA",
     "id": "724",
@@ -5329,7 +5329,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "105 N. Lincoln Street",
+    "address": "105 Lincoln Street",
     "zip": "93458",
     "state": "CA",
     "id": "725",
@@ -5337,7 +5337,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "101 South B Street",
+    "address": "101 B Street",
     "zip": "93436",
     "state": "CA",
     "id": "726",
@@ -5345,7 +5345,7 @@
   },
   {
     "city": "Lompoc",
-    "address": "646 North H Street",
+    "address": "646 H Street",
     "zip": "93436",
     "state": "CA",
     "id": "727",
@@ -5353,7 +5353,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "648 E. Enos Dr",
+    "address": "648 Enos Dr",
     "zip": "93454",
     "state": "CA",
     "id": "728",
@@ -5393,7 +5393,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "941 E. Foster Road",
+    "address": "941 Foster Road",
     "zip": "93455",
     "state": "CA",
     "id": "733",
@@ -5409,7 +5409,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "901 South Broadway",
+    "address": "901 Broadway",
     "zip": "93454",
     "state": "CA",
     "id": "735",
@@ -5417,7 +5417,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "632 East Canon Perdido Street",
+    "address": "632 Canon Perdido Street",
     "zip": "93013",
     "state": "CA",
     "id": "736",
@@ -5425,7 +5425,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "120 E. Jones Street",
+    "address": "120 Jones Street",
     "zip": "93454",
     "state": "CA",
     "id": "737",
@@ -5441,7 +5441,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "315 W. Haley Street",
+    "address": "315 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "739",
@@ -5465,7 +5465,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "315 W. Haley Street ",
+    "address": "315 Haley Street",
     "zip": "93101",
     "state": "CA",
     "id": "742",
@@ -5489,7 +5489,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "120 E. Jones Street",
+    "address": "120 Jones Street",
     "zip": "93454",
     "state": "CA",
     "id": "745",
@@ -5497,7 +5497,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "309 S. Voluntario Learning Center",
+    "address": "309 Voluntario Learning Center",
     "zip": "93101",
     "state": "CA",
     "id": "746",
@@ -5513,7 +5513,7 @@
   },
   {
     "city": "Goleta",
-    "address": "7266 Alameda Avenue ",
+    "address": "7266 Alameda Avenue",
     "zip": "93117",
     "state": "CA",
     "id": "748",
@@ -5529,7 +5529,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "700 East Anapamu St",
+    "address": "700 Anapamu St",
     "zip": "93103",
     "state": "CA",
     "id": "750",
@@ -5537,7 +5537,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "126 E. Haley St",
+    "address": "126 Haley St",
     "zip": "93101",
     "state": "CA",
     "id": "751",
@@ -5545,7 +5545,7 @@
   },
   {
     "city": "Santa Maria",
-    "address": "110 S. Lincoln St",
+    "address": "110 Lincoln St",
     "zip": "93458",
     "state": "CA",
     "id": "752",
@@ -5561,7 +5561,7 @@
   },
   {
     "city": "Santa Barbara",
-    "address": "7 West Figueroa",
+    "address": "7 Figueroa",
     "zip": "93101",
     "state": "CA",
     "id": "754",
