@@ -1,6 +1,7 @@
 from typing import List, Dict
 from json import dump
 from csv import reader
+from re import sub
 
 list_of_locations: List[Dict] = []
 
@@ -19,9 +20,12 @@ try:
             if(index == 0):
                 continue
             else:
+                address_str: str = sub(
+                    r"N\s|S\s|E\s|W\s|N\.|S\.|E\.|W\.|North|South|East|West", "", page[1], 1)
+                cleaned_address: str = sub(r"\s{2,}", " ", address_str).strip()
                 location_info: Dict = {
                     city: page[0],
-                    address: page[1],
+                    address: cleaned_address,
                     zip: page[2],
                     state: page[3],
                     id: page[4],
