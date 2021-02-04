@@ -1,0 +1,4178 @@
+[
+  {
+    "address": "325 N Second St, Lompoc, CA 93436, USA",
+    "latitude": 34.6431904,
+    "longitude": -120.4467844,
+    "status": "OK"
+  },
+  {
+    "address": "941 Walnut Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.397271,
+    "longitude": -119.5171604,
+    "status": "OK"
+  },
+  {
+    "address": "1532 Castillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42281639999999,
+    "longitude": -119.7136682,
+    "status": "OK"
+  },
+  {
+    "address": "721 Spring St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4291185,
+    "longitude": -119.688214,
+    "status": "OK"
+  },
+  {
+    "address": "327 E Victoria St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4284598,
+    "longitude": -119.7018117,
+    "status": "OK"
+  },
+  {
+    "address": "1107 San Andres St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41503,
+    "longitude": -119.71157,
+    "status": "OK"
+  },
+  {
+    "address": "2021 Castillo St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4268304,
+    "longitude": -119.7199581,
+    "status": "OK"
+  },
+  {
+    "address": "227 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41377,
+    "longitude": -119.69826,
+    "status": "OK"
+  },
+  {
+    "address": "2434 Bath St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4323337,
+    "longitude": -119.7242116,
+    "status": "OK"
+  },
+  {
+    "address": "1515 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4231811,
+    "longitude": -119.7124464,
+    "status": "OK"
+  },
+  {
+    "address": "1100 W Laurel Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6430309,
+    "longitude": -120.4714057,
+    "status": "OK"
+  },
+  {
+    "address": "234 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4444764,
+    "longitude": -119.7787398,
+    "status": "OK"
+  },
+  {
+    "address": "535 E Yanonali St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4191537,
+    "longitude": -119.6845892,
+    "status": "OK"
+  },
+  {
+    "address": "133 E De La Guerra St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4217773,
+    "longitude": -119.6975029,
+    "status": "OK"
+  },
+  {
+    "address": "1227 San Andres St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4164569,
+    "longitude": -119.7134361,
+    "status": "OK"
+  },
+  {
+    "address": "731 E Haley St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4252019,
+    "longitude": -119.6868764,
+    "status": "OK"
+  },
+  {
+    "address": "23 W Mission St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4301217,
+    "longitude": -119.7151615,
+    "status": "OK"
+  },
+  {
+    "address": "231 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4136662,
+    "longitude": -119.6984627,
+    "status": "OK"
+  },
+  {
+    "address": "1818 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42663170000001,
+    "longitude": -119.7156593,
+    "status": "OK"
+  },
+  {
+    "address": "604 N Kellogg Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4488281,
+    "longitude": -119.8182067,
+    "status": "OK"
+  },
+  {
+    "address": "832 Jennings Ave, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4236359,
+    "longitude": -119.6822145,
+    "status": "OK"
+  },
+  {
+    "address": "1121 Walnut Ave, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4171858,
+    "longitude": -119.7101838,
+    "status": "OK"
+  },
+  {
+    "address": "5018 Calle Real, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4420569,
+    "longitude": -119.7976253,
+    "status": "OK"
+  },
+  {
+    "address": "400 W Pueblo St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4295357,
+    "longitude": -119.7241169,
+    "status": "OK"
+  },
+  {
+    "address": "133 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41483,
+    "longitude": -119.69755,
+    "status": "OK"
+  },
+  {
+    "address": "24 W Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.426847,
+    "longitude": -119.7105458,
+    "status": "OK"
+  },
+  {
+    "address": "535 E Yanonali St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4191537,
+    "longitude": -119.6845892,
+    "status": "OK"
+  },
+  {
+    "address": "316 W Montecito St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.411501,
+    "longitude": -119.6972068,
+    "status": "OK"
+  },
+  {
+    "address": "423 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4151452,
+    "longitude": -119.6964835,
+    "status": "OK"
+  },
+  {
+    "address": "Ventura, CA 93002, USA",
+    "latitude": 34.36,
+    "longitude": -119.3,
+    "status": "OK"
+  },
+  {
+    "address": "232 W Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4178243,
+    "longitude": -119.7038947,
+    "status": "OK"
+  },
+  {
+    "address": "26 W Figueroa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4218444,
+    "longitude": -119.7041191,
+    "status": "OK"
+  },
+  {
+    "address": "24 W Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.426847,
+    "longitude": -119.7105458,
+    "status": "OK"
+  },
+  {
+    "address": "4129 State St, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4401513,
+    "longitude": -119.7607451,
+    "status": "OK"
+  },
+  {
+    "address": "205 W Mission St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.428309,
+    "longitude": -119.7169263,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4257807,
+    "longitude": -119.7003978,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4257807,
+    "longitude": -119.7003978,
+    "status": "OK"
+  },
+  {
+    "address": "125 Harbor Way, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4036438,
+    "longitude": -119.6934237,
+    "status": "OK"
+  },
+  {
+    "address": "235 E Cota St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4209378,
+    "longitude": -119.6937105,
+    "status": "OK"
+  },
+  {
+    "address": "227 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41377,
+    "longitude": -119.69826,
+    "status": "OK"
+  },
+  {
+    "address": "1515 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4231811,
+    "longitude": -119.7124464,
+    "status": "OK"
+  },
+  {
+    "address": "235 E Cota St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4209378,
+    "longitude": -119.6937105,
+    "status": "OK"
+  },
+  {
+    "address": "109 S H St, Lompoc, CA 93436, USA",
+    "latitude": 34.6385821,
+    "longitude": -120.4580349,
+    "status": "OK"
+  },
+  {
+    "address": "130 W Ortega St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4168918,
+    "longitude": -119.7002617,
+    "status": "OK"
+  },
+  {
+    "address": "125 W De La Guerra St Ste A, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4176021,
+    "longitude": -119.700984,
+    "status": "OK"
+  },
+  {
+    "address": "1300 Santa Barbara St Ste A, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4267261,
+    "longitude": -119.7035766,
+    "status": "OK"
+  },
+  {
+    "address": "3700 State St Suite 200, Santa Barbara, CA 93105, USA",
+    "latitude": 34.44110149999999,
+    "longitude": -119.7423553,
+    "status": "OK"
+  },
+  {
+    "address": "1019 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4206182,
+    "longitude": -119.7041071,
+    "status": "OK"
+  },
+  {
+    "address": "909 N La Cumbre Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4542814,
+    "longitude": -119.7518784,
+    "status": "OK"
+  },
+  {
+    "address": "Leadbetter Beach, Shoreline Dr, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4024155,
+    "longitude": -119.6991599,
+    "status": "OK"
+  },
+  {
+    "address": "125 Harbor Way, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4036438,
+    "longitude": -119.6934237,
+    "status": "OK"
+  },
+  {
+    "address": "127 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4194564,
+    "longitude": -119.7035123,
+    "status": "OK"
+  },
+  {
+    "address": "2434 Bath St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4323337,
+    "longitude": -119.7242116,
+    "status": "OK"
+  },
+  {
+    "address": "227 E Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4301186,
+    "longitude": -119.7070839,
+    "status": "OK"
+  },
+  {
+    "address": "21 W Constance Ave, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4361627,
+    "longitude": -119.722603,
+    "status": "OK"
+  },
+  {
+    "address": "305 E Anapamu St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4269434,
+    "longitude": -119.7012007,
+    "status": "OK"
+  },
+  {
+    "address": "227 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41377,
+    "longitude": -119.69826,
+    "status": "OK"
+  },
+  {
+    "address": "721 Cliff Dr, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4060713,
+    "longitude": -119.6990924,
+    "status": "OK"
+  },
+  {
+    "address": "113 Harbor Way, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4039899,
+    "longitude": -119.6938017,
+    "status": "OK"
+  },
+  {
+    "address": "2964 Las Canoas Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4529224,
+    "longitude": -119.7082693,
+    "status": "OK"
+  },
+  {
+    "address": "601 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4216815,
+    "longitude": -119.6862934,
+    "status": "OK"
+  },
+  {
+    "address": "627 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.415053,
+    "longitude": -119.701227,
+    "status": "OK"
+  },
+  {
+    "address": "112 W Cabrillo Blvd, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4111402,
+    "longitude": -119.6911326,
+    "status": "OK"
+  },
+  {
+    "address": "906 De La Vina St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4188578,
+    "longitude": -119.702922,
+    "status": "OK"
+  },
+  {
+    "address": "21 W Constance Ave, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4361627,
+    "longitude": -119.722603,
+    "status": "OK"
+  },
+  {
+    "address": "5073 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4343908,
+    "longitude": -119.8000989,
+    "status": "OK"
+  },
+  {
+    "address": "5444 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4358401,
+    "longitude": -119.8147475,
+    "status": "OK"
+  },
+  {
+    "address": "4575 Auhay Dr, Goleta, CA 93110, USA",
+    "latitude": 34.4373242,
+    "longitude": -119.7796434,
+    "status": "OK"
+  },
+  {
+    "address": "83 Eucalyptus Ln, Montecito, CA 93108, USA",
+    "latitude": 34.4210331,
+    "longitude": -119.6312174,
+    "status": "OK"
+  },
+  {
+    "address": "6067 Shirrell Way, Goleta, CA 93117, USA",
+    "latitude": 34.4437603,
+    "longitude": -119.8335886,
+    "status": "OK"
+  },
+  {
+    "address": "2101 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.431681,
+    "longitude": -119.7164808,
+    "status": "OK"
+  },
+  {
+    "address": "1535 Santa Barbara St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4287823,
+    "longitude": -119.7073554,
+    "status": "OK"
+  },
+  {
+    "address": "1964 Las Canoas Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4573968,
+    "longitude": -119.6955265,
+    "status": "OK"
+  },
+  {
+    "address": "1455 E Valley Rd, Montecito, CA 93108, USA",
+    "latitude": 34.436553,
+    "longitude": -119.6341654,
+    "status": "OK"
+  },
+  {
+    "address": "1300 E Valley Rd, Montecito, CA 93108, USA",
+    "latitude": 34.4364505,
+    "longitude": -119.6412402,
+    "status": "OK"
+  },
+  {
+    "address": "6586 Picasso Rd, Goleta, CA 93117, USA",
+    "latitude": 34.415411,
+    "longitude": -119.8582715,
+    "status": "OK"
+  },
+  {
+    "address": "5679 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4350802,
+    "longitude": -119.8231651,
+    "status": "OK"
+  },
+  {
+    "address": "550 Cambridge Dr, Goleta, CA 93117, USA",
+    "latitude": 34.4484718,
+    "longitude": -119.8198346,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Vallecito Rd, Carpinteria, CA 93013, USA",
+    "latitude": 34.396972,
+    "longitude": -119.5162158,
+    "status": "OK"
+  },
+  {
+    "address": "2400 Lillie Ave, Santa Barbara, CA 93108, USA",
+    "latitude": 34.4208192,
+    "longitude": -119.5970506,
+    "status": "OK"
+  },
+  {
+    "address": "5444 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4358401,
+    "longitude": -119.8147475,
+    "status": "OK"
+  },
+  {
+    "address": "100 Linden Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3936113,
+    "longitude": -119.5249009,
+    "status": "OK"
+  },
+  {
+    "address": "998 Sandspit Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4171198,
+    "longitude": -119.8312382,
+    "status": "OK"
+  },
+  {
+    "address": "87 Parker Way, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4142877,
+    "longitude": -119.6945266,
+    "status": "OK"
+  },
+  {
+    "address": "5070 Cathedral Oaks Rd, Goleta, CA 93111, USA",
+    "latitude": 34.4517552,
+    "longitude": -119.7998024,
+    "status": "OK"
+  },
+  {
+    "address": "2558 Borton Dr, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4033627,
+    "longitude": -119.7352518,
+    "status": "OK"
+  },
+  {
+    "address": "1335 Vallecito Pl, Carpinteria, CA 93013, USA",
+    "latitude": 34.4020203,
+    "longitude": -119.5133312,
+    "status": "OK"
+  },
+  {
+    "address": "227 E Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4301186,
+    "longitude": -119.7070839,
+    "status": "OK"
+  },
+  {
+    "address": "5300 El Carro Ln, Carpinteria, CA 93013, USA",
+    "latitude": 34.4047895,
+    "longitude": -119.5104083,
+    "status": "OK"
+  },
+  {
+    "address": "4610 Carpinteria Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.4024314,
+    "longitude": -119.5248692,
+    "status": "OK"
+  },
+  {
+    "address": "2125 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9217513,
+    "longitude": -120.4370233,
+    "status": "OK"
+  },
+  {
+    "address": "761 Camino Pescadero, Goleta, CA 93117, USA",
+    "latitude": 34.4162047,
+    "longitude": -119.8592361,
+    "status": "OK"
+  },
+  {
+    "address": "816 Cacique Street, Santa Barbara, CA 93103, USA",
+    "latitude": 34.418806,
+    "longitude": -119.6764819,
+    "status": "OK"
+  },
+  {
+    "address": "5486 Calle Real, Santa Barbara, CA 93111, USA",
+    "latitude": 34.442494,
+    "longitude": -119.812662,
+    "status": "OK"
+  },
+  {
+    "address": "215 Los Aguajes Ave, Santa Barbara, CA 93101, USA",
+    "latitude": 34.411874,
+    "longitude": -119.694972,
+    "status": "OK"
+  },
+  {
+    "address": "5018 Calle Real, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4420569,
+    "longitude": -119.7976253,
+    "status": "OK"
+  },
+  {
+    "address": "1915 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4289779,
+    "longitude": -119.7152294,
+    "status": "OK"
+  },
+  {
+    "address": "5905 Sandspit Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4170513,
+    "longitude": -119.8292169,
+    "status": "OK"
+  },
+  {
+    "address": "677 N Turnpike Rd, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4498648,
+    "longitude": -119.7920229,
+    "status": "OK"
+  },
+  {
+    "address": "380 N Fairview Ave, Goleta, CA 93117, USA",
+    "latitude": 34.445418,
+    "longitude": -119.8292621,
+    "status": "OK"
+  },
+  {
+    "address": "1059 Vallecito Rd, Carpinteria, CA 93013, USA",
+    "latitude": 34.3976791,
+    "longitude": -119.5156392,
+    "status": "OK"
+  },
+  {
+    "address": "400 Puente Dr, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4347283,
+    "longitude": -119.7830997,
+    "status": "OK"
+  },
+  {
+    "address": "107 E Micheltorena St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4277032,
+    "longitude": -119.7071741,
+    "status": "OK"
+  },
+  {
+    "address": "608 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4193295,
+    "longitude": -119.6959723,
+    "status": "OK"
+  },
+  {
+    "address": "830 W Church St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9518501,
+    "longitude": -120.4463174,
+    "status": "OK"
+  },
+  {
+    "address": "113 N F St, Lompoc, CA 93436, USA",
+    "latitude": 34.6394972,
+    "longitude": -120.4553075,
+    "status": "OK"
+  },
+  {
+    "address": "1414 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9371049,
+    "longitude": -120.4313971,
+    "status": "OK"
+  },
+  {
+    "address": "133 N F St, Lompoc, CA 93436, USA",
+    "latitude": 34.6402373,
+    "longitude": -120.4555433,
+    "status": "OK"
+  },
+  {
+    "address": "115 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6395989,
+    "longitude": -120.4531581,
+    "status": "OK"
+  },
+  {
+    "address": "3694 Tivola St Suite B, Santa Ynez, CA 93460, USA",
+    "latitude": 34.6140842,
+    "longitude": -120.0767811,
+    "status": "OK"
+  },
+  {
+    "address": "113 N F St, Lompoc, CA 93436, USA",
+    "latitude": 34.6394972,
+    "longitude": -120.4553075,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "245 Inger Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9267459,
+    "longitude": -120.4338851,
+    "status": "OK"
+  },
+  {
+    "address": "113 S M St, Lompoc, CA 93436, USA",
+    "latitude": 34.6386425,
+    "longitude": -120.4644722,
+    "status": "OK"
+  },
+  {
+    "address": "604 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6387472,
+    "longitude": -120.451147,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "115 E College Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6475392,
+    "longitude": -120.4568708,
+    "status": "OK"
+  },
+  {
+    "address": "129 S I St, Lompoc, CA 93436, USA",
+    "latitude": 34.6377721,
+    "longitude": -120.4591796,
+    "status": "OK"
+  },
+  {
+    "address": "113 V St, Lompoc, CA 93436, USA",
+    "latitude": 34.6401092,
+    "longitude": -120.4754958,
+    "status": "OK"
+  },
+  {
+    "address": "119 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6397537,
+    "longitude": -120.4530231,
+    "status": "OK"
+  },
+  {
+    "address": "119 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6397537,
+    "longitude": -120.4530231,
+    "status": "OK"
+  },
+  {
+    "address": "118 S A St, Lompoc, CA 93436, USA",
+    "latitude": 34.6385343,
+    "longitude": -120.4489908,
+    "status": "OK"
+  },
+  {
+    "address": "1760 Mission Dr, Solvang, CA 93463, USA",
+    "latitude": 34.5943237,
+    "longitude": -120.1369173,
+    "status": "OK"
+  },
+  {
+    "address": "320 Alisal Rd, Solvang, CA 93463, USA",
+    "latitude": 34.5918487,
+    "longitude": -120.1390827,
+    "status": "OK"
+  },
+  {
+    "address": "164 W Hwy 246, Buellton, CA 93427, USA",
+    "latitude": 34.6132865,
+    "longitude": -120.1964321,
+    "status": "OK"
+  },
+  {
+    "address": "2800 Harris Dr, Lompoc, CA 93436, USA",
+    "latitude": 34.685469,
+    "longitude": -120.4402638,
+    "status": "OK"
+  },
+  {
+    "address": "1760 Mission Dr G, Solvang, CA 93463, USA",
+    "latitude": 34.5943237,
+    "longitude": -120.1369173,
+    "status": "OK"
+  },
+  {
+    "address": "1017 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6391769,
+    "longitude": -120.4458405,
+    "status": "OK"
+  },
+  {
+    "address": "513 N G St, Lompoc, CA 93436, USA",
+    "latitude": 34.6458921,
+    "longitude": -120.4568708,
+    "status": "OK"
+  },
+  {
+    "address": "1812 Bungalow Dr, Santa Maria, CA 93458, USA",
+    "latitude": 34.9272591,
+    "longitude": -120.4432795,
+    "status": "OK"
+  },
+  {
+    "address": "401B W Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943892,
+    "longitude": -120.441023,
+    "status": "OK"
+  },
+  {
+    "address": "1207 N McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9642763,
+    "longitude": -120.4335801,
+    "status": "OK"
+  },
+  {
+    "address": "412 E Tunnell St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9571632,
+    "longitude": -120.4307444,
+    "status": "OK"
+  },
+  {
+    "address": "412 E Tunnell St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9571632,
+    "longitude": -120.4307444,
+    "status": "OK"
+  },
+  {
+    "address": "245 Inger Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9267459,
+    "longitude": -120.4338851,
+    "status": "OK"
+  },
+  {
+    "address": "115 E Fesler St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9567654,
+    "longitude": -120.4350204,
+    "status": "OK"
+  },
+  {
+    "address": "801 E Chapel St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9546806,
+    "longitude": -120.4245102,
+    "status": "OK"
+  },
+  {
+    "address": "Carmel Ln, Santa Maria, CA 93454, USA",
+    "latitude": 34.9685017,
+    "longitude": -120.4258149,
+    "status": "OK"
+  },
+  {
+    "address": "1414 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9371049,
+    "longitude": -120.4313971,
+    "status": "OK"
+  },
+  {
+    "address": "301 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.950095,
+    "longitude": -120.4322073,
+    "status": "OK"
+  },
+  {
+    "address": "401 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943136,
+    "longitude": -120.440282,
+    "status": "OK"
+  },
+  {
+    "address": "1517 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.933146,
+    "longitude": -120.437602,
+    "status": "OK"
+  },
+  {
+    "address": "209 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.953491,
+    "longitude": -120.433632,
+    "status": "OK"
+  },
+  {
+    "address": "324 W Cypress St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9506557,
+    "longitude": -120.440151,
+    "status": "OK"
+  },
+  {
+    "address": "209 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.953491,
+    "longitude": -120.433632,
+    "status": "OK"
+  },
+  {
+    "address": "209 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.953491,
+    "longitude": -120.433632,
+    "status": "OK"
+  },
+  {
+    "address": "408 S McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9497843,
+    "longitude": -120.4343054,
+    "status": "OK"
+  },
+  {
+    "address": "1027 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9533682,
+    "longitude": -120.4188216,
+    "status": "OK"
+  },
+  {
+    "address": "1015 Guadalupe St, Guadalupe, CA 93434, USA",
+    "latitude": 34.97184840000001,
+    "longitude": -120.5720919,
+    "status": "OK"
+  },
+  {
+    "address": "324 E Cypress St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9509271,
+    "longitude": -120.4315033,
+    "status": "OK"
+  },
+  {
+    "address": "324 E Cypress St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9509271,
+    "longitude": -120.4315033,
+    "status": "OK"
+  },
+  {
+    "address": "1022 Butterfly Ct, Santa Maria, CA 93455, USA",
+    "latitude": 34.9054249,
+    "longitude": -120.4188609,
+    "status": "OK"
+  },
+  {
+    "address": "209 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.953491,
+    "longitude": -120.433632,
+    "status": "OK"
+  },
+  {
+    "address": "1822 Baylor Ln, Santa Maria, CA 93454, USA",
+    "latitude": 34.9726181,
+    "longitude": -120.4233173,
+    "status": "OK"
+  },
+  {
+    "address": "540 Mooncrest Ln, Orcutt, CA 93455, USA",
+    "latitude": 34.8748304,
+    "longitude": -120.4305869,
+    "status": "OK"
+  },
+  {
+    "address": "3980 Dartmouth Ln, Santa Maria, CA 93455, USA",
+    "latitude": 34.88600090000001,
+    "longitude": -120.4311495,
+    "status": "OK"
+  },
+  {
+    "address": "993 Patterson Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.86896,
+    "longitude": -120.42209,
+    "status": "OK"
+  },
+  {
+    "address": "126 Broadway St, Orcutt, CA 93455, USA",
+    "latitude": 34.864664,
+    "longitude": -120.4469522,
+    "status": "OK"
+  },
+  {
+    "address": "993 Patterson Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8689719,
+    "longitude": -120.4221695,
+    "status": "OK"
+  },
+  {
+    "address": "1265 W McCoy Ln, Santa Maria, CA 93455, USA",
+    "latitude": 34.9172301,
+    "longitude": -120.4570958,
+    "status": "OK"
+  },
+  {
+    "address": "1822 Baylor Ln, Santa Maria, CA 93454, USA",
+    "latitude": 34.9726181,
+    "longitude": -120.4233173,
+    "status": "OK"
+  },
+  {
+    "address": "993 Patterson Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8689719,
+    "longitude": -120.4221695,
+    "status": "OK"
+  },
+  {
+    "address": "509 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.94366309999999,
+    "longitude": -120.4420751,
+    "status": "OK"
+  },
+  {
+    "address": "731 S Lincoln St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9446983,
+    "longitude": -120.4378754,
+    "status": "OK"
+  },
+  {
+    "address": "2320 Thompson Way, Santa Maria, CA 93455, USA",
+    "latitude": 34.9179053,
+    "longitude": -120.4569158,
+    "status": "OK"
+  },
+  {
+    "address": "123 S College Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.95219950000001,
+    "longitude": -120.4250729,
+    "status": "OK"
+  },
+  {
+    "address": "5679 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4350802,
+    "longitude": -119.8231651,
+    "status": "OK"
+  },
+  {
+    "address": "327 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4120863,
+    "longitude": -119.6967931,
+    "status": "OK"
+  },
+  {
+    "address": "906 De La Vina St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4188578,
+    "longitude": -119.702922,
+    "status": "OK"
+  },
+  {
+    "address": "5444 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4358401,
+    "longitude": -119.8147475,
+    "status": "OK"
+  },
+  {
+    "address": "112 W Cabrillo Blvd, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4111402,
+    "longitude": -119.6911326,
+    "status": "OK"
+  },
+  {
+    "address": "5444 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4358401,
+    "longitude": -119.8147475,
+    "status": "OK"
+  },
+  {
+    "address": "4575 Auhay Dr, Goleta, CA 93110, USA",
+    "latitude": 34.4373242,
+    "longitude": -119.7796434,
+    "status": "OK"
+  },
+  {
+    "address": "19 E Micheltorena St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4268977,
+    "longitude": -119.7080511,
+    "status": "OK"
+  },
+  {
+    "address": "129 S I St Ste. E, Lompoc, CA 93436, USA",
+    "latitude": 34.6377721,
+    "longitude": -120.4591796,
+    "status": "OK"
+  },
+  {
+    "address": "119 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6397537,
+    "longitude": -120.4530231,
+    "status": "OK"
+  },
+  {
+    "address": "119 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6397537,
+    "longitude": -120.4530231,
+    "status": "OK"
+  },
+  {
+    "address": "118 S A St, Lompoc, CA 93436, USA",
+    "latitude": 34.6385343,
+    "longitude": -120.4489908,
+    "status": "OK"
+  },
+  {
+    "address": "113 S M St, Lompoc, CA 93436, USA",
+    "latitude": 34.6386425,
+    "longitude": -120.4644722,
+    "status": "OK"
+  },
+  {
+    "address": "604 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6387472,
+    "longitude": -120.451147,
+    "status": "OK"
+  },
+  {
+    "address": "232 W Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4178243,
+    "longitude": -119.7038947,
+    "status": "OK"
+  },
+  {
+    "address": "4470 Sunset Blvd, Los Angeles, CA 90027, USA",
+    "latitude": 34.0977897,
+    "longitude": -118.2871493,
+    "status": "OK"
+  },
+  {
+    "address": "1530 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4260107,
+    "longitude": -119.7102743,
+    "status": "OK"
+  },
+  {
+    "address": "120 Jones St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9457167,
+    "longitude": -120.4353586,
+    "status": "OK"
+  },
+  {
+    "address": "Santa Barbara, CA 93160, USA",
+    "latitude": 34.43,
+    "longitude": -119.8,
+    "status": "OK"
+  },
+  {
+    "address": "1000 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6385122,
+    "longitude": -120.4463399,
+    "status": "OK"
+  },
+  {
+    "address": "2025 Sweeney Rd, Lompoc, CA 93436, USA",
+    "latitude": 34.6450414,
+    "longitude": -120.4275036,
+    "status": "OK"
+  },
+  {
+    "address": "411 E Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4254008,
+    "longitude": -119.6960282,
+    "status": "OK"
+  },
+  {
+    "address": "203 North N Street, Lompoc, CA 93436, USA",
+    "latitude": 34.6409562,
+    "longitude": -120.465691,
+    "status": "OK"
+  },
+  {
+    "address": "815 W Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6393424,
+    "longitude": -120.4678509,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "648 N G St, Lompoc, CA 93436, USA",
+    "latitude": 34.6478312,
+    "longitude": -120.4563083,
+    "status": "OK"
+  },
+  {
+    "address": "500 N T St, Lompoc, CA 93436, USA",
+    "latitude": 34.64573,
+    "longitude": -120.47267,
+    "status": "OK"
+  },
+  {
+    "address": "504 N T St, Lompoc, CA 93436, USA",
+    "latitude": 34.6458728,
+    "longitude": -120.4726206,
+    "status": "OK"
+  },
+  {
+    "address": "N E St, Lompoc, CA 93436, USA",
+    "latitude": 34.6441812,
+    "longitude": -120.4539728,
+    "status": "OK"
+  },
+  {
+    "address": "N E St, Lompoc, CA 93436, USA",
+    "latitude": 34.6441812,
+    "longitude": -120.4539728,
+    "status": "OK"
+  },
+  {
+    "address": "N E St, Lompoc, CA 93436, USA",
+    "latitude": 34.6441812,
+    "longitude": -120.4539728,
+    "status": "OK"
+  },
+  {
+    "address": "580 Central Ave, Buellton, CA 93427, USA",
+    "latitude": 34.6184558,
+    "longitude": -120.1915384,
+    "status": "OK"
+  },
+  {
+    "address": "614 Central Ave, Buellton, CA 93427, USA",
+    "latitude": 34.6183518,
+    "longitude": -120.1915657,
+    "status": "OK"
+  },
+  {
+    "address": "11 E Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.417388,
+    "longitude": -119.695308,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "N C St, Lompoc, CA 93436, USA",
+    "latitude": 34.65333,
+    "longitude": -120.45137,
+    "status": "OK"
+  },
+  {
+    "address": "117 N B St, Lompoc, CA 93436, USA",
+    "latitude": 34.6398604,
+    "longitude": -120.4506379,
+    "status": "OK"
+  },
+  {
+    "address": "1010 N H St, Lompoc, CA 93436, USA",
+    "latitude": 34.653574,
+    "longitude": -120.4566008,
+    "status": "OK"
+  },
+  {
+    "address": "513 N G St, Lompoc, CA 93436, USA",
+    "latitude": 34.6458921,
+    "longitude": -120.4568708,
+    "status": "OK"
+  },
+  {
+    "address": "90 Via Juana Rd, Santa Ynez, CA 93460, USA",
+    "latitude": 34.604212,
+    "longitude": -120.093529,
+    "status": "OK"
+  },
+  {
+    "address": "1515 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6411375,
+    "longitude": -120.4395191,
+    "status": "OK"
+  },
+  {
+    "address": "164 W Hwy 246, Buellton, CA 93427, USA",
+    "latitude": 34.6132865,
+    "longitude": -120.1964321,
+    "status": "OK"
+  },
+  {
+    "address": "135 S E St, Lompoc, CA 93436, USA",
+    "latitude": 34.6375335,
+    "longitude": -120.4544709,
+    "status": "OK"
+  },
+  {
+    "address": "500 W North Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6534293,
+    "longitude": -120.4631635,
+    "status": "OK"
+  },
+  {
+    "address": "314 North N Street, Lompoc, CA 93436, USA",
+    "latitude": 34.642732,
+    "longitude": -120.465048,
+    "status": "OK"
+  },
+  {
+    "address": "403 S J St, Lompoc, CA 93436, USA",
+    "latitude": 34.6339559,
+    "longitude": -120.4607544,
+    "status": "OK"
+  },
+  {
+    "address": "N C St, Lompoc, CA 93436, USA",
+    "latitude": 34.65333,
+    "longitude": -120.45137,
+    "status": "OK"
+  },
+  {
+    "address": "213 E Olive Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.63410289999999,
+    "longitude": -120.4564936,
+    "status": "OK"
+  },
+  {
+    "address": "816 N C St, Lompoc, CA 93436, USA",
+    "latitude": 34.6510841,
+    "longitude": -120.4511104,
+    "status": "OK"
+  },
+  {
+    "address": "38 N B St, Lompoc, CA 93436, USA",
+    "latitude": 34.6389386,
+    "longitude": -120.4502683,
+    "status": "OK"
+  },
+  {
+    "address": "260 Gonzales Dr, Los Alamos, CA 93440, USA",
+    "latitude": 34.7466419,
+    "longitude": -120.2813654,
+    "status": "OK"
+  },
+  {
+    "address": "1760 Mission Dr, Solvang, CA 93463, USA",
+    "latitude": 34.5943237,
+    "longitude": -120.1369173,
+    "status": "OK"
+  },
+  {
+    "address": "925 N F St, Lompoc, CA 93436, USA",
+    "latitude": 34.6526204,
+    "longitude": -120.4557908,
+    "status": "OK"
+  },
+  {
+    "address": "917 W Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6394277,
+    "longitude": -120.4691693,
+    "status": "OK"
+  },
+  {
+    "address": "213 S J St, Lompoc, CA 93436, USA",
+    "latitude": 34.6367878,
+    "longitude": -120.4607194,
+    "status": "OK"
+  },
+  {
+    "address": "690 Bell St, Los Alamos, CA 93440, USA",
+    "latitude": 34.7433039,
+    "longitude": -120.274461,
+    "status": "OK"
+  },
+  {
+    "address": "213 N J St, Lompoc, CA 93436, USA",
+    "latitude": 34.64165,
+    "longitude": -120.46076,
+    "status": "OK"
+  },
+  {
+    "address": "1100 W Laurel Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6430309,
+    "longitude": -120.4714057,
+    "status": "OK"
+  },
+  {
+    "address": "234 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4444764,
+    "longitude": -119.7787398,
+    "status": "OK"
+  },
+  {
+    "address": "2125 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9216926,
+    "longitude": -120.4290115,
+    "status": "OK"
+  },
+  {
+    "address": "1535 Santa Barbara St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4287823,
+    "longitude": -119.7073554,
+    "status": "OK"
+  },
+  {
+    "address": "1500 State St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4267243,
+    "longitude": -119.7082605,
+    "status": "OK"
+  },
+  {
+    "address": "305 E Anapamu St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4269434,
+    "longitude": -119.7012007,
+    "status": "OK"
+  },
+  {
+    "address": "21 W Constance Ave, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4361627,
+    "longitude": -119.722603,
+    "status": "OK"
+  },
+  {
+    "address": "2101 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.431681,
+    "longitude": -119.7164808,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Vallecito Rd, Carpinteria, CA 93013, USA",
+    "latitude": 34.396972,
+    "longitude": -119.5162158,
+    "status": "OK"
+  },
+  {
+    "address": "892 Camino Del Sur, Isla Vista, CA 93117, USA",
+    "latitude": 34.4129608,
+    "longitude": -119.8624034,
+    "status": "OK"
+  },
+  {
+    "address": "125 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41944170000001,
+    "longitude": -119.7034861,
+    "status": "OK"
+  },
+  {
+    "address": "2904 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4398449,
+    "longitude": -119.726112,
+    "status": "OK"
+  },
+  {
+    "address": "66 S San Antonio Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4401236,
+    "longitude": -119.7813888,
+    "status": "OK"
+  },
+  {
+    "address": "2612 Modoc Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4259987,
+    "longitude": -119.7339132,
+    "status": "OK"
+  },
+  {
+    "address": "26 E Victoria St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4248047,
+    "longitude": -119.7048479,
+    "status": "OK"
+  },
+  {
+    "address": "4090 Via Real, Carpinteria, CA 93013, USA",
+    "latitude": 34.4055764,
+    "longitude": -119.5357337,
+    "status": "OK"
+  },
+  {
+    "address": "681 Ash Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3992601,
+    "longitude": -119.5243879,
+    "status": "OK"
+  },
+  {
+    "address": "1305 Dahlia Ct, Carpinteria, CA 93013, USA",
+    "latitude": 34.4041893,
+    "longitude": -119.5262457,
+    "status": "OK"
+  },
+  {
+    "address": "10 Longshore Pl, Goleta, CA 93117, USA",
+    "latitude": 34.4361393,
+    "longitude": -119.8538794,
+    "status": "OK"
+  },
+  {
+    "address": "360 Ellwood Beach Dr, Goleta, CA 93117, USA",
+    "latitude": 34.4257288,
+    "longitude": -119.8853394,
+    "status": "OK"
+  },
+  {
+    "address": "6660 Abrego Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4144239,
+    "longitude": -119.8610189,
+    "status": "OK"
+  },
+  {
+    "address": "6822 Phelps Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4237992,
+    "longitude": -119.8661749,
+    "status": "OK"
+  },
+  {
+    "address": "155 S Kellogg Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4368746,
+    "longitude": -119.8210214,
+    "status": "OK"
+  },
+  {
+    "address": "4202 11th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.967899,
+    "longitude": -120.561368,
+    "status": "OK"
+  },
+  {
+    "address": "230 Calle Cesar E Chavez, Guadalupe, CA 93434, USA",
+    "latitude": 34.9606693,
+    "longitude": -120.5883185,
+    "status": "OK"
+  },
+  {
+    "address": "648 N G St, Lompoc, CA 93436, USA",
+    "latitude": 34.6478312,
+    "longitude": -120.4563083,
+    "status": "OK"
+  },
+  {
+    "address": "290 Parkview S, Orcutt, CA 93455, USA",
+    "latitude": 34.8768094,
+    "longitude": -120.4303618,
+    "status": "OK"
+  },
+  {
+    "address": "21 E Anapamu St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.424356,
+    "longitude": -119.7039624,
+    "status": "OK"
+  },
+  {
+    "address": "510 N Salsipuedes St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.423646,
+    "longitude": -119.689009,
+    "status": "OK"
+  },
+  {
+    "address": "322 Ladera St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4092359,
+    "longitude": -119.7009161,
+    "status": "OK"
+  },
+  {
+    "address": "4234 Pozzo Cir, Santa Barbara, CA 93110, USA",
+    "latitude": 34.442761,
+    "longitude": -119.7619891,
+    "status": "OK"
+  },
+  {
+    "address": "24 E Victoria St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4248234,
+    "longitude": -119.7050277,
+    "status": "OK"
+  },
+  {
+    "address": "210 E Victoria St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4265821,
+    "longitude": -119.7030007,
+    "status": "OK"
+  },
+  {
+    "address": "1026 W Boone St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9466589,
+    "longitude": -120.4497603,
+    "status": "OK"
+  },
+  {
+    "address": "1148 W Boone St, Santa Maria, CA 93458, USA",
+    "latitude": 34.946688,
+    "longitude": -120.4519205,
+    "status": "OK"
+  },
+  {
+    "address": "525 Russell Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.9480022,
+    "longitude": -120.4520129,
+    "status": "OK"
+  },
+  {
+    "address": "665 Sierra Madre Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.9405031,
+    "longitude": -120.4269634,
+    "status": "OK"
+  },
+  {
+    "address": "280 W Newlove Dr, Santa Maria, CA 93458, USA",
+    "latitude": 34.929754,
+    "longitude": -120.4392659,
+    "status": "OK"
+  },
+  {
+    "address": "1760 McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.928637,
+    "longitude": -120.433444,
+    "status": "OK"
+  },
+  {
+    "address": "250 W Newlove Dr, Santa Maria, CA 93458, USA",
+    "latitude": 34.9297536,
+    "longitude": -120.4391705,
+    "status": "OK"
+  },
+  {
+    "address": "324 E Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4251406,
+    "longitude": -119.6975677,
+    "status": "OK"
+  },
+  {
+    "address": "4597 Hollister Ave, Santa Barbara, CA 93110, USA",
+    "latitude": 34.43722,
+    "longitude": -119.781055,
+    "status": "OK"
+  },
+  {
+    "address": "320 E Gutierrez St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4194413,
+    "longitude": -119.6899138,
+    "status": "OK"
+  },
+  {
+    "address": "222 W Valerio St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4254578,
+    "longitude": -119.713985,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "400 W Pueblo St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4295357,
+    "longitude": -119.7241169,
+    "status": "OK"
+  },
+  {
+    "address": "351 S Patterson Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4333295,
+    "longitude": -119.8104123,
+    "status": "OK"
+  },
+  {
+    "address": "305 Camino del Remedio, Goleta, CA 93110, USA",
+    "latitude": 34.4439113,
+    "longitude": -119.7800091,
+    "status": "OK"
+  },
+  {
+    "address": "2034 De La Vina St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4296755,
+    "longitude": -119.7178766,
+    "status": "OK"
+  },
+  {
+    "address": "403 E Montecito St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4198057,
+    "longitude": -119.688548,
+    "status": "OK"
+  },
+  {
+    "address": "334 S Patterson Ave, Goleta, CA 93111, USA",
+    "latitude": 34.4329097,
+    "longitude": -119.8093531,
+    "status": "OK"
+  },
+  {
+    "address": "324 E Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4251406,
+    "longitude": -119.6975677,
+    "status": "OK"
+  },
+  {
+    "address": "3769 Constellation Rd, Lompoc, CA 93436, USA",
+    "latitude": 34.7009657,
+    "longitude": -120.4658709,
+    "status": "OK"
+  },
+  {
+    "address": "608 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4193295,
+    "longitude": -119.6959723,
+    "status": "OK"
+  },
+  {
+    "address": "123 S College Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.95219950000001,
+    "longitude": -120.4250729,
+    "status": "OK"
+  },
+  {
+    "address": "4444 Calle Real, Goleta, CA 93110, USA",
+    "latitude": 34.4432711,
+    "longitude": -119.7789641,
+    "status": "OK"
+  },
+  {
+    "address": "53 Cass Pl, Goleta, CA 93117, USA",
+    "latitude": 34.4312468,
+    "longitude": -119.8431423,
+    "status": "OK"
+  },
+  {
+    "address": "240 Roemer Way, Santa Maria, CA 93454, USA",
+    "latitude": 34.9754578,
+    "longitude": -120.4329274,
+    "status": "OK"
+  },
+  {
+    "address": "617 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4213028,
+    "longitude": -119.6942616,
+    "status": "OK"
+  },
+  {
+    "address": "923 Olive St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4262495,
+    "longitude": -119.6959039,
+    "status": "OK"
+  },
+  {
+    "address": "2020 Alameda Padre Serra, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4390701,
+    "longitude": -119.704901,
+    "status": "OK"
+  },
+  {
+    "address": "350 S Hope Ave, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4354095,
+    "longitude": -119.74654,
+    "status": "OK"
+  },
+  {
+    "address": "115 W Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4188255,
+    "longitude": -119.7020153,
+    "status": "OK"
+  },
+  {
+    "address": "500 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.880679,
+    "longitude": -120.4421543,
+    "status": "OK"
+  },
+  {
+    "address": "100 Civic Center Plaza, Lompoc, CA 93436, USA",
+    "latitude": 34.637844,
+    "longitude": -120.452248,
+    "status": "OK"
+  },
+  {
+    "address": "100 Castillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4088977,
+    "longitude": -119.6949468,
+    "status": "OK"
+  },
+  {
+    "address": "431 2nd St, Solvang, CA 93463, USA",
+    "latitude": 34.5946098,
+    "longitude": -120.1415864,
+    "status": "OK"
+  },
+  {
+    "address": "6586 Picasso Rd, Goleta, CA 93117, USA",
+    "latitude": 34.415411,
+    "longitude": -119.8582715,
+    "status": "OK"
+  },
+  {
+    "address": "1303 Fairway Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.9140442,
+    "longitude": -120.4585809,
+    "status": "OK"
+  },
+  {
+    "address": "729 N H St, Lompoc, CA 93436, USA",
+    "latitude": 34.6484785,
+    "longitude": -120.4584459,
+    "status": "OK"
+  },
+  {
+    "address": "6550 Picasso Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4153586,
+    "longitude": -119.856618,
+    "status": "OK"
+  },
+  {
+    "address": "3249 Terminal Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.8986493,
+    "longitude": -120.4471275,
+    "status": "OK"
+  },
+  {
+    "address": "120 Jones St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9457167,
+    "longitude": -120.4353586,
+    "status": "OK"
+  },
+  {
+    "address": "102 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6386597,
+    "longitude": -120.4576568,
+    "status": "OK"
+  },
+  {
+    "address": "890 N Refugio Rd, Santa Ynez, CA 93460, USA",
+    "latitude": 34.6055827,
+    "longitude": -120.096987,
+    "status": "OK"
+  },
+  {
+    "address": "1100 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.424432,
+    "longitude": -119.7018796,
+    "status": "OK"
+  },
+  {
+    "address": "312 E Cook St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9492102,
+    "longitude": -120.4322973,
+    "status": "OK"
+  },
+  {
+    "address": "4285 California Blvd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8811171,
+    "longitude": -120.447375,
+    "status": "OK"
+  },
+  {
+    "address": "115 Civic Center Plaza, Lompoc, CA 93436, USA",
+    "latitude": 34.637649,
+    "longitude": -120.453174,
+    "status": "OK"
+  },
+  {
+    "address": "1100 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.424432,
+    "longitude": -119.7018796,
+    "status": "OK"
+  },
+  {
+    "address": "312 E Cook St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9492102,
+    "longitude": -120.4322973,
+    "status": "OK"
+  },
+  {
+    "address": "115 Civic Center Plaza, Lompoc, CA 93436, USA",
+    "latitude": 34.637649,
+    "longitude": -120.453174,
+    "status": "OK"
+  },
+  {
+    "address": "609 E Haley St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4237878,
+    "longitude": -119.6887774,
+    "status": "OK"
+  },
+  {
+    "address": "1500 Linden Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.4055095,
+    "longitude": -119.5147517,
+    "status": "OK"
+  },
+  {
+    "address": "607 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.953516,
+    "longitude": -120.4279537,
+    "status": "OK"
+  },
+  {
+    "address": "325 N Second St, Lompoc, CA 93436, USA",
+    "latitude": 34.6431904,
+    "longitude": -120.4467844,
+    "status": "OK"
+  },
+  {
+    "address": "4681 11th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9733403,
+    "longitude": -120.5723618,
+    "status": "OK"
+  },
+  {
+    "address": "6647 El Colegio Rd, Goleta, CA 93117, USA",
+    "latitude": 34.4167722,
+    "longitude": -119.8599128,
+    "status": "OK"
+  },
+  {
+    "address": "4711 CA-166, New Cuyama, CA 93254, USA",
+    "latitude": 34.9457889,
+    "longitude": -119.683346,
+    "status": "OK"
+  },
+  {
+    "address": "117 E Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4232195,
+    "longitude": -119.7004172,
+    "status": "OK"
+  },
+  {
+    "address": "4500 Hollister Ave, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4404605,
+    "longitude": -119.7757177,
+    "status": "OK"
+  },
+  {
+    "address": "3900 Paradise Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.5444138,
+    "longitude": -119.780869,
+    "status": "OK"
+  },
+  {
+    "address": "415 E Cypress Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6374341,
+    "longitude": -120.4531547,
+    "status": "OK"
+  },
+  {
+    "address": "2121 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9218696,
+    "longitude": -120.4304969,
+    "status": "OK"
+  },
+  {
+    "address": "4263 California Blvd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8819645,
+    "longitude": -120.4464299,
+    "status": "OK"
+  },
+  {
+    "address": "124 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.92424889999999,
+    "longitude": -120.4378114,
+    "status": "OK"
+  },
+  {
+    "address": "604 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6387472,
+    "longitude": -120.451147,
+    "status": "OK"
+  },
+  {
+    "address": "115 Civic Center Plaza, Lompoc, CA 93436, USA",
+    "latitude": 34.637649,
+    "longitude": -120.453174,
+    "status": "OK"
+  },
+  {
+    "address": "312 E Cook St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9492102,
+    "longitude": -120.4322973,
+    "status": "OK"
+  },
+  {
+    "address": "1100 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.424432,
+    "longitude": -119.7018796,
+    "status": "OK"
+  },
+  {
+    "address": "300 N San Antonio Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4437825,
+    "longitude": -119.7809529,
+    "status": "OK"
+  },
+  {
+    "address": "345 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4446513,
+    "longitude": -119.7811167,
+    "status": "OK"
+  },
+  {
+    "address": "345 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4446513,
+    "longitude": -119.7811167,
+    "status": "OK"
+  },
+  {
+    "address": "931 Walnut Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3969372,
+    "longitude": -119.5170085,
+    "status": "OK"
+  },
+  {
+    "address": "345 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4446513,
+    "longitude": -119.7811167,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "301 N R St, Lompoc, CA 93436, USA",
+    "latitude": 34.6429463,
+    "longitude": -120.4710007,
+    "status": "OK"
+  },
+  {
+    "address": "2115 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9226316,
+    "longitude": -120.4301273,
+    "status": "OK"
+  },
+  {
+    "address": "225 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4429369,
+    "longitude": -119.7801956,
+    "status": "OK"
+  },
+  {
+    "address": "1111 E Mason St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4250769,
+    "longitude": -119.6780157,
+    "status": "OK"
+  },
+  {
+    "address": "301 N R St, Lompoc, CA 93436, USA",
+    "latitude": 34.6429463,
+    "longitude": -120.4710007,
+    "status": "OK"
+  },
+  {
+    "address": "175 Cremona Dr, Goleta, CA 93117, USA",
+    "latitude": 34.4312462,
+    "longitude": -119.8572263,
+    "status": "OK"
+  },
+  {
+    "address": "425 W Central Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6612523,
+    "longitude": -120.46173,
+    "status": "OK"
+  },
+  {
+    "address": "1225 N H St, Lompoc, CA 93436, USA",
+    "latitude": 34.6580588,
+    "longitude": -120.4592559,
+    "status": "OK"
+  },
+  {
+    "address": "506 Plaza Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9371075,
+    "longitude": -120.4296866,
+    "status": "OK"
+  },
+  {
+    "address": "1444 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9356792,
+    "longitude": -120.4343305,
+    "status": "OK"
+  },
+  {
+    "address": "545 Alisal Rd, Solvang, CA 93463, USA",
+    "latitude": 34.5972206,
+    "longitude": -120.1376166,
+    "status": "OK"
+  },
+  {
+    "address": "617 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4213028,
+    "longitude": -119.6942616,
+    "status": "OK"
+  },
+  {
+    "address": "1100 W Laurel Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6430309,
+    "longitude": -120.4714057,
+    "status": "OK"
+  },
+  {
+    "address": "120 W Chestnut Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6420534,
+    "longitude": -120.4588509,
+    "status": "OK"
+  },
+  {
+    "address": "320 W 4th St, Los Angeles, CA 90013, USA",
+    "latitude": 34.0494289,
+    "longitude": -118.2500584,
+    "status": "OK"
+  },
+  {
+    "address": "401 E Cypress Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6374781,
+    "longitude": -120.4538106,
+    "status": "OK"
+  },
+  {
+    "address": "1601 N H St, Lompoc, CA 93436, USA",
+    "latitude": 34.6635088,
+    "longitude": -120.4584009,
+    "status": "OK"
+  },
+  {
+    "address": "523 S McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9476016,
+    "longitude": -120.4347279,
+    "status": "OK"
+  },
+  {
+    "address": "7127 Hollister Ave, Goleta, CA 93199, USA",
+    "latitude": 34.4287963,
+    "longitude": -119.8769101,
+    "status": "OK"
+  },
+  {
+    "address": "535 Castillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4131085,
+    "longitude": -119.7013267,
+    "status": "OK"
+  },
+  {
+    "address": "110 W Sola St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4240439,
+    "longitude": -119.7085525,
+    "status": "OK"
+  },
+  {
+    "address": "234 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4444764,
+    "longitude": -119.7787398,
+    "status": "OK"
+  },
+  {
+    "address": "1401 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4241767,
+    "longitude": -119.7083578,
+    "status": "OK"
+  },
+  {
+    "address": "1209 State St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4233419,
+    "longitude": -119.7051606,
+    "status": "OK"
+  },
+  {
+    "address": "1100 W Laurel Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6430309,
+    "longitude": -120.4714057,
+    "status": "OK"
+  },
+  {
+    "address": "2125 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9216926,
+    "longitude": -120.4290115,
+    "status": "OK"
+  },
+  {
+    "address": "1444 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9356792,
+    "longitude": -120.4343305,
+    "status": "OK"
+  },
+  {
+    "address": "304 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9247351,
+    "longitude": -120.4392901,
+    "status": "OK"
+  },
+  {
+    "address": "1410 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9359995,
+    "longitude": -120.4344128,
+    "status": "OK"
+  },
+  {
+    "address": "50 Alamar Ave, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4398491,
+    "longitude": -119.7244529,
+    "status": "OK"
+  },
+  {
+    "address": "130 W Ortega St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4168918,
+    "longitude": -119.7002617,
+    "status": "OK"
+  },
+  {
+    "address": "Santa Barbara, CA 93160, USA",
+    "latitude": 34.43,
+    "longitude": -119.8,
+    "status": "OK"
+  },
+  {
+    "address": "111 Commerce Dr, Buellton, CA 93427, USA",
+    "latitude": 34.6234861,
+    "longitude": -120.186385,
+    "status": "OK"
+  },
+  {
+    "address": "5473 Overpass Rd, Goleta, CA 93111, USA",
+    "latitude": 34.4389209,
+    "longitude": -119.8138669,
+    "status": "OK"
+  },
+  {
+    "address": "1501 W Central Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6613299,
+    "longitude": -120.4757928,
+    "status": "OK"
+  },
+  {
+    "address": "548 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.882507,
+    "longitude": -120.4423343,
+    "status": "OK"
+  },
+  {
+    "address": "101 E Chestnut Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6425031,
+    "longitude": -120.4575009,
+    "status": "OK"
+  },
+  {
+    "address": "124 S I St, Lompoc, CA 93436, USA",
+    "latitude": 34.6386508,
+    "longitude": -120.4591777,
+    "status": "OK"
+  },
+  {
+    "address": "56 CA-246, Buellton, CA 93427, USA",
+    "latitude": 34.6136371,
+    "longitude": -120.1953542,
+    "status": "OK"
+  },
+  {
+    "address": "1689 Oak St, Solvang, CA 93463, USA",
+    "latitude": 34.593421,
+    "longitude": -120.1397368,
+    "status": "OK"
+  },
+  {
+    "address": "3630 Sagunto St suite a-2, Santa Ynez, CA 93460, USA",
+    "latitude": 34.6123597,
+    "longitude": -120.0789355,
+    "status": "OK"
+  },
+  {
+    "address": "175 McMurray Rd, Buellton, CA 93427, USA",
+    "latitude": 34.6099325,
+    "longitude": -120.189801,
+    "status": "OK"
+  },
+  {
+    "address": "2215 Skyway Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.9199817,
+    "longitude": -120.4543507,
+    "status": "OK"
+  },
+  {
+    "address": "409 E Church St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9522808,
+    "longitude": -120.4310145,
+    "status": "OK"
+  },
+  {
+    "address": "1782 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9278383,
+    "longitude": -120.4359164,
+    "status": "OK"
+  },
+  {
+    "address": "210 E Enos Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9332895,
+    "longitude": -120.4344578,
+    "status": "OK"
+  },
+  {
+    "address": "380 N Fairview Ave, Goleta, CA 93117, USA",
+    "latitude": 34.445418,
+    "longitude": -119.8292621,
+    "status": "OK"
+  },
+  {
+    "address": "595 N Fairview Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4486164,
+    "longitude": -119.8310255,
+    "status": "OK"
+  },
+  {
+    "address": "781 Embarcadero del Mar, Isla Vista, CA 93117, USA",
+    "latitude": 34.4155394,
+    "longitude": -119.8574016,
+    "status": "OK"
+  },
+  {
+    "address": "1136 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.42714,
+    "longitude": -119.6793985,
+    "status": "OK"
+  },
+  {
+    "address": "5201 8th St, Carpinteria, CA 93013, USA",
+    "latitude": 34.3954027,
+    "longitude": -119.5183297,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "222 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9245945,
+    "longitude": -120.4390487,
+    "status": "OK"
+  },
+  {
+    "address": "2125 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9217513,
+    "longitude": -120.4370233,
+    "status": "OK"
+  },
+  {
+    "address": "2125 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9217513,
+    "longitude": -120.4370233,
+    "status": "OK"
+  },
+  {
+    "address": "110 S Pine St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9522159,
+    "longitude": -120.4386887,
+    "status": "OK"
+  },
+  {
+    "address": "423 W Victoria St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4196145,
+    "longitude": -119.71041,
+    "status": "OK"
+  },
+  {
+    "address": "110 S Pine St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9522159,
+    "longitude": -120.4386887,
+    "status": "OK"
+  },
+  {
+    "address": "1136 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.42714,
+    "longitude": -119.6793985,
+    "status": "OK"
+  },
+  {
+    "address": "210 E Enos Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9332895,
+    "longitude": -120.4344578,
+    "status": "OK"
+  },
+  {
+    "address": "1111 E Mason St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4250769,
+    "longitude": -119.6780157,
+    "status": "OK"
+  },
+  {
+    "address": "509 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.94366309999999,
+    "longitude": -120.4420751,
+    "status": "OK"
+  },
+  {
+    "address": "11 Camino De Vida, Santa Barbara, CA 93111, USA",
+    "latitude": 34.440485,
+    "longitude": -119.7904046,
+    "status": "OK"
+  },
+  {
+    "address": "5679 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4350802,
+    "longitude": -119.8231651,
+    "status": "OK"
+  },
+  {
+    "address": "200 E Cook St, Santa Maria, CA 93454, USA",
+    "latitude": 34.949799,
+    "longitude": -120.434305,
+    "status": "OK"
+  },
+  {
+    "address": "1532 Linden Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.406302,
+    "longitude": -119.5150152,
+    "status": "OK"
+  },
+  {
+    "address": "1026 Sierra Madre Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.9397081,
+    "longitude": -120.4198287,
+    "status": "OK"
+  },
+  {
+    "address": "401 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943136,
+    "longitude": -120.440282,
+    "status": "OK"
+  },
+  {
+    "address": "5201 8th St, Carpinteria, CA 93013, USA",
+    "latitude": 34.3954027,
+    "longitude": -119.5183297,
+    "status": "OK"
+  },
+  {
+    "address": "401 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943136,
+    "longitude": -120.440282,
+    "status": "OK"
+  },
+  {
+    "address": "200 W Williams St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9695013,
+    "longitude": -120.4375184,
+    "status": "OK"
+  },
+  {
+    "address": "235 Inger Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9267198,
+    "longitude": -120.4344227,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "1660 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9300936,
+    "longitude": -120.4352005,
+    "status": "OK"
+  },
+  {
+    "address": "6586 Picasso Rd, Goleta, CA 93117, USA",
+    "latitude": 34.415411,
+    "longitude": -119.8582715,
+    "status": "OK"
+  },
+  {
+    "address": "531 E Ortega St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4249716,
+    "longitude": -119.6918308,
+    "status": "OK"
+  },
+  {
+    "address": "300 Sumida Gardens Ln, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4341608,
+    "longitude": -119.8140469,
+    "status": "OK"
+  },
+  {
+    "address": "227 E Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4301186,
+    "longitude": -119.7070839,
+    "status": "OK"
+  },
+  {
+    "address": "212 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9246367,
+    "longitude": -120.4383286,
+    "status": "OK"
+  },
+  {
+    "address": "1118 E Cabrillo Blvd, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4170185,
+    "longitude": -119.6689747,
+    "status": "OK"
+  },
+  {
+    "address": "1219 Anacapa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4246692,
+    "longitude": -119.7040181,
+    "status": "OK"
+  },
+  {
+    "address": "425 E Cota St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42304,
+    "longitude": -119.6915156,
+    "status": "OK"
+  },
+  {
+    "address": "310 N Milpas St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.424996,
+    "longitude": -119.682922,
+    "status": "OK"
+  },
+  {
+    "address": "834 N Milpas St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4303578,
+    "longitude": -119.6897731,
+    "status": "OK"
+  },
+  {
+    "address": "35 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4157509,
+    "longitude": -119.6963618,
+    "status": "OK"
+  },
+  {
+    "address": "1415 State St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4253246,
+    "longitude": -119.7077429,
+    "status": "OK"
+  },
+  {
+    "address": "630 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.421734,
+    "longitude": -119.6940501,
+    "status": "OK"
+  },
+  {
+    "address": "California, USA",
+    "latitude": 36.778261,
+    "longitude": -119.4179324,
+    "status": "OK"
+  },
+  {
+    "address": "15 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4208791,
+    "longitude": -119.7020942,
+    "status": "OK"
+  },
+  {
+    "address": "4 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4215446,
+    "longitude": -119.7021682,
+    "status": "OK"
+  },
+  {
+    "address": "3840 Orcutt Garey Rd, Santa Maria, CA 93454, USA",
+    "latitude": 34.878187,
+    "longitude": -120.328947,
+    "status": "OK"
+  },
+  {
+    "address": "124 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.92424889999999,
+    "longitude": -120.4378114,
+    "status": "OK"
+  },
+  {
+    "address": "124 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.92424889999999,
+    "longitude": -120.4378114,
+    "status": "OK"
+  },
+  {
+    "address": "430 S Blosser Rd, Santa Maria, CA 93458, USA",
+    "latitude": 34.9488001,
+    "longitude": -120.452895,
+    "status": "OK"
+  },
+  {
+    "address": "210 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9547526,
+    "longitude": -120.4355155,
+    "status": "OK"
+  },
+  {
+    "address": "829 S Lincoln St, Santa Maria, CA 93458, USA",
+    "latitude": 34.94388170000001,
+    "longitude": -120.4377082,
+    "status": "OK"
+  },
+  {
+    "address": "1304 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9382589,
+    "longitude": -120.4309695,
+    "status": "OK"
+  },
+  {
+    "address": "1418 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9525257,
+    "longitude": -120.4137515,
+    "status": "OK"
+  },
+  {
+    "address": "1835 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9734878,
+    "longitude": -120.4359661,
+    "status": "OK"
+  },
+  {
+    "address": "2801 Santa Maria Way, Santa Maria, CA 93455, USA",
+    "latitude": 34.9088211,
+    "longitude": -120.4344253,
+    "status": "OK"
+  },
+  {
+    "address": "607 Plaza Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9375754,
+    "longitude": -120.4277061,
+    "status": "OK"
+  },
+  {
+    "address": "500 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.880679,
+    "longitude": -120.4421543,
+    "status": "OK"
+  },
+  {
+    "address": "212 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9246367,
+    "longitude": -120.4383286,
+    "status": "OK"
+  },
+  {
+    "address": "401 W Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6392374,
+    "longitude": -120.4618885,
+    "status": "OK"
+  },
+  {
+    "address": "117 N B St, Lompoc, CA 93436, USA",
+    "latitude": 34.6398604,
+    "longitude": -120.4506379,
+    "status": "OK"
+  },
+  {
+    "address": "66 S San Antonio Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4401236,
+    "longitude": -119.7813888,
+    "status": "OK"
+  },
+  {
+    "address": "429 N San Antonio Rd, Goleta, CA 93110, USA",
+    "latitude": 34.4460677,
+    "longitude": -119.7807625,
+    "status": "OK"
+  },
+  {
+    "address": "4444 Calle Real, Goleta, CA 93110, USA",
+    "latitude": 34.4432711,
+    "longitude": -119.7789641,
+    "status": "OK"
+  },
+  {
+    "address": "2034 De La Vina St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4296755,
+    "longitude": -119.7178766,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "709 N Curryer St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9596079,
+    "longitude": -120.4419292,
+    "status": "OK"
+  },
+  {
+    "address": "1026 Sierra Madre Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.9397081,
+    "longitude": -120.4198287,
+    "status": "OK"
+  },
+  {
+    "address": "1503 N McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9668709,
+    "longitude": -120.4337376,
+    "status": "OK"
+  },
+  {
+    "address": "619 N Railroad Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.959417,
+    "longitude": -120.4451697,
+    "status": "OK"
+  },
+  {
+    "address": "402 Lincoln St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9495892,
+    "longitude": -120.4371584,
+    "status": "OK"
+  },
+  {
+    "address": "200 East Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.9517359,
+    "longitude": -120.4265349,
+    "status": "OK"
+  },
+  {
+    "address": "Shoreline Dr, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4048072,
+    "longitude": -119.6947892,
+    "status": "OK"
+  },
+  {
+    "address": "323 W Cabrillo Blvd, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4089122,
+    "longitude": -119.6929901,
+    "status": "OK"
+  },
+  {
+    "address": "1400 E Cabrillo Blvd, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4198673,
+    "longitude": -119.6613662,
+    "status": "OK"
+  },
+  {
+    "address": "617 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4213028,
+    "longitude": -119.6942616,
+    "status": "OK"
+  },
+  {
+    "address": "531 E Ortega St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4249716,
+    "longitude": -119.6918308,
+    "status": "OK"
+  },
+  {
+    "address": "100 Castillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4088977,
+    "longitude": -119.6949468,
+    "status": "OK"
+  },
+  {
+    "address": "501 Ninos Dr, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4196146,
+    "longitude": -119.6695405,
+    "status": "OK"
+  },
+  {
+    "address": "300 Sumida Gardens Ln, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4341608,
+    "longitude": -119.8140469,
+    "status": "OK"
+  },
+  {
+    "address": "1400 Santa Barbara St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4284447,
+    "longitude": -119.7054321,
+    "status": "OK"
+  },
+  {
+    "address": "6586 Picasso Rd, Goleta, CA 93117, USA",
+    "latitude": 34.415411,
+    "longitude": -119.8582715,
+    "status": "OK"
+  },
+  {
+    "address": "28E W Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4216236,
+    "longitude": -119.699774,
+    "status": "OK"
+  },
+  {
+    "address": "915 N Milpas St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4302422,
+    "longitude": -119.6911333,
+    "status": "OK"
+  },
+  {
+    "address": "1136 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.42714,
+    "longitude": -119.6793985,
+    "status": "OK"
+  },
+  {
+    "address": "816 Cacique Street, Santa Barbara, CA 93103, USA",
+    "latitude": 34.418806,
+    "longitude": -119.6764819,
+    "status": "OK"
+  },
+  {
+    "address": "535 E Yanonali St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4191537,
+    "longitude": -119.6845892,
+    "status": "OK"
+  },
+  {
+    "address": "345 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4446513,
+    "longitude": -119.7811167,
+    "status": "OK"
+  },
+  {
+    "address": "931 Walnut Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3969372,
+    "longitude": -119.5170085,
+    "status": "OK"
+  },
+  {
+    "address": "301 N R St, Lompoc, CA 93436, USA",
+    "latitude": 34.6429463,
+    "longitude": -120.4710007,
+    "status": "OK"
+  },
+  {
+    "address": "401 W Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943892,
+    "longitude": -120.441023,
+    "status": "OK"
+  },
+  {
+    "address": "2115 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9226316,
+    "longitude": -120.4301273,
+    "status": "OK"
+  },
+  {
+    "address": "518 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4210323,
+    "longitude": -119.6922554,
+    "status": "OK"
+  },
+  {
+    "address": "3435 Santa Maria Way, Santa Maria, CA 93455, USA",
+    "latitude": 34.8956766,
+    "longitude": -120.4236026,
+    "status": "OK"
+  },
+  {
+    "address": "1775 S Thornburg St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9281346,
+    "longitude": -120.4411711,
+    "status": "OK"
+  },
+  {
+    "address": "628 W Micheltorena St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41923269999999,
+    "longitude": -119.7160533,
+    "status": "OK"
+  },
+  {
+    "address": "300 N San Antonio Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4437825,
+    "longitude": -119.7809529,
+    "status": "OK"
+  },
+  {
+    "address": "300 N San Antonio Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4437825,
+    "longitude": -119.7809529,
+    "status": "OK"
+  },
+  {
+    "address": "923 N Milpas St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4303448,
+    "longitude": -119.6912357,
+    "status": "OK"
+  },
+  {
+    "address": "164 Kinman Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4362745,
+    "longitude": -119.8219824,
+    "status": "OK"
+  },
+  {
+    "address": "2548 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9135823,
+    "longitude": -120.4344578,
+    "status": "OK"
+  },
+  {
+    "address": "3010 Skyway Dr F, Santa Maria, CA 93455, USA",
+    "latitude": 34.9052999,
+    "longitude": -120.4516143,
+    "status": "OK"
+  },
+  {
+    "address": "808 Laguna St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4241506,
+    "longitude": -119.6948421,
+    "status": "OK"
+  },
+  {
+    "address": "2620 Santa Maria Way, Santa Maria, CA 93455, USA",
+    "latitude": 34.912596,
+    "longitude": -120.4347729,
+    "status": "OK"
+  },
+  {
+    "address": "425 E Cota St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42304,
+    "longitude": -119.6915156,
+    "status": "OK"
+  },
+  {
+    "address": "267 Campodonico Ave, Guadalupe, CA 93434, USA",
+    "latitude": 34.9611702,
+    "longitude": -120.575554,
+    "status": "OK"
+  },
+  {
+    "address": "933 Patterson Rd, Orcutt, CA 93455, USA",
+    "latitude": 34.8689976,
+    "longitude": -120.4227698,
+    "status": "OK"
+  },
+  {
+    "address": "420 Soares Ave, Orcutt, CA 93455, USA",
+    "latitude": 34.8616675,
+    "longitude": -120.4432119,
+    "status": "OK"
+  },
+  {
+    "address": "966 W Orchard St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9659339,
+    "longitude": -120.4493102,
+    "status": "OK"
+  },
+  {
+    "address": "324 N Suey Rd, Santa Maria, CA 93454, USA",
+    "latitude": 34.9559979,
+    "longitude": -120.4085294,
+    "status": "OK"
+  },
+  {
+    "address": "4681 11th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9733403,
+    "longitude": -120.5723618,
+    "status": "OK"
+  },
+  {
+    "address": "1020 Escalante St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9688295,
+    "longitude": -120.5652577,
+    "status": "OK"
+  },
+  {
+    "address": "3303 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.439471,
+    "longitude": -119.735003,
+    "status": "OK"
+  },
+  {
+    "address": "234 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4444764,
+    "longitude": -119.7787398,
+    "status": "OK"
+  },
+  {
+    "address": "2125 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9216926,
+    "longitude": -120.4290115,
+    "status": "OK"
+  },
+  {
+    "address": "400 N McClelland St, Santa Maria, CA 93454, USA",
+    "latitude": 34.95668260000001,
+    "longitude": -120.4340595,
+    "status": "OK"
+  },
+  {
+    "address": "4681 11th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9733403,
+    "longitude": -120.5723618,
+    "status": "OK"
+  },
+  {
+    "address": "5638 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4360312,
+    "longitude": -119.8217111,
+    "status": "OK"
+  },
+  {
+    "address": "5681 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.434251,
+    "longitude": -119.823546,
+    "status": "OK"
+  },
+  {
+    "address": "1265 W McCoy Ln, Santa Maria, CA 93455, USA",
+    "latitude": 34.9172301,
+    "longitude": -120.4570958,
+    "status": "OK"
+  },
+  {
+    "address": "5679 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4350802,
+    "longitude": -119.8231651,
+    "status": "OK"
+  },
+  {
+    "address": "311 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9502894,
+    "longitude": -120.4363261,
+    "status": "OK"
+  },
+  {
+    "address": "941 Walnut Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.397271,
+    "longitude": -119.5171604,
+    "status": "OK"
+  },
+  {
+    "address": "5201 8th St, Carpinteria, CA 93013, USA",
+    "latitude": 34.3954027,
+    "longitude": -119.5183297,
+    "status": "OK"
+  },
+  {
+    "address": "429 N San Antonio Rd, Goleta, CA 93110, USA",
+    "latitude": 34.4460677,
+    "longitude": -119.7807625,
+    "status": "OK"
+  },
+  {
+    "address": "721 E Cota St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4264263,
+    "longitude": -119.68851,
+    "status": "OK"
+  },
+  {
+    "address": "4202 Calle Real, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4414094,
+    "longitude": -119.7635063,
+    "status": "OK"
+  },
+  {
+    "address": "809 N Broadway, Santa Maria, CA 93456, USA",
+    "latitude": 34.9606771,
+    "longitude": -120.4362132,
+    "status": "OK"
+  },
+  {
+    "address": "401 Morrison Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.943136,
+    "longitude": -120.440282,
+    "status": "OK"
+  },
+  {
+    "address": "721 Laguna St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42334719999999,
+    "longitude": -119.6946725,
+    "status": "OK"
+  },
+  {
+    "address": "1232 De La Vina St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4221715,
+    "longitude": -119.7076445,
+    "status": "OK"
+  },
+  {
+    "address": "1136 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.42714,
+    "longitude": -119.6793985,
+    "status": "OK"
+  },
+  {
+    "address": "2115 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4319188,
+    "longitude": -119.7167059,
+    "status": "OK"
+  },
+  {
+    "address": "629 Coronel Pl, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4095616,
+    "longitude": -119.7029127,
+    "status": "OK"
+  },
+  {
+    "address": "130 W Cota St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4160978,
+    "longitude": -119.6991167,
+    "status": "OK"
+  },
+  {
+    "address": "120 W Chestnut Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6420534,
+    "longitude": -120.4588509,
+    "status": "OK"
+  },
+  {
+    "address": "401 W Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6392374,
+    "longitude": -120.4618885,
+    "status": "OK"
+  },
+  {
+    "address": "640 N Q St, Lompoc, CA 93436, USA",
+    "latitude": 34.6479806,
+    "longitude": -120.4688913,
+    "status": "OK"
+  },
+  {
+    "address": "1120 W Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6380651,
+    "longitude": -120.4714957,
+    "status": "OK"
+  },
+  {
+    "address": "125 S 7th St, Lompoc, CA 93436, USA",
+    "latitude": 34.6380714,
+    "longitude": -120.4404981,
+    "status": "OK"
+  },
+  {
+    "address": "648 N G St, Lompoc, CA 93436, USA",
+    "latitude": 34.6478312,
+    "longitude": -120.4563083,
+    "status": "OK"
+  },
+  {
+    "address": "120 W Maple Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6452402,
+    "longitude": -120.4586709,
+    "status": "OK"
+  },
+  {
+    "address": "228 S I St, Lompoc, CA 93436, USA",
+    "latitude": 34.6361976,
+    "longitude": -120.4588938,
+    "status": "OK"
+  },
+  {
+    "address": "1316 E Oak Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6514326,
+    "longitude": -120.4415692,
+    "status": "OK"
+  },
+  {
+    "address": "120 W Chestnut Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6420534,
+    "longitude": -120.4588509,
+    "status": "OK"
+  },
+  {
+    "address": "595 2nd St, Buellton, CA 93427, USA",
+    "latitude": 34.6212071,
+    "longitude": -120.2069967,
+    "status": "OK"
+  },
+  {
+    "address": "7670-7432 Cuyama Hwy, New Cuyama, CA 93254, USA",
+    "latitude": 34.9435615,
+    "longitude": -119.6751785,
+    "status": "OK"
+  },
+  {
+    "address": "4545 10th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9709849,
+    "longitude": -120.5702261,
+    "status": "OK"
+  },
+  {
+    "address": "120 Tognazzini Ave, Guadalupe, CA 93434, USA",
+    "latitude": 34.9580427,
+    "longitude": -120.5763408,
+    "status": "OK"
+  },
+  {
+    "address": "420 Soares Ave, Orcutt, CA 93455, USA",
+    "latitude": 34.8616675,
+    "longitude": -120.4432119,
+    "status": "OK"
+  },
+  {
+    "address": "500 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.880679,
+    "longitude": -120.4421543,
+    "status": "OK"
+  },
+  {
+    "address": "510 W Park Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.944538,
+    "longitude": -120.4420286,
+    "status": "OK"
+  },
+  {
+    "address": "1000 N Railroad Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.9630269,
+    "longitude": -120.443747,
+    "status": "OK"
+  },
+  {
+    "address": "1240 Bethel Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9263742,
+    "longitude": -120.4548457,
+    "status": "OK"
+  },
+  {
+    "address": "1890 Sandalwood Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.8953846,
+    "longitude": -120.4819796,
+    "status": "OK"
+  },
+  {
+    "address": "1002 Sierra Madre Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.93993870000001,
+    "longitude": -120.4204814,
+    "status": "OK"
+  },
+  {
+    "address": "201 Chapel St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9537415,
+    "longitude": -120.4335035,
+    "status": "OK"
+  },
+  {
+    "address": "1720 S Depot St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9293548,
+    "longitude": -120.4440446,
+    "status": "OK"
+  },
+  {
+    "address": "530 E Enos Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9336272,
+    "longitude": -120.4286964,
+    "status": "OK"
+  },
+  {
+    "address": "1026 W Boone St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9466589,
+    "longitude": -120.4497603,
+    "status": "OK"
+  },
+  {
+    "address": "219 Chapel St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9540002,
+    "longitude": -120.4333671,
+    "status": "OK"
+  },
+  {
+    "address": "400 W Park Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.9443253,
+    "longitude": -120.4410066,
+    "status": "OK"
+  },
+  {
+    "address": "E McElhaney Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.961874,
+    "longitude": -120.422779,
+    "status": "OK"
+  },
+  {
+    "address": "500 Windsor St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9362686,
+    "longitude": -120.4426494,
+    "status": "OK"
+  },
+  {
+    "address": "201 Chapel St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9537415,
+    "longitude": -120.4335035,
+    "status": "OK"
+  },
+  {
+    "address": "122 W Figueroa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4208411,
+    "longitude": -119.7052058,
+    "status": "OK"
+  },
+  {
+    "address": "4141 State St, Goleta, CA 93110, USA",
+    "latitude": 34.4403635,
+    "longitude": -119.7614373,
+    "status": "OK"
+  },
+  {
+    "address": "124 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.92424889999999,
+    "longitude": -120.4378114,
+    "status": "OK"
+  },
+  {
+    "address": "36 Hitchcock Way, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4378195,
+    "longitude": -119.7453265,
+    "status": "OK"
+  },
+  {
+    "address": "1303 Fairway Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.9140442,
+    "longitude": -120.4585809,
+    "status": "OK"
+  },
+  {
+    "address": "5399 Overpass Rd, Goleta, CA 93111, USA",
+    "latitude": 34.4396665,
+    "longitude": -119.8129839,
+    "status": "OK"
+  },
+  {
+    "address": "400 E Boone St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9463868,
+    "longitude": -120.4306994,
+    "status": "OK"
+  },
+  {
+    "address": "5960 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4363865,
+    "longitude": -119.8299475,
+    "status": "OK"
+  },
+  {
+    "address": "5624 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4359669,
+    "longitude": -119.8212137,
+    "status": "OK"
+  },
+  {
+    "address": "5949 Hollister Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4357496,
+    "longitude": -119.8298499,
+    "status": "OK"
+  },
+  {
+    "address": "5156 Hollister Ave, Santa Barbara, CA 93111, USA",
+    "latitude": 34.4368694,
+    "longitude": -119.8036309,
+    "status": "OK"
+  },
+  {
+    "address": "302 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4182497,
+    "longitude": -119.7057036,
+    "status": "OK"
+  },
+  {
+    "address": "5048 El Carro Ln, Carpinteria, CA 93013, USA",
+    "latitude": 34.4049902,
+    "longitude": -119.5148946,
+    "status": "OK"
+  },
+  {
+    "address": "771 Linden Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3975979,
+    "longitude": -119.5205227,
+    "status": "OK"
+  },
+  {
+    "address": "5406 Carpinteria Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.3953777,
+    "longitude": -119.5136408,
+    "status": "OK"
+  },
+  {
+    "address": "700 N Milpas St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4285301,
+    "longitude": -119.6877883,
+    "status": "OK"
+  },
+  {
+    "address": "400 E Boone St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9463868,
+    "longitude": -120.4306994,
+    "status": "OK"
+  },
+  {
+    "address": "2050 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9230876,
+    "longitude": -120.4356303,
+    "status": "OK"
+  },
+  {
+    "address": "201 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9515682,
+    "longitude": -120.431754,
+    "status": "OK"
+  },
+  {
+    "address": "201 Miller St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9515682,
+    "longitude": -120.431754,
+    "status": "OK"
+  },
+  {
+    "address": "415 E Chapel St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9546372,
+    "longitude": -120.4307444,
+    "status": "OK"
+  },
+  {
+    "address": "210 E Enos Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9332895,
+    "longitude": -120.4344578,
+    "status": "OK"
+  },
+  {
+    "address": "1410 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9359995,
+    "longitude": -120.4344128,
+    "status": "OK"
+  },
+  {
+    "address": "800 S College Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9438546,
+    "longitude": -120.4214254,
+    "status": "OK"
+  },
+  {
+    "address": "2323 Thompson Way, Santa Maria, CA 93455, USA",
+    "latitude": 34.9180967,
+    "longitude": -120.4556558,
+    "status": "OK"
+  },
+  {
+    "address": "2125 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9216926,
+    "longitude": -120.4290115,
+    "status": "OK"
+  },
+  {
+    "address": "902 Laguna St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42512749999999,
+    "longitude": -119.6961211,
+    "status": "OK"
+  },
+  {
+    "address": "2436 Professional Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9154583,
+    "longitude": -120.4381486,
+    "status": "OK"
+  },
+  {
+    "address": "511 Lakeside Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9231692,
+    "longitude": -120.4283363,
+    "status": "OK"
+  },
+  {
+    "address": "People's Park, Isla Vista, CA 93117, USA",
+    "latitude": 34.4116806,
+    "longitude": -119.8559362,
+    "status": "OK"
+  },
+  {
+    "address": "315 Meigs Rd, Santa Barbara, CA 93109, USA",
+    "latitude": 34.40061,
+    "longitude": -119.7225147,
+    "status": "OK"
+  },
+  {
+    "address": "3400 Skyway Dr, Orcutt, CA 93455, USA",
+    "latitude": 34.8984234,
+    "longitude": -120.4430544,
+    "status": "OK"
+  },
+  {
+    "address": "4400 Cathedral Oaks Rd, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4520596,
+    "longitude": -119.769815,
+    "status": "OK"
+  },
+  {
+    "address": "1400 Santa Barbara St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4284447,
+    "longitude": -119.7054321,
+    "status": "OK"
+  },
+  {
+    "address": "1687 W Stowell Rd, Santa Maria, CA 93458, USA",
+    "latitude": 34.9389209,
+    "longitude": -120.475242,
+    "status": "OK"
+  },
+  {
+    "address": "1844 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9736747,
+    "longitude": -120.4340077,
+    "status": "OK"
+  },
+  {
+    "address": "613 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9535008,
+    "longitude": -120.4277961,
+    "status": "OK"
+  },
+  {
+    "address": "3249 Terminal Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.8986493,
+    "longitude": -120.4471275,
+    "status": "OK"
+  },
+  {
+    "address": "306 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.955768,
+    "longitude": -120.435448,
+    "status": "OK"
+  },
+  {
+    "address": "605 W Main St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9534939,
+    "longitude": -120.443251,
+    "status": "OK"
+  },
+  {
+    "address": "215 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9534381,
+    "longitude": -120.4333606,
+    "status": "OK"
+  },
+  {
+    "address": "1539 Stowell, C St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9330594,
+    "longitude": -120.4376287,
+    "status": "OK"
+  },
+  {
+    "address": "1765 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9284434,
+    "longitude": -120.4365057,
+    "status": "OK"
+  },
+  {
+    "address": "2414 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9162067,
+    "longitude": -120.4359127,
+    "status": "OK"
+  },
+  {
+    "address": "2512 S Broadway, Santa Maria, CA 93455, USA",
+    "latitude": 34.9145769,
+    "longitude": -120.434427,
+    "status": "OK"
+  },
+  {
+    "address": "393 Alisal Rd, Solvang, CA 93463, USA",
+    "latitude": 34.5930522,
+    "longitude": -120.1396466,
+    "status": "OK"
+  },
+  {
+    "address": "3400 Skyway Dr, Orcutt, CA 93455, USA",
+    "latitude": 34.8984234,
+    "longitude": -120.4430544,
+    "status": "OK"
+  },
+  {
+    "address": "234 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4444764,
+    "longitude": -119.7787398,
+    "status": "OK"
+  },
+  {
+    "address": "1100 W Laurel Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6430309,
+    "longitude": -120.4714057,
+    "status": "OK"
+  },
+  {
+    "address": "2125 Centerpointe Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9216926,
+    "longitude": -120.4290115,
+    "status": "OK"
+  },
+  {
+    "address": "301 W Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.417346,
+    "longitude": -119.7039968,
+    "status": "OK"
+  },
+  {
+    "address": "120 Jones St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9457167,
+    "longitude": -120.4353586,
+    "status": "OK"
+  },
+  {
+    "address": "601 E Montecito St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4216815,
+    "longitude": -119.6862934,
+    "status": "OK"
+  },
+  {
+    "address": "935 San Andres St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.412851,
+    "longitude": -119.709986,
+    "status": "OK"
+  },
+  {
+    "address": "116 Palisade Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.952412,
+    "longitude": -120.4111855,
+    "status": "OK"
+  },
+  {
+    "address": "200 W Cook St, Santa Maria, CA 93458, USA",
+    "latitude": 34.949625,
+    "longitude": -120.4378785,
+    "status": "OK"
+  },
+  {
+    "address": "1000 N Railroad Ave, Santa Maria, CA 93458, USA",
+    "latitude": 34.9630269,
+    "longitude": -120.443747,
+    "status": "OK"
+  },
+  {
+    "address": "3486 Orcutt Rd, Orcutt, CA 93455, USA",
+    "latitude": 34.8962116,
+    "longitude": -120.4358127,
+    "status": "OK"
+  },
+  {
+    "address": "1409 Castillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4211167,
+    "longitude": -119.7120391,
+    "status": "OK"
+  },
+  {
+    "address": "15 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4162699,
+    "longitude": -119.6961386,
+    "status": "OK"
+  },
+  {
+    "address": "125 W Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.41944170000001,
+    "longitude": -119.7034861,
+    "status": "OK"
+  },
+  {
+    "address": "47 Broadmoor Plaza, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4385987,
+    "longitude": -119.7372765,
+    "status": "OK"
+  },
+  {
+    "address": "514 E Sola St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4308303,
+    "longitude": -119.7007708,
+    "status": "OK"
+  },
+  {
+    "address": "520 W Sola St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4195546,
+    "longitude": -119.7135299,
+    "status": "OK"
+  },
+  {
+    "address": "2483 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4352226,
+    "longitude": -119.7212201,
+    "status": "OK"
+  },
+  {
+    "address": "821 Bath St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4166796,
+    "longitude": -119.7036219,
+    "status": "OK"
+  },
+  {
+    "address": "933 San Pascual St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4147384,
+    "longitude": -119.7090236,
+    "status": "OK"
+  },
+  {
+    "address": "212 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9246367,
+    "longitude": -120.4383286,
+    "status": "OK"
+  },
+  {
+    "address": "625 Coronel Pl, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4093412,
+    "longitude": -119.7029883,
+    "status": "OK"
+  },
+  {
+    "address": "627 Coronel Pl, Santa Barbara, CA 93101, USA",
+    "latitude": 34.409324,
+    "longitude": -119.7033504,
+    "status": "OK"
+  },
+  {
+    "address": "59 Nectarine Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4379462,
+    "longitude": -119.8269858,
+    "status": "OK"
+  },
+  {
+    "address": "65 Nectarine Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4377846,
+    "longitude": -119.8269023,
+    "status": "OK"
+  },
+  {
+    "address": "4667 Carpinteria Ave, Carpinteria, CA 93013, USA",
+    "latitude": 34.401338,
+    "longitude": -119.523217,
+    "status": "OK"
+  },
+  {
+    "address": "225 Inger Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9267895,
+    "longitude": -120.4347053,
+    "status": "OK"
+  },
+  {
+    "address": "215 W Main St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9534437,
+    "longitude": -120.4381599,
+    "status": "OK"
+  },
+  {
+    "address": "1259 Veronica Springs Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.418525,
+    "longitude": -119.7420141,
+    "status": "OK"
+  },
+  {
+    "address": "1024 Casitas Pass Rd, Carpinteria, CA 93013, USA",
+    "latitude": 34.3949869,
+    "longitude": -119.5117225,
+    "status": "OK"
+  },
+  {
+    "address": "1660 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9300936,
+    "longitude": -120.4352005,
+    "status": "OK"
+  },
+  {
+    "address": "203 S N St, Lompoc, CA 93436, USA",
+    "latitude": 34.6372069,
+    "longitude": -120.4658484,
+    "status": "OK"
+  },
+  {
+    "address": "1026 Sierra Madre Ave, Santa Maria, CA 93454, USA",
+    "latitude": 34.9397081,
+    "longitude": -120.4198287,
+    "status": "OK"
+  },
+  {
+    "address": "5575 Armitos Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4381766,
+    "longitude": -119.819518,
+    "status": "OK"
+  },
+  {
+    "address": "131 S Kellogg Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4372066,
+    "longitude": -119.8207841,
+    "status": "OK"
+  },
+  {
+    "address": "2020 Alameda Padre Serra, Santa Barbara, CA 93103, USA",
+    "latitude": 34.4390701,
+    "longitude": -119.704901,
+    "status": "OK"
+  },
+  {
+    "address": "3891 State St, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4401136,
+    "longitude": -119.7506709,
+    "status": "OK"
+  },
+  {
+    "address": "119 N D St, Lompoc, CA 93436, USA",
+    "latitude": 34.6397537,
+    "longitude": -120.4530231,
+    "status": "OK"
+  },
+  {
+    "address": "115 E College Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6475392,
+    "longitude": -120.4568708,
+    "status": "OK"
+  },
+  {
+    "address": "301 W Figueroa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4190091,
+    "longitude": -119.7065476,
+    "status": "OK"
+  },
+  {
+    "address": "1209 State St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4233419,
+    "longitude": -119.7051606,
+    "status": "OK"
+  },
+  {
+    "address": "709 N Curryer St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9596079,
+    "longitude": -120.4419292,
+    "status": "OK"
+  },
+  {
+    "address": "1401 Chapala St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4241767,
+    "longitude": -119.7083578,
+    "status": "OK"
+  },
+  {
+    "address": "901 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9615857,
+    "longitude": -120.4359656,
+    "status": "OK"
+  },
+  {
+    "address": "234 S N St, Lompoc, CA 93436, USA",
+    "latitude": 34.6368205,
+    "longitude": -120.4649489,
+    "status": "OK"
+  },
+  {
+    "address": "1400 E Church St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9509201,
+    "longitude": -120.4131853,
+    "status": "OK"
+  },
+  {
+    "address": "Isla Vista, CA 93117, USA",
+    "latitude": 34.4133593,
+    "longitude": -119.8484108,
+    "status": "OK"
+  },
+  {
+    "address": "721 Cliff Dr, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4060713,
+    "longitude": -119.6990924,
+    "status": "OK"
+  },
+  {
+    "address": "118 E Figueroa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.423745,
+    "longitude": -119.7013053,
+    "status": "OK"
+  },
+  {
+    "address": "115 Civic Center Plaza, Lompoc, CA 93436, USA",
+    "latitude": 34.637649,
+    "longitude": -120.453174,
+    "status": "OK"
+  },
+  {
+    "address": "312 E Cook St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9492102,
+    "longitude": -120.4322973,
+    "status": "OK"
+  },
+  {
+    "address": "Santa Maria, CA, USA",
+    "latitude": 34.9530337,
+    "longitude": -120.4357191,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "401 E Cypress Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6374781,
+    "longitude": -120.4538106,
+    "status": "OK"
+  },
+  {
+    "address": "624 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8824323,
+    "longitude": -120.4444496,
+    "status": "OK"
+  },
+  {
+    "address": "1410 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9359995,
+    "longitude": -120.4344128,
+    "status": "OK"
+  },
+  {
+    "address": "201 E Battles Rd, Santa Maria, CA 93454, USA",
+    "latitude": 34.93216160000001,
+    "longitude": -120.4343284,
+    "status": "OK"
+  },
+  {
+    "address": "720 El Camino St, Santa Maria, CA 93458, USA",
+    "latitude": 34.95865879999999,
+    "longitude": -120.4445185,
+    "status": "OK"
+  },
+  {
+    "address": "790 E Santa Clara St, Ventura, CA 93001, USA",
+    "latitude": 34.2793899,
+    "longitude": -119.2888667,
+    "status": "OK"
+  },
+  {
+    "address": "1030 Southwood Dr, San Luis Obispo, CA 93401, USA",
+    "latitude": 35.2663584,
+    "longitude": -120.6425974,
+    "status": "OK"
+  },
+  {
+    "address": "4440 Calle Real, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4432747,
+    "longitude": -119.7785577,
+    "status": "OK"
+  },
+  {
+    "address": "1550 E Main St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9515046,
+    "longitude": -120.4096549,
+    "status": "OK"
+  },
+  {
+    "address": "801 Seneca St, Ventura, CA 93001, USA",
+    "latitude": 34.308031,
+    "longitude": -119.2836927,
+    "status": "OK"
+  },
+  {
+    "address": "400 W Church St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9517476,
+    "longitude": -120.440669,
+    "status": "OK"
+  },
+  {
+    "address": "320 E Gutierrez St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4194413,
+    "longitude": -119.6899138,
+    "status": "OK"
+  },
+  {
+    "address": "1660 S Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9300936,
+    "longitude": -120.4352005,
+    "status": "OK"
+  },
+  {
+    "address": "324 E Carrillo St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4251406,
+    "longitude": -119.6975677,
+    "status": "OK"
+  },
+  {
+    "address": "212 Carmen Ln, Santa Maria, CA 93458, USA",
+    "latitude": 34.9246367,
+    "longitude": -120.4383286,
+    "status": "OK"
+  },
+  {
+    "address": "315 Camino del Remedio, Santa Barbara, CA 93110, USA",
+    "latitude": 34.44415840000001,
+    "longitude": -119.7806479,
+    "status": "OK"
+  },
+  {
+    "address": "500 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.880679,
+    "longitude": -120.4421543,
+    "status": "OK"
+  },
+  {
+    "address": "429 N San Antonio Rd, Goleta, CA 93110, USA",
+    "latitude": 34.4460677,
+    "longitude": -119.7807625,
+    "status": "OK"
+  },
+  {
+    "address": "401 E Ocean Ave, Lompoc, CA 93436, USA",
+    "latitude": 34.6393328,
+    "longitude": -120.4536981,
+    "status": "OK"
+  },
+  {
+    "address": "923 Olive St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4262495,
+    "longitude": -119.6959039,
+    "status": "OK"
+  },
+  {
+    "address": "111 E Arrellaga St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4287484,
+    "longitude": -119.7083257,
+    "status": "OK"
+  },
+  {
+    "address": "889 Camino Del Sur, Goleta, CA 93117, USA",
+    "latitude": 34.41323879999999,
+    "longitude": -119.8628734,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4257807,
+    "longitude": -119.7003978,
+    "status": "OK"
+  },
+  {
+    "address": "232 E Canon Perdido St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4233482,
+    "longitude": -119.6972533,
+    "status": "OK"
+  },
+  {
+    "address": "1111 Garden St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4257807,
+    "longitude": -119.7003978,
+    "status": "OK"
+  },
+  {
+    "address": "1290 De La Vina St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4222546,
+    "longitude": -119.7078613,
+    "status": "OK"
+  },
+  {
+    "address": "123 W Gutierrez St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4139651,
+    "longitude": -119.6959475,
+    "status": "OK"
+  },
+  {
+    "address": "105 N Lincoln St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9535836,
+    "longitude": -120.4376985,
+    "status": "OK"
+  },
+  {
+    "address": "101 S B St, Lompoc, CA 93436, USA",
+    "latitude": 34.6386291,
+    "longitude": -120.4504804,
+    "status": "OK"
+  },
+  {
+    "address": "646 N H St, Lompoc, CA 93436, USA",
+    "latitude": 34.6487081,
+    "longitude": -120.4568996,
+    "status": "OK"
+  },
+  {
+    "address": "648 E Enos Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9338088,
+    "longitude": -120.4272222,
+    "status": "OK"
+  },
+  {
+    "address": "5201 8th St, Carpinteria, CA 93013, USA",
+    "latitude": 34.3954027,
+    "longitude": -119.5183297,
+    "status": "OK"
+  },
+  {
+    "address": "4681 11th St, Guadalupe, CA 93434, USA",
+    "latitude": 34.9733403,
+    "longitude": -120.5723618,
+    "status": "OK"
+  },
+  {
+    "address": "2560 Skyway Dr, Santa Maria, CA 93455, USA",
+    "latitude": 34.912813,
+    "longitude": -120.452924,
+    "status": "OK"
+  },
+  {
+    "address": "4893 Bethany Ln, Santa Maria, CA 93455, USA",
+    "latitude": 34.8659806,
+    "longitude": -120.4337376,
+    "status": "OK"
+  },
+  {
+    "address": "941 W Foster Rd, Santa Maria, CA 93455, USA",
+    "latitude": 34.8836537,
+    "longitude": -120.4522213,
+    "status": "OK"
+  },
+  {
+    "address": "675 Panther Dr, Santa Maria, CA 93454, USA",
+    "latitude": 34.9569224,
+    "longitude": -120.4019115,
+    "status": "OK"
+  },
+  {
+    "address": "901 N Broadway, Santa Maria, CA 93454, USA",
+    "latitude": 34.9615857,
+    "longitude": -120.4359656,
+    "status": "OK"
+  },
+  {
+    "address": "632 E Canon Perdido St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.427523,
+    "longitude": -119.6927828,
+    "status": "OK"
+  },
+  {
+    "address": "120 Jones St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9457167,
+    "longitude": -120.4353586,
+    "status": "OK"
+  },
+  {
+    "address": "1219 State St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.423578,
+    "longitude": -119.7053494,
+    "status": "OK"
+  },
+  {
+    "address": "315 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4129015,
+    "longitude": -119.6989213,
+    "status": "OK"
+  },
+  {
+    "address": "2450 Professional Pkwy, Santa Maria, CA 93455, USA",
+    "latitude": 34.9150672,
+    "longitude": -120.4381486,
+    "status": "OK"
+  },
+  {
+    "address": "902 Laguna St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.42512749999999,
+    "longitude": -119.6961211,
+    "status": "OK"
+  },
+  {
+    "address": "315 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4129015,
+    "longitude": -119.6989213,
+    "status": "OK"
+  },
+  {
+    "address": "320 Laguna St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4198962,
+    "longitude": -119.68912,
+    "status": "OK"
+  },
+  {
+    "address": "2253 Las Positas Rd, Santa Barbara, CA 93105, USA",
+    "latitude": 34.4267064,
+    "longitude": -119.7350551,
+    "status": "OK"
+  },
+  {
+    "address": "120 Jones St, Santa Maria, CA 93454, USA",
+    "latitude": 34.9457167,
+    "longitude": -120.4353586,
+    "status": "OK"
+  },
+  {
+    "address": "721 Cliff Dr, Santa Barbara, CA 93109, USA",
+    "latitude": 34.4059205,
+    "longitude": -119.6973208,
+    "status": "OK"
+  },
+  {
+    "address": "710 Santa Barbara St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4211365,
+    "longitude": -119.6958829,
+    "status": "OK"
+  },
+  {
+    "address": "7266 Alameda Ave, Goleta, CA 93117, USA",
+    "latitude": 34.4386217,
+    "longitude": -119.8769344,
+    "status": "OK"
+  },
+  {
+    "address": "4750 Hollister Ave, Santa Barbara, CA 93110, USA",
+    "latitude": 34.4390667,
+    "longitude": -119.7891716,
+    "status": "OK"
+  },
+  {
+    "address": "700 E Anapamu St, Santa Barbara, CA 93103, USA",
+    "latitude": 34.429467,
+    "longitude": -119.697547,
+    "status": "OK"
+  },
+  {
+    "address": "126 W Haley St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4150213,
+    "longitude": -119.6974302,
+    "status": "OK"
+  },
+  {
+    "address": "110 S Lincoln St, Santa Maria, CA 93458, USA",
+    "latitude": 34.9523254,
+    "longitude": -120.4371584,
+    "status": "OK"
+  },
+  {
+    "address": "1215 De La Vina St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4213383,
+    "longitude": -119.7077174,
+    "status": "OK"
+  },
+  {
+    "address": "7 W Figueroa St, Santa Barbara, CA 93101, USA",
+    "latitude": 34.4221206,
+    "longitude": -119.7032672,
+    "status": "OK"
+  }
+]
