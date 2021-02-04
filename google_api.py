@@ -17,7 +17,7 @@ async def get_lat_long_data():
             key: str = key_data.read()
 
             saved_json_data: List[Dict] = loads(
-                open("./locations.json").read())
+                open("./locations_2.json").read())
 
             converted_data: List[str] = list(map(
                 lambda location: f"{location['address']}, {location['city']} {location['zip']} CA USA".strip(), saved_json_data))
@@ -63,7 +63,7 @@ async def get_lat_long_data():
                     else:
                         current_list.append(translated_dict)
                         continue_calling = False
-            with open('./google_lat_long_info.json', 'w') as json_to_save:
+            with open('./google_lat_long_info_2.json', 'w') as json_to_save:
                 dump(current_list, json_to_save)
             print(f"Total Calls: {total_calls}")
 

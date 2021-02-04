@@ -20,9 +20,9 @@ try:
             if(index == 0):
                 continue
             else:
-                address_str: str = sub(
-                    r"N\s|S\s|E\s|W\s|N\.|S\.|E\.|W\.|North|South|East|West", "", page[1], 1)
-                cleaned_address: str = sub(r"\s{2,}", " ", address_str).strip()
+                # address_str: str = sub(
+                #     r"N\s|S\s|E\s|W\s|N\.|S\.|E\.|W\.|North|South|East|West", "", page[1], 1)
+                cleaned_address: str = sub(r"\s{2,}", " ", page[1]).strip()
                 location_info: Dict = {
                     city: page[0],
                     address: cleaned_address,
@@ -35,7 +35,7 @@ try:
 except Exception as error:
     print(f"#{error.__class__} occured when trying to parse the csv.")
 
-with open('locations.json', 'w') as json_to_save:
+with open('locations_2.json', 'w') as json_to_save:
     dump(list_of_locations, json_to_save)
 
 # print(len(list_of_locations))

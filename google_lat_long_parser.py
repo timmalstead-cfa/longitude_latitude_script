@@ -11,9 +11,9 @@ def parse_record(record: Dict) -> Dict:
 
 
 google_list: List[Dict] = loads(
-    open("./google_lat_long_info.json").read())
+    open("./google_lat_long_info_2.json").read())
 
 converted_list: List[Dict] = list(map(parse_record, google_list))
 
-with open('./final_lat_long.json', 'w') as json_to_save:
+with open('./final_lat_long_2.json', 'w') as json_to_save:
     dump(converted_list, json_to_save)
